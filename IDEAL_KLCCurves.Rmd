@@ -1,0 +1,324 @@
+---
+title: "Cluster curves by Technique"
+output:
+  html_document: default
+  pdf_document: default
+date: "2024-06-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+------------------------------------------------------------------------
+
+# Preliminary steps
+
+### Load necessary libraries and files
+
+#### Load libraries
+
+```{r, include=FALSE}
+# Packages that need to be loaded
+pacman::p_load(caret, citation, data.table, dplyr, earth, farff, ggpubr, ggplot2, iml, knitr, rpart, tidyverse , tidyr, xtable, factoextra, proxy, dominanceanalysis, clustertend, MASS, smacof)
+
+```
+
+#### Load files
+
+```{r, include=FALSE}
+# Load files
+test_data <- readRDS("files/clustering/test_data.rds")
+#techniques <- c("rda", "rf", "C5.0", "svmRadial", "mlpML", "naive_bayes", "knn", "gcvEarth", "simpls", "JRip") # "bayesglm", "multinom"
+techniques <- readRDS("files/method_names.rds")
+train_set <- readRDS("files/clustering/train_set.rds")
+test_set <- readRDS("files/clustering/test_set.rds")
+centroids <- readRDS("files/clustering/centroids.rds")
+kcca <- readRDS("files/clustering/kcca.rds")
+
+# Load results
+results_df <- readRDS("results/results_plot_d.rds")
+groups_df <- readRDS("files/clustering/groups.rds")
+
+```
+
+------------------------------------------------------------------------
+
+# Mean dominance curves by technique
+
+## Clusters for training set
+
+### Get the clusters for K = 6
+
+Make sure data is numeric
+
+```{r include=FALSE}
+# Make sure data is numeric
+groups_df$ID <- as.numeric(groups_df$ID)
+groups_df$hclust_4 <- as.numeric(groups_df$hclust_4)
+groups_df$hclust_5 <- as.numeric(groups_df$hclust_5)
+groups_df$hclust_6<- as.numeric(groups_df$hclust_6)
+groups_df$kmeans_4 <- as.numeric(groups_df$kmeans_4)
+groups_df$kmeans_5 <- as.numeric(groups_df$kmeans_5)
+groups_df$kmeans_6 <- as.numeric(groups_df$kmeans_6)
+groups_df$coordinate_1 <- as.numeric(groups_df$coordinate_1)
+groups_df$coordinate_2 <- as.numeric(groups_df$coordinate_2)
+
+```
+
+Get the clusters
+
+```{r include=FALSE}
+# Get the clusters
+cluster_1 <- groups_df$dataset_name[groups_df$kmeans_4 == 1]
+cluster_2 <- groups_df$dataset_name[groups_df$kmeans_4 == 2]
+cluster_3 <- groups_df$dataset_name[groups_df$kmeans_4 == 3]
+cluster_4 <- groups_df$dataset_name[groups_df$kmeans_4 == 4]
+
+```
+
+### Obtain the dataset kappa mean for each cluster
+
+```{r include=FALSE}
+# Filter data for the current dataset and method
+results_c1 <- results_df %>%
+  filter(dataset_name %in% cluster_1)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c1_means <- results_c1 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c1_means)
+
+```
+
+```{r include=FALSE}
+# Filter data for the current dataset and method
+results_c2 <- results_df %>%
+  filter(dataset_name %in% cluster_2)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c2_means <- results_c2 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c2_means)
+
+```
+
+```{r include=FALSE}
+# Filter data for the current dataset and method
+results_c3 <- results_df %>%
+  filter(dataset_name %in% cluster_3)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c3_means <- results_c3 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c3_means)
+
+```
+
+```{r include=FALSE}
+# Filter data for the current dataset and method
+results_c4 <- results_df %>%
+  filter(dataset_name %in% cluster_4)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c4_means <- results_c4 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c4_means)
+
+```
+
+```{r eval=FALSE, include=FALSE}
+# Filter data for the current dataset and method
+results_c5 <- results_df %>%
+  filter(dataset_name %in% cluster_5)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c5_means <- results_c5 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c5_means)
+
+```
+
+```{r eval=FALSE, include=FALSE}
+# Filter data for the current dataset and method
+results_c6 <- results_df %>%
+  filter(dataset_name %in% cluster_6)
+    
+# Group by number of instances and noise, then calculate mean kappa value
+c6_means <- results_c6 %>%
+  group_by(technique, noise, percentage) %>%
+  summarise(mean_kappa = mean(kappa, na.rm = TRUE)) %>%
+  ungroup()
+
+# Print the result
+#print(c6_means)
+
+```
+
+### Unify into one dataframe
+
+```{r include=FALSE}
+c1_means <- c1_means %>%
+  mutate(cluster = 1)
+
+c2_means <- c2_means %>%
+  mutate(cluster = 2)
+
+c3_means <- c3_means %>%
+  mutate(cluster = 3)
+
+c4_means <- c4_means %>%
+  mutate(cluster = 4)
+
+#c5_means <- c5_means %>%
+#  mutate(cluster = 5)
+
+#c6_means <- c6_means %>%
+#  mutate(cluster = 6)
+
+mean_results <- c1_means
+
+#left join using base R
+mean_results <- rbind(mean_results, c2_means)
+mean_results <- rbind(mean_results, c3_means)
+mean_results <- rbind(mean_results, c4_means)
+#mean_results <- rbind(mean_results, c5_means)
+#mean_results <- rbind(mean_results, c6_means)
+
+```
+
+### Plot the results
+
+```{r include=FALSE}
+plot_list <- list()
+
+```
+
+```{r}
+# Get Kappa loss in order to print Kappa Loss Curves
+# Calculate 1 - mean_kappa rounded to two decimals
+mean_results$kappa_loss <- round(1 - mean_results$mean_kappa, 3)
+
+```
+
+#### Noise 10
+
+```{r echo=TRUE}
+for(t in techniques){
+      # Filter data for the current dataset and method
+      filtered_data <- subset(mean_results, technique == t & noise == 10)
+      
+      # Create plot
+      p <- ggplot(filtered_data, aes(x = percentage, y = kappa_loss, color = factor(cluster))) +
+        geom_point() +
+        geom_line(aes(group = factor(cluster))) +
+        labs(x = "Percentage of altered instances", y = bquote(.(nabla ~ "Kappa")), " Kappa", color = "Cluster") +
+        ggtitle(paste("Technique: ", t, " Noise injected: ", 10)) +
+        theme_bw() +
+        scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.1))
+      
+      # Store plot in the list
+      plot_name <- paste(t, 10, sep = "_")
+      plot_list[[plot_name]] <- p
+      print(p)
+}
+
+```
+
+#### Noise 20
+
+```{r echo=TRUE}
+for(t in techniques){
+      # Filter data for the current dataset and method
+      filtered_data <- subset(mean_results, technique == t & noise == 20)
+      
+      # Create plot
+      p <- ggplot(filtered_data, aes(x = percentage, y = kappa_loss, color = factor(cluster))) +
+        geom_point() +
+        geom_line(aes(group = factor(cluster))) +
+        labs(x = "Percentage of altered instances", y = bquote(.(nabla ~ "Kappa")), " Kappa", color = "Cluster") +
+        ggtitle(paste("Technique: ", t, " Noise injected: ", 20)) +
+        theme_bw() +
+        scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.1))
+      
+      # Store plot in the list
+      plot_name <- paste(t, 20, sep = "_")
+      plot_list[[plot_name]] <- p
+      print(p)
+}
+
+```
+
+#### Noise 30
+
+```{r echo=TRUE}
+for(t in techniques){
+      # Filter data for the current dataset and method
+      filtered_data <- subset(mean_results, technique == t & noise == 30)
+      
+      # Create plot
+      p <- ggplot(filtered_data, aes(x = percentage, y = kappa_loss, color = factor(cluster))) +
+        geom_point() +
+        geom_line(aes(group = factor(cluster))) +
+        labs(x = "Percentage of altered instances", y = bquote(.(nabla ~ "Kappa")), " Kappa", color = "Cluster") +
+        ggtitle(paste("Technique: ", t, " Noise injected: ", 30)) +
+        theme_bw() +
+        scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.1))
+      
+      # Store plot in the list
+      plot_name <- paste(t, 30, sep = "_")
+      plot_list[[plot_name]] <- p
+      print(p)
+}
+
+```
+
+## Save all plots
+
+```{r include=FALSE}
+saveRDS(plot_list, file = "files/clustering/plots.rds")
+
+```
+
+```{r eval=FALSE, include=FALSE}
+for(t in techniques){
+    # Filter data for the current dataset and method
+    filtered_data <- subset(mean_results, cluster == "1" & technique == t & noise == 30)
+    
+    # Create plot
+    p <- ggplot(filtered_data, aes(x = percentage, y = kappa_loss, color = factor(cluster))) +
+        geom_point() +
+        geom_line(aes(group = factor(cluster))) +
+        geom_hline(yintercept = 0.05, linetype = "dotted", color = "blue") +  # Add dotted line at kappa_loss = 5
+        labs(x = "Percentage of altered instances", y = bquote(.(nabla ~ "Kappa")), " Kappa", color = "Cluster") +
+        ggtitle(paste("Technique: ", t, " Noise injected: ", 30)) +
+        theme_bw() +
+        scale_y_continuous(limits = c(0.0, 0.5), breaks = seq(0, 1, by = 0.1))
+    
+    # Store plot in the list
+    plot_name <- paste(t, 30, sep = "_")
+    plot_list[[plot_name]] <- p
+    print(p)
+}
+
+```
