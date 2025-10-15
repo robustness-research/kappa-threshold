@@ -1,0 +1,231 @@
+---
+title: "Kappa Threshold Analysis"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+    highlight: pygments
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
+                      fig.width = 10, fig.height = 7)
+
+# Load required packages
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+library(DT)
+library(viridis)
+library(patchwork)
+library(knitr)
+```
+
+Script to visualize the results from `kappa_loss_analysis.R`.
+
+# Data
+
+```{r data}
+# Load data
+results <- read.csv("../results/threshold_instances_results.csv", stringsAsFactors = FALSE)
+klc_data <- readRDS("../results/KLC_plot_deciles.rds")
+
+# Clean up data
+results$critical_percentage <- as.numeric(as.character(results$critical_percentage))
+results$kappa_at_critical <- as.numeric(as.character(results$kappa_at_critical))
+klc_data <- klc_data %>%
+  filter(noise %in% c(10, 20, 30)) %>%
+  select(-c(accuracy, kappa, dataset_order, method_order))
+```
+
+# Summary Statistics
+
+```{r summary}
+# Display the raw data from CSV
+kable(head(results, 20), caption = "Raw Data from threshold_results.csv (First 20 Rows)")
+
+# Create interactive table of the full dataset
+datatable(results,
+          options = list(
+            pageLength = 10,
+            scrollX = TRUE,
+            dom = 'Bfrtip',
+            buttons = c('copy', 'csv', 'excel')
+          ),
+          extensions = 'Buttons',
+          caption = "Complete Raw Data from threshold_results.csv")
+
+# Summary statistics by threshold level
+threshold_summary <- results %>%
+  group_by(threshold) %>%
+  summarise(
+    mean_critical = mean(critical_percentage, na.rm = TRUE),
+    median_critical = median(critical_percentage, na.rm = TRUE),
+  )
+
+kable(threshold_summary, caption = "Summary of Critical Percentages by Threshold Level")
+
+# Summary by technique
+technique_summary <- results %>%
+  group_by(technique) %>%
+  summarise(
+    mean_critical = mean(critical_percentage, na.rm = TRUE),
+    median_critical = median(critical_percentage, na.rm = TRUE),
+  ) %>%
+  arrange(median_critical)
+
+kable(technique_summary, caption = "Summary of Critical Percentages by ML Technique")
+```
+
+# Visualization of Critical Percentages
+
+## Kappa Loss Curves Visualization
+
+```{r kappa_curves, fig.width=15, fig.height=15}
+# Get unique dataset names and technique names
+datasets <- unique(klc_data$dataset_name)
+method_names <- unique(klc_data$technique)
+
+# Create a new column to control the order of datasets
+klc_data$dataset_order <- factor(klc_data$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+klc_data$method_order <- factor(klc_data$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(klc_data, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_point(size = 0.8, alpha = 0.6) +
+  geom_line(aes(group = factor(noise)), linewidth = 0.8) +
+  labs(title = "Kappa Loss Curves by Dataset, Technique, and Noise Level",
+       x = "Percentage of Instances", 
+       y = "Kappa Loss", 
+       color = "Noise Level") +
+  theme_bw() +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.2)) +
+  facet_grid(method_order ~ dataset_order, scales = "free", 
+             labeller = labeller(method_order = method_labels, dataset_order = dataset_labels)) +
+  theme(strip.text = element_text(size = 7),
+        axis.text = element_text(size = 6),
+        legend.position = "bottom")
+
+# Print plot
+print(p)
+```
+
+## Distribution of Critical Percentages
+
+```{r distribution}
+ggplot(results %>% filter(!is.na(critical_percentage)), 
+       aes(x = critical_percentage, fill = as.factor(threshold))) +
+  geom_density(alpha = 0.7) +
+  labs(title = "Distribution of Critical Percentages by Threshold Level",
+       x = "Critical Percentage of Instances",
+       y = "Density",
+       fill = "Threshold") +
+  theme_minimal() +
+  scale_fill_manual(values = c("0.05" = "#94D2BD", "0.1" = "#0A9396", "0.15" = "#005F73")) +
+  theme(legend.position = "bottom")
+```
+
+# Kappa Loss Analysis
+
+## Average Kappa Loss by Threshold
+
+```{r kappa_loss1}
+# Calculate average kappa loss by threshold
+kappa_loss_by_threshold <- results %>%
+  filter(!is.na(kappa_at_critical)) %>%
+  group_by(threshold) %>%
+  summarise(
+    mean_kappa_loss = mean(kappa_at_critical, na.rm = TRUE),
+    median_kappa_loss = median(kappa_at_critical, na.rm = TRUE),
+  )
+
+# Display summary table
+kable(kappa_loss_by_threshold, 
+      caption = "Summary of Kappa Loss by Threshold Level", 
+      digits = 3)
+```
+
+## Kappa Loss by Machine Learning Technique and Threshold
+
+```{r kappa_loss2}
+# Calculate average kappa loss by technique and threshold
+kappa_loss_by_technique <- results %>%
+  filter(!is.na(kappa_at_critical)) %>%
+  group_by(technique, threshold) %>%
+  summarise(
+    mean_kappa_loss = mean(kappa_at_critical, na.rm = TRUE),
+    n_values = sum(!is.na(kappa_at_critical))
+  ) %>%
+  ungroup()
+
+# Create a heatmap of kappa loss by technique and threshold
+ggplot(kappa_loss_by_technique, aes(x = as.factor(threshold), y = reorder(technique, -mean_kappa_loss), fill = mean_kappa_loss)) +
+  geom_tile() +
+  scale_fill_viridis_c() +
+  labs(title = "Average Kappa Loss by ML Technique and Threshold",
+       x = "Threshold",
+       y = "Machine Learning Technique",
+       fill = "Mean Kappa Loss") +
+  theme_minimal() +
+  theme(axis.text.y = element_text(size = 8)) +
+  geom_text(aes(label = sprintf("%.2f", mean_kappa_loss)), size = 3)
+```
+
+## Dataset and Technique Information Table
+
+```{r info}
+# Create dataset information summary
+dataset_info <- results %>%
+  filter(!is.na(critical_percentage)) %>%
+  group_by(dataset_name, technique, noise_level) %>%
+  summarise(
+    max_instances = max(critical_percentage, na.rm = TRUE),
+    mean_kappa_loss = mean(kappa_at_critical, na.rm = TRUE),
+    n_thresholds = n()
+  ) %>%
+  ungroup()
+
+# Save to a dataframe
+dataset_info_df <- as.data.frame(dataset_info)
+
+# Save the complete dataset info to an RDS file
+saveRDS(dataset_info_df, "results/dataset_technique_info.rds")
+
+# Create interactive table
+datatable(dataset_info_df,
+          options = list(
+            pageLength = 10,
+            scrollX = TRUE,
+            dom = 'Bfrtip',
+            buttons = c('copy', 'csv', 'excel')
+          ),
+          extensions = 'Buttons',
+          caption = "Complete Dataset, Technique, and Instance Information")
+```
+
+# Best Performing Techniques
+
+Higher critical percentage is better (can alter more instances while maintaining good performance)
+
+```{r top}
+# Find best performing techniques
+best_techniques <- results %>%
+  filter(!is.na(critical_percentage)) %>%
+  group_by(threshold, technique) %>%
+  summarise(mean_critical = mean(critical_percentage, na.rm = TRUE)) %>%
+  arrange(threshold, desc(mean_critical)) %>%  # Sort in descending order to get highest values first
+  group_by(threshold) %>%
+  slice_head(n = 5)
+
+kable(best_techniques, caption = "Top 5 Techniques with Highest Mean Critical Percentages by Threshold")
+```

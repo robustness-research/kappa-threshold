@@ -1,0 +1,13 @@
+# R related files
+.RData
+.Rhistory
+
+# macOS files
+.DS_Store
+
+# Big files
+*.rds
+data/datasets/*.rds
+data/files/*.rds
+data/prev/*.rds
+results/*.rds

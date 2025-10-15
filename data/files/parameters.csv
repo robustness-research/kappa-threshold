@@ -1,0 +1,6 @@
+"parameter","values"
+"dataset_name","analcatdata_authorship|badges2|banknote|blood-transfusion-service-center|breast-w|cardiotocography|climate-model-simulation-crashes|cmc|credit-g|diabetes|eucalyptus|iris|kc1|liver-disorders|mfeat-factors|mfeat-karhunen|mfeat-zernike|ozone-level-8hr|pc4|phoneme|qsar-biodeg|tic-tac-toe|vowel|waveform-5000|wdbc|wilt"
+"fold_name","Fold_1|Fold_2|Fold_3|Fold_4|Fold_5"
+"technique_name","C5.0|ctree|fda|gbm|gcvEarth|JRip|lvq|mlpML|multinom|naive_bayes|PART|rbfDDA|rda|rf|rpart|simpls|svmLinear|svmRadial|rfRules|knn|bayesglm"
+"noise_level","0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1"
+"instance_level","0|0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1"
