@@ -1,0 +1,18 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Generated and saved 169 indices to: results/instances/original/vectors/analcatdata_authorship_fold1_simpls_indices.csv 
+Training model on clean data
+Generated and saved 167 indices to: results/instances/original/vectors/analcatdata_authorship_fold2_simpls_indices.csv 
+Training model on clean data
+Generated and saved 168 indices to: results/instances/original/vectors/analcatdata_authorship_fold3_simpls_indices.csv 
+Training model on clean data
+Generated and saved 169 indices to: results/instances/original/vectors/analcatdata_authorship_fold4_simpls_indices.csv 
+Training model on clean data
+Generated and saved 168 indices to: results/instances/original/vectors/analcatdata_authorship_fold5_simpls_indices.csv 
+Altered instances with noise recorded
+----------------
+****************************
+Instances altered with noise
+****************************

@@ -1,0 +1,29 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Generated and saved 59 indices to: results/instances/original/vectors/badges2_fold1_simpls_indices.csv 
+Training model on clean data
+Generated and saved 58 indices to: results/instances/original/vectors/badges2_fold2_simpls_indices.csv 
+Training model on clean data
+Generated and saved 59 indices to: results/instances/original/vectors/badges2_fold3_simpls_indices.csv 
+Training model on clean data
+Generated and saved 59 indices to: results/instances/original/vectors/badges2_fold4_simpls_indices.csv 
+Training model on clean data
+Generated and saved 59 indices to: results/instances/original/vectors/badges2_fold5_simpls_indices.csv 
+Warning messages:
+1: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+2: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+3: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+4: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+5: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+Altered instances with noise recorded
+----------------
+****************************
+Instances altered with noise
+****************************

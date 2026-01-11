@@ -1,0 +1,19 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Generated and saved 275 indices to: results/instances/original/vectors/banknote_fold1_mlpML_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold2_mlpML_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold3_mlpML_indices.csv 
+Training model on clean data
+Generated and saved 275 indices to: results/instances/original/vectors/banknote_fold4_mlpML_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold5_mlpML_indices.csv 
+There were 50 or more warnings (use warnings() to see the first 50)
+Altered instances with noise recorded
+----------------
+****************************
+Instances altered with noise
+****************************

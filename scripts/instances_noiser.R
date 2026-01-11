@@ -27,8 +27,8 @@ set.seed(1)
 load_parameters <- function(params_file) {
   # Datasets from command line arguments
   args <- commandArgs(trailingOnly = TRUE)
-  datasets <- args[0]
-  models <- args[1]
+  datasets <- args[1]
+  models <- args[2]
   # Parameters
   params <- read.csv(params_file, stringsAsFactors = FALSE)
   # Control parameters
@@ -37,6 +37,7 @@ load_parameters <- function(params_file) {
     datasets = datasets,
     #datasets = unlist(strsplit(subset(params, parameter == "dataset_name")$values, "\\|")),
     fold_names = unlist(strsplit(subset(params, parameter == "fold_name")$values, "\\|")),
+    models = models,
     #models = unlist(strsplit(subset(params, parameter == "technique_name")$values, "\\|")),
     noise_levels = as.numeric(unlist(strsplit(subset(params, parameter == "noise_level")$values, "\\|"))),
     instances = as.numeric(unlist(strsplit(subset(params, parameter == "instance_level")$values, "\\|"))),
@@ -274,27 +275,28 @@ results_df <- data.frame(
 )
 
 # Datasets
-results_list <- lapply(datasets, function(dataset) {
-  filename <- paste0("data/datasets/", dataset, ".csv")
-  df <- read.csv(filename, stringsAsFactors = FALSE)
+#results_list <- lapply(datasets, function(dataset) {
+dataset <- datasets
+filename <- paste0("data/datasets/", dataset, ".csv")
+df <- read.csv(filename, stringsAsFactors = FALSE)
 
-  # Partition data into train/test with cross validation folds
-  fold_train_indices <- createFolds(df$class, k = 5, list = TRUE, returnTrain = TRUE)
-  fold_test_indices <- lapply(fold_train_indices, function(index) setdiff(1:nrow(df), index))
- 
-  # Call functions (iterate folds)
-  dataset_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
-    process_fold(dataset, fold_i, fold_train_indices[[fold_i]], fold_test_indices[[fold_i]], df, models, mia_df, noise_levels, instances, control)
-  }))
+# Partition data into train/test with cross validation folds
+fold_train_indices <- createFolds(df$class, k = 5, list = TRUE, returnTrain = TRUE)
+fold_test_indices <- lapply(fold_train_indices, function(index) setdiff(1:nrow(df), index))
 
-  # Safeguard store by dataset
-  out_filename <- paste0("results/instances/original/by_dataset/", dataset, "_results.csv")
-  #out_filename <- paste0("results/instances/with_noise/", dataset, "_results.csv")
-  write.csv(dataset_results, file = out_filename, row.names = FALSE)
-  cat("Altered instances with noise recorded\n")
-  cat("----------------\n")
-  dataset_results
-})
+# Call functions (iterate folds)
+dataset_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
+  process_fold(dataset, fold_i, fold_train_indices[[fold_i]], fold_test_indices[[fold_i]], df, models, mia_df, noise_levels, instances, control)
+}))
+
+# Safeguard store by dataset
+out_filename <- paste0("results/instances/original/by_dataset/", dataset, "_results.csv")
+#out_filename <- paste0("results/instances/with_noise/", dataset, "_results.csv")
+write.csv(dataset_results, file = out_filename, row.names = FALSE)
+cat("Altered instances with noise recorded\n")
+cat("----------------\n")
+#dataset_results
+#})
 
 cat("****************************\n")
 cat("Instances altered with noise\n")

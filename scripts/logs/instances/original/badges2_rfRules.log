@@ -1,0 +1,97 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1918 rules (length<=2) were extracted from the first 500 trees.
+[1] "45 paths are ignored."
+3422 rules (length<=3) were extracted from the first 500 trees.
+[1] "438 paths are ignored."
+5932 rules (length<=4) were extracted from the first 500 trees.
+[1] "1548 paths are ignored."
+1923 rules (length<=2) were extracted from the first 500 trees.
+[1] "41 paths are ignored."
+3312 rules (length<=3) were extracted from the first 500 trees.
+[1] "748 paths are ignored."
+4997 rules (length<=4) were extracted from the first 500 trees.
+[1] "1806 paths are ignored."
+1920 rules (length<=2) were extracted from the first 500 trees.
+[1] "51 paths are ignored."
+3328 rules (length<=3) were extracted from the first 500 trees.
+[1] "789 paths are ignored."
+5097 rules (length<=4) were extracted from the first 500 trees.
+[1] "1786 paths are ignored."
+1910 rules (length<=2) were extracted from the first 500 trees.
+[1] "43 paths are ignored."
+3353 rules (length<=3) were extracted from the first 500 trees.
+[1] "657 paths are ignored."
+5155 rules (length<=4) were extracted from the first 500 trees.
+[1] "1956 paths are ignored."
+1930 rules (length<=2) were extracted from the first 500 trees.
+[1] "27 paths are ignored."
+3385 rules (length<=3) were extracted from the first 500 trees.
+[1] "276 paths are ignored."
+5108 rules (length<=4) were extracted from the first 500 trees.
+[1] "692 paths are ignored."
+1947 rules (length<=2) were extracted from the first 500 trees.
+[1] "37 paths are ignored."
+3488 rules (length<=3) were extracted from the first 500 trees.
+[1] "504 paths are ignored."
+5062 rules (length<=4) were extracted from the first 500 trees.
+[1] "1169 paths are ignored."
+1909 rules (length<=2) were extracted from the first 500 trees.
+[1] "65 paths are ignored."
+3425 rules (length<=3) were extracted from the first 500 trees.
+[1] "506 paths are ignored."
+5499 rules (length<=4) were extracted from the first 500 trees.
+[1] "1584 paths are ignored."
+1929 rules (length<=2) were extracted from the first 500 trees.
+[1] "40 paths are ignored."
+3397 rules (length<=3) were extracted from the first 500 trees.
+[1] "543 paths are ignored."
+5066 rules (length<=4) were extracted from the first 500 trees.
+[1] "1683 paths are ignored."
+1918 rules (length<=2) were extracted from the first 500 trees.
+[1] "40 paths are ignored."
+3432 rules (length<=3) were extracted from the first 500 trees.
+[1] "375 paths are ignored."
+5929 rules (length<=4) were extracted from the first 500 trees.
+[1] "990 paths are ignored."
+1921 rules (length<=2) were extracted from the first 500 trees.
+[1] "28 paths are ignored."
+3500 rules (length<=3) were extracted from the first 500 trees.
+[1] "363 paths are ignored."
+5772 rules (length<=4) were extracted from the first 500 trees.
+[1] "1078 paths are ignored."
+1933 rules (length<=2) were extracted from the first 500 trees.
+[1] "21 paths are ignored."
+3486 rules (length<=3) were extracted from the first 500 trees.
+[1] "232 paths are ignored."
+5165 rules (length<=4) were extracted from the first 500 trees.
+[1] "730 paths are ignored."
+1933 rules (length<=2) were extracted from the first 500 trees.
+[1] "41 paths are ignored."
+3438 rules (length<=3) were extracted from the first 500 trees.
+[1] "474 paths are ignored."
+5860 rules (length<=4) were extracted from the first 500 trees.
+[1] "1129 paths are ignored."
+1849 rules (length<=2) were extracted from the first 500 trees.
+[1] "66 paths are ignored."
+3277 rules (length<=3) were extracted from the first 500 trees.
+[1] "787 paths are ignored."
+4918 rules (length<=4) were extracted from the first 500 trees.
+[1] "1872 paths are ignored."
+1938 rules (length<=2) were extracted from the first 500 trees.
+[1] "20 paths are ignored."
+3409 rules (length<=3) were extracted from the first 500 trees.
+[1] "262 paths are ignored."
+5132 rules (length<=4) were extracted from the first 500 trees.
+[1] "662 paths are ignored."
+1945 rules (length<=2) were extracted from the first 500 trees.
+[1] "29 paths are ignored."
+3431 rules (length<=3) were extracted from the first 500 trees.
+[1] "361 paths are ignored."
+5693 rules (length<=4) were extracted from the first 500 trees.
+[1] "1107 paths are ignored."

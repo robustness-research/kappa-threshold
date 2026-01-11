@@ -1,0 +1,39 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Generated and saved 275 indices to: results/instances/original/vectors/banknote_fold1_rpart_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold2_rpart_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold3_rpart_indices.csv 
+Training model on clean data
+Generated and saved 275 indices to: results/instances/original/vectors/banknote_fold4_rpart_indices.csv 
+Training model on clean data
+Generated and saved 274 indices to: results/instances/original/vectors/banknote_fold5_rpart_indices.csv 
+Warning messages:
+1: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+2: In nominalTrainWorkflow(x = x, y = y, wts = weights, info = trainInfo,  :
+  There were missing values in resampled performance measures.
+3: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+4: In nominalTrainWorkflow(x = x, y = y, wts = weights, info = trainInfo,  :
+  There were missing values in resampled performance measures.
+5: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+6: In nominalTrainWorkflow(x = x, y = y, wts = weights, info = trainInfo,  :
+  There were missing values in resampled performance measures.
+7: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+8: In nominalTrainWorkflow(x = x, y = y, wts = weights, info = trainInfo,  :
+  There were missing values in resampled performance measures.
+9: In train.default(x, y, weights = w, ...) :
+  You are trying to do regression and your outcome only has two possible values Are you trying to do classification? If so, use a 2 level factor as your outcome column.
+10: In nominalTrainWorkflow(x = x, y = y, wts = weights, info = trainInfo,  :
+  There were missing values in resampled performance measures.
+Altered instances with noise recorded
+----------------
+****************************
+Instances altered with noise
+****************************

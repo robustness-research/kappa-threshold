@@ -26,20 +26,19 @@ arguments2=("C5.0" "ctree" "fda" "gbm" "gcvEarth" "JRip" "lvq" "mlpML" "multinom
 # Change to project root directory
 cd "$PROJECT_ROOT"
 
-echo "Starting instances alteration for ${#arguments[@]} datasets..."
+# Export variables so parallel can use them
+export PROJECT_ROOT SCRIPTS_DIR
+
+echo "Starting instances alteration for ${#arguments[@]} datasets with ${#arguments2[@]} models..."
+echo "Running max 12 jobs in parallel..."
 echo "Logs will be saved to: $PROJECT_ROOT/scripts/logs/instances/original/"
 echo "Results will be saved to: $PROJECT_ROOT/results/instances/original/by_dataset/"
 echo ""
 
-for arg in "${arguments[@]}"; do
-	echo "Starting instance alteration for dataset: $arg"
-	for arg2 in "${arguments2[@]}"; do
-		echo "  Using model: $arg2"
-		# Start the R script in the background, redirecting output to log file
-		nohup Rscript "$SCRIPTS_DIR/instances_noiser.R" "$arg" "$arg2" > "$PROJECT_ROOT/scripts/logs/instances/original/${arg}_${arg2}.log" 2>&1 &
-	done
-done
+# Run with max 4 concurrent jobs using GNU Parallel
+parallel -j 12 --line-buffer --progress \
+  Rscript "$SCRIPTS_DIR/instances_noiser.R" {1} {2} '>' "$PROJECT_ROOT/scripts/logs/instances/original/{1}_{2}.log" 2'>&1' \
+  ::: "${arguments[@]}" ::: "${arguments2[@]}"
 
 echo ""
-echo "All processes started. Check log files for progress."
-echo "To monitor progress: tail -f logs/instances/original/*.log"
+echo "All processes completed!"

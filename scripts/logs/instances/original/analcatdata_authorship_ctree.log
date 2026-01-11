@@ -1,0 +1,10 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Loaded 169 indices from: results/instances/original/vectors/analcatdata_authorship_fold1_ctree_indices.csv 
+Training model on clean data
+Loaded 167 indices from: results/instances/original/vectors/analcatdata_authorship_fold2_ctree_indices.csv 
+Training model on clean data
+Loaded 168 indices from: results/instances/original/vectors/analcatdata_authorship_fold3_ctree_indices.csv 
+Training model on clean data

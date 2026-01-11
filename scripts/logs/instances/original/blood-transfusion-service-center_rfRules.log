@@ -1,0 +1,17 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+[1] "57 paths are ignored."
+7579 rules (length<=4) were extracted from the first 500 trees.
+[1] "228 paths are ignored."
+1999 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+[1] "5 paths are ignored."
+6766 rules (length<=4) were extracted from the first 500 trees.
+[1] "129 paths are ignored."
