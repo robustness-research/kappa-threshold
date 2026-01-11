@@ -1,0 +1,172 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Dataset: cmc 
+Most important attribute: Number_of_children_ever_born 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.26137135098439, and standard deviation: 2.35854886268742
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise1.csv 
+________________
+Dataset: cmc 
+Most important attribute: Wifes_age 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 32.5383570943652, and standard deviation: 8.22724475547061
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/cmc_Wifes_age_noise1.csv 
+________________
+Finished with adding noise to dataset: cmc
+----------------------
+****************
+RESULTS RECORDED
+****************

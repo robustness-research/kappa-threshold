@@ -1,0 +1,910 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Dataset: qsar-biodeg 
+Most important attribute: V3 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.716587677725118, and standard deviation: 1.46245216455927
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V3_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V1 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 4.78264360189573, and standard deviation: 0.546915934895667
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V1_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V38 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.686255924170616, and standard deviation: 1.09038871213381
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V38_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V36 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.91823981042654, and standard deviation: 0.999602233190575
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V25 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.147867298578199, and standard deviation: 0.355136744945967
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V25_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V13 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 3.47684360189573, and standard deviation: 0.584150075264085
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V13_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V7 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64644549763033, and standard deviation: 2.22482205557044
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V7_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V20 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.0739336492890995, and standard deviation: 0.317475178481783
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V20_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V39 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.62949194312796, and standard deviation: 1.24198635574519
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V39_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V14 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.35071563981043, and standard deviation: 0.786166363399708
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V14_noise1.csv 
+________________
+Dataset: qsar-biodeg 
+Most important attribute: V8 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 37.0556398104265, and standard deviation: 9.14446587357756
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/qsar-biodeg_V8_noise1.csv 
+________________
+Finished with adding noise to dataset: qsar-biodeg
+----------------------
+****************
+RESULTS RECORDED
+****************

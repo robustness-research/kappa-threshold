@@ -1,0 +1,1074 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Dataset: ozone-level-8hr 
+Most important attribute: V41 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7050811176006, and standard deviation: 7.09919701910451
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V41_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V42 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 24.7201533587214, and standard deviation: 7.02806389372407
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V42_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V33 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.589366210734, and standard deviation: 7.24169764783182
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V33_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V65 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 9.87241822415154, and standard deviation: 9.12738126043276
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V65_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V56 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.66246389897395, and standard deviation: 5.91186246196735
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V56_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V31 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 17.6113191381215, and standard deviation: 6.98540689996571
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V31_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V72 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 0.372026066298343, and standard deviation: 1.31743822197653
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V72_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V21 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.08955362115233, and standard deviation: 1.13325630785185
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V21_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V1 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.64017897434886, and standard deviation: 1.19456790127257
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V1_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V18 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.93456237016575, and standard deviation: 1.16374890148895
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V18_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V57 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1531.49425994475, and standard deviation: 35.9998515132657
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V57_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V10 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.84770804893449, and standard deviation: 1.1500674891342
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+________________
+Dataset: ozone-level-8hr 
+Most important attribute: V11 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.96976842304657, and standard deviation: 1.2262134397267
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/ozone-level-8hr_V11_noise1.csv 
+________________
+Finished with adding noise to dataset: ozone-level-8hr
+----------------------
+****************
+RESULTS RECORDED
+****************

@@ -1,0 +1,500 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Dataset: mfeat-karhunen 
+Most important attribute: att1 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.11942232618, and standard deviation: 7.69130518232539
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+________________
+Dataset: mfeat-karhunen 
+Most important attribute: att4 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.63531479784, and standard deviation: 5.5075805488833
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att4_noise1.csv 
+________________
+Dataset: mfeat-karhunen 
+Most important attribute: att7 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -1.40783359169, and standard deviation: 4.06677218022271
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att7_noise1.csv 
+________________
+Dataset: mfeat-karhunen 
+Most important attribute: att2 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: -0.684915594085, and standard deviation: 5.71646570803192
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att2_noise1.csv 
+________________
+Dataset: mfeat-karhunen 
+Most important attribute: att3 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 1.32578652692, and standard deviation: 5.57430976861801
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att3_noise1.csv 
+________________
+Dataset: mfeat-karhunen 
+Most important attribute: att5 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.89117112429, and standard deviation: 3.9940732967745
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/mfeat-karhunen_att5_noise1.csv 
+________________
+Finished with adding noise to dataset: mfeat-karhunen
+----------------------
+****************
+RESULTS RECORDED
+****************

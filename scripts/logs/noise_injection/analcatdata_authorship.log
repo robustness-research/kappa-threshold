@@ -1,0 +1,664 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Dataset: analcatdata_authorship 
+Most important attribute: her 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 16.1046373365042, and standard deviation: 15.9486076386739
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_her_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: be 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 12.3745541022592, and standard deviation: 7.78376022010145
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_be_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: any 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 2.85850178359096, and standard deviation: 2.71551137695825
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_any_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: at 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 8.86563614744352, and standard deviation: 4.37169152244914
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_at_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: not 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 15.2913198573127, and standard deviation: 7.56980425573796
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_not_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: to 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 44.7170035671819, and standard deviation: 12.8687812928452
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_to_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: an 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 6.60879904875149, and standard deviation: 8.72655327196139
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_an_noise1.csv 
+________________
+Dataset: analcatdata_authorship 
+Most important attribute: a 
+Noise level: 0.1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.1.csv 
+________________
+Noise level: 0.2 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.2.csv 
+________________
+Noise level: 0.3 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.3.csv 
+________________
+Noise level: 0.4 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.4.csv 
+________________
+Noise level: 0.5 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.5.csv 
+________________
+Noise level: 0.6 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.6.csv 
+________________
+Noise level: 0.7 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.7.csv 
+________________
+Noise level: 0.8 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.8.csv 
+________________
+Noise level: 0.9 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise0.9.csv 
+________________
+Noise level: 1 
+MIA's class: numeric 
+Is the MIA a nominal attribute? FALSE 
+MIA's mean: 30.6349583828775, and standard deviation: 10.2822623635921
+NOISE INJECTION
+MIA is NOT a nominal attribute
+Saved: results/noise_injection/by_dataset/analcatdata_authorship_a_noise1.csv 
+________________
+Finished with adding noise to dataset: analcatdata_authorship
+----------------------
+****************
+RESULTS RECORDED
+****************

@@ -5,9 +5,5 @@
 # macOS files
 .DS_Store
 
-# Big files
-*.rds
-data/datasets/*.rds
-data/files/*.rds
-data/prev/*.rds
-results/*.rds
+# Data files
+*.csv
