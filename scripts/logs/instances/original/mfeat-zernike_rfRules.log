@@ -1,0 +1,2629 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: mfeat-zernike 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1993 rules (length<=2) were extracted from the first 500 trees.
+3251 rules (length<=3) were extracted from the first 500 trees.
+3742 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3066 rules (length<=3) were extracted from the first 500 trees.
+3468 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3272 rules (length<=3) were extracted from the first 500 trees.
+4081 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3151 rules (length<=3) were extracted from the first 500 trees.
+3548 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3417 rules (length<=3) were extracted from the first 500 trees.
+4139 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3154 rules (length<=3) were extracted from the first 500 trees.
+3920 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3090 rules (length<=3) were extracted from the first 500 trees.
+3443 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3439 rules (length<=3) were extracted from the first 500 trees.
+4323 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3315 rules (length<=3) were extracted from the first 500 trees.
+3804 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3308 rules (length<=3) were extracted from the first 500 trees.
+3920 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3335 rules (length<=3) were extracted from the first 500 trees.
+3981 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3054 rules (length<=3) were extracted from the first 500 trees.
+3419 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3180 rules (length<=3) were extracted from the first 500 trees.
+3401 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3041 rules (length<=3) were extracted from the first 500 trees.
+3699 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3337 rules (length<=3) were extracted from the first 500 trees.
+4010 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3307 rules (length<=3) were extracted from the first 500 trees.
+3885 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3241 rules (length<=3) were extracted from the first 500 trees.
+3871 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3193 rules (length<=3) were extracted from the first 500 trees.
+3757 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3443 rules (length<=3) were extracted from the first 500 trees.
+4265 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3386 rules (length<=3) were extracted from the first 500 trees.
+4270 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3272 rules (length<=3) were extracted from the first 500 trees.
+3399 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3103 rules (length<=3) were extracted from the first 500 trees.
+3597 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3196 rules (length<=3) were extracted from the first 500 trees.
+3572 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3297 rules (length<=3) were extracted from the first 500 trees.
+4036 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3190 rules (length<=3) were extracted from the first 500 trees.
+3693 rules (length<=4) were extracted from the first 500 trees.
+4372 rules (length<=4) were extracted from the first 500 trees.
+Generated and saved 400 indices for fold 1 to: results/instances/original/vectors/mfeat-zernike_rfRules_all_folds.csv 
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1999 rules (length<=2) were extracted from the first 500 trees.
+3449 rules (length<=3) were extracted from the first 500 trees.
+4494 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3159 rules (length<=3) were extracted from the first 500 trees.
+3758 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3437 rules (length<=3) were extracted from the first 500 trees.
+4726 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3486 rules (length<=3) were extracted from the first 500 trees.
+4663 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3350 rules (length<=3) were extracted from the first 500 trees.
+3990 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3452 rules (length<=3) were extracted from the first 500 trees.
+4546 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3282 rules (length<=3) were extracted from the first 500 trees.
+3995 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3399 rules (length<=3) were extracted from the first 500 trees.
+4646 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3439 rules (length<=3) were extracted from the first 500 trees.
+4294 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3400 rules (length<=3) were extracted from the first 500 trees.
+4232 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3405 rules (length<=3) were extracted from the first 500 trees.
+4057 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3337 rules (length<=3) were extracted from the first 500 trees.
+3923 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3550 rules (length<=3) were extracted from the first 500 trees.
+4618 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3470 rules (length<=3) were extracted from the first 500 trees.
+4673 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3319 rules (length<=3) were extracted from the first 500 trees.
+4287 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3263 rules (length<=3) were extracted from the first 500 trees.
+3909 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3522 rules (length<=3) were extracted from the first 500 trees.
+4621 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3439 rules (length<=3) were extracted from the first 500 trees.
+4265 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3476 rules (length<=3) were extracted from the first 500 trees.
+4557 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3430 rules (length<=3) were extracted from the first 500 trees.
+4332 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3344 rules (length<=3) were extracted from the first 500 trees.
+4474 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3348 rules (length<=3) were extracted from the first 500 trees.
+4080 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3377 rules (length<=3) were extracted from the first 500 trees.
+4253 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3146 rules (length<=3) were extracted from the first 500 trees.
+3795 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3377 rules (length<=3) were extracted from the first 500 trees.
+4378 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+Generated and appended 400 indices for fold 2 to: results/instances/original/vectors/mfeat-zernike_rfRules_all_folds.csv 
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.2.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.3.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.4.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.5.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.6.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.7.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.8.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise0.9.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-zernike 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-zernike_att29_noise1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1998 rules (length<=2) were extracted from the first 500 trees.
+3185 rules (length<=3) were extracted from the first 500 trees.
+3852 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3345 rules (length<=3) were extracted from the first 500 trees.
+4143 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3045 rules (length<=3) were extracted from the first 500 trees.
+3684 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3309 rules (length<=3) were extracted from the first 500 trees.
+3789 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3198 rules (length<=3) were extracted from the first 500 trees.
+3666 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3340 rules (length<=3) were extracted from the first 500 trees.
+4141 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3490 rules (length<=3) were extracted from the first 500 trees.
+4454 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3384 rules (length<=3) were extracted from the first 500 trees.
+4135 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3226 rules (length<=3) were extracted from the first 500 trees.
+4034 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3216 rules (length<=3) were extracted from the first 500 trees.
+3953 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3352 rules (length<=3) were extracted from the first 500 trees.
+4372 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3422 rules (length<=3) were extracted from the first 500 trees.
+4463 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3182 rules (length<=3) were extracted from the first 500 trees.
+3795 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3390 rules (length<=3) were extracted from the first 500 trees.
+3994 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3307 rules (length<=3) were extracted from the first 500 trees.
+3984 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3396 rules (length<=3) were extracted from the first 500 trees.
+4359 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3308 rules (length<=3) were extracted from the first 500 trees.
+4147 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3103 rules (length<=3) were extracted from the first 500 trees.
+4006 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3359 rules (length<=3) were extracted from the first 500 trees.
+4763 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3305 rules (length<=3) were extracted from the first 500 trees.
+4151 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3504 rules (length<=3) were extracted from the first 500 trees.
+4723 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3311 rules (length<=3) were extracted from the first 500 trees.

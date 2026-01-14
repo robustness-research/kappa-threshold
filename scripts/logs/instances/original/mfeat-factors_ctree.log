@@ -1,0 +1,17 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: ctree for dataset: mfeat-factors 
+Training model on clean data
+Generated and saved 400 indices for fold 1 to: results/instances/original/vectors/mfeat-factors_ctree_all_folds.csv 
+Dataset: mfeat-factors 
+Fold: 1 
+Method: ctree 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-factors_NA_noise0.1.csv 
+Error in process_instance(dataset, fold_index, method, mia, noise, percent,  : 
+  Noise CSV file not found: results/noise_injection/by_dataset/mfeat-factors_NA_noise0.1.csv
+Calls: do.call -> lapply -> FUN -> process_model -> process_instance
+Execution halted

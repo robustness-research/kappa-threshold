@@ -39,7 +39,7 @@ load_parameters <- function(params_file) {
     fold_names = unlist(strsplit(subset(params, parameter == "fold_name")$values, "\\|")),
     models = models,
     #models = unlist(strsplit(subset(params, parameter == "technique_name")$values, "\\|")),
-    noise_levels = as.numeric(unlist(strsplit(subset(params, parameter == "noise_level")$values, "\\|"))),
+    noise_levels = as.numeric(unlist(strsplit(subset(params, parameter == "noise_levels")$values, "\\|"))),
     instances = as.numeric(unlist(strsplit(subset(params, parameter == "instance_level")$values, "\\|"))),
     control = control
   )
@@ -116,16 +116,7 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
   cat("Method:", method, "\n")
   cat("Noise level: ", noise * 100, "%\n")
   cat("Percentage of altered instances: ", percent * 100, "%\n")
-  
-  # Save the specific indices used for this noise-instance combination
-  indices_output_file <- paste0("results/instances/original/vectors/", 
-                                dataset, "_fold", fold_index, "_", method, 
-                                "_noise", noise, "_inst", percent, "_indices.csv")
-  write.csv(data.frame(
-    local_test_index = indices,
-    original_test_index = test_df_indices[indices]
-  ), file = indices_output_file, row.names = FALSE)
-  cat("Saved", length(indices), "altered indices to:", indices_output_file, "\n")
+  cat("Using", length(indices), "indices (first", length(indices), "from shuffled list)\n")
 
   # Load noise data from CSV file created by noise_injector.R
   noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise, ".csv")
@@ -141,6 +132,9 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
   noise_full_df$dataset_name <- NULL
   noise_full_df$altered_attribute <- NULL
   noise_full_df$noise_level <- NULL
+  
+  # Convert class column to factor to match test_df
+  noise_full_df$class <- as.factor(noise_full_df$class)
   
   # Select only the test set rows from the noisy dataset
   noise_df <- noise_full_df[test_df_indices, ]
@@ -200,19 +194,38 @@ process_model <- function(dataset, fold_index, train_df, test_df, test_df_indice
 
   # Generate or load indices for this (dataset, fold, method) combination
   indices_file <- paste0("results/instances/original/vectors/", 
-                         dataset, "_fold", fold_index, "_", method, "_indices.csv")
+                         dataset, "_", method, "_all_folds.csv")
   
   if(!file.exists(indices_file)) {
-    # First time: sample ALL test indices and save
+    # First time: sample ALL test indices and save with fold info
     all_indices <- sample(1:nrow(test_df))
-    write.csv(data.frame(index = all_indices, 
-                         original_test_index = test_df_indices[all_indices]), 
-              file = indices_file, row.names = FALSE)
-    cat("Generated and saved", length(all_indices), "indices to:", indices_file, "\n")
+    indices_data <- data.frame(
+      fold = fold_index,
+      index = all_indices, 
+      original_test_index = test_df_indices[all_indices]
+    )
+    write.csv(indices_data, file = indices_file, row.names = FALSE)
+    cat("Generated and saved", length(all_indices), "indices for fold", fold_index, "to:", indices_file, "\n")
   } else {
-    # Load existing indices
-    all_indices <- read.csv(indices_file, stringsAsFactors = FALSE)$index
-    cat("Loaded", length(all_indices), "indices from:", indices_file, "\n")
+    # Load existing indices and check if this fold exists
+    existing_data <- read.csv(indices_file, stringsAsFactors = FALSE)
+    
+    if(fold_index %in% existing_data$fold) {
+      # Load indices for this fold
+      all_indices <- existing_data$index[existing_data$fold == fold_index]
+      cat("Loaded", length(all_indices), "indices for fold", fold_index, "from:", indices_file, "\n")
+    } else {
+      # Generate new indices for this fold and append
+      all_indices <- sample(1:nrow(test_df))
+      new_data <- data.frame(
+        fold = fold_index,
+        index = all_indices, 
+        original_test_index = test_df_indices[all_indices]
+      )
+      combined_data <- rbind(existing_data, new_data)
+      write.csv(combined_data, file = indices_file, row.names = FALSE)
+      cat("Generated and appended", length(all_indices), "indices for fold", fold_index, "to:", indices_file, "\n")
+    }
   }
 
   # Store results for all noise/instance level combinations
@@ -235,15 +248,9 @@ process_model <- function(dataset, fold_index, train_df, test_df, test_df_indice
 }
 
 # Folds
-process_fold <- function(dataset, fold_index, train_indices, test_indices, df, models, mia_df, noise_levels, instances, control) {
-  # Get train and test indices for this fold
-  train_df <- df[train_indices, ]
-  test_df <- df[test_indices, ]
-
-  # Call function to iterate models
-  fold_results <- do.call(rbind, lapply(models, function(method) {
-    process_model(dataset, fold_index, train_df, test_df, test_indices, method, mia_df, noise_levels, instances, control)
-  }))
+process_fold <- function(dataset, fold_index, train_df, test_df, test_indices, model, mia_df, noise_levels, instances, control) {
+  # Process single model for this fold
+  fold_results <- process_model(dataset, fold_index, train_df, test_df, test_indices, model, mia_df, noise_levels, instances, control)
   fold_results
 }
 
@@ -275,28 +282,36 @@ results_df <- data.frame(
 )
 
 # Datasets
-#results_list <- lapply(datasets, function(dataset) {
 dataset <- datasets
 filename <- paste0("data/datasets/", dataset, ".csv")
 df <- read.csv(filename, stringsAsFactors = FALSE)
+
+# Convert class column to factor for classification
+df$class <- as.factor(df$class)
 
 # Partition data into train/test with cross validation folds
 fold_train_indices <- createFolds(df$class, k = 5, list = TRUE, returnTrain = TRUE)
 fold_test_indices <- lapply(fold_train_indices, function(index) setdiff(1:nrow(df), index))
 
-# Call functions (iterate folds)
-dataset_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
-  process_fold(dataset, fold_i, fold_train_indices[[fold_i]], fold_test_indices[[fold_i]], df, models, mia_df, noise_levels, instances, control)
-}))
-
-# Safeguard store by dataset
-out_filename <- paste0("results/instances/original/by_dataset/", dataset, "_results.csv")
-#out_filename <- paste0("results/instances/with_noise/", dataset, "_results.csv")
-write.csv(dataset_results, file = out_filename, row.names = FALSE)
-cat("Altered instances with noise recorded\n")
-cat("----------------\n")
-#dataset_results
-#})
+# Process each model separately and save results per dataset-model combination
+for(model in models) {
+  cat("Processing model:", model, "for dataset:", dataset, "\n")
+  
+  # Call functions (iterate folds) for this specific model
+  model_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
+    process_model(dataset, fold_i, 
+                  df[fold_train_indices[[fold_i]], ], 
+                  df[fold_test_indices[[fold_i]], ], 
+                  fold_test_indices[[fold_i]], 
+                  model, mia_df, noise_levels, instances, control)
+  }))
+  
+  # Save results per dataset-model combination
+  out_filename <- paste0("results/instances/original/by_dataset/", dataset, "_", model, "_results.csv")
+  write.csv(model_results, file = out_filename, row.names = FALSE)
+  cat("Saved results to:", out_filename, "\n")
+  cat("----------------\n")
+}
 
 cat("****************************\n")
 cat("Instances altered with noise\n")

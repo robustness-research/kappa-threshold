@@ -1,0 +1,6020 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: mlpML for dataset: diabetes 
+Training model on clean data
+Generated and saved 154 indices for fold 1 to: results/instances/original/vectors/diabetes_mlpML_all_folds.csv 
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 1 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 153 indices for fold 2 to: results/instances/original/vectors/diabetes_mlpML_all_folds.csv 
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 2 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 154 indices for fold 3 to: results/instances/original/vectors/diabetes_mlpML_all_folds.csv 
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 3 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 153 indices for fold 4 to: results/instances/original/vectors/diabetes_mlpML_all_folds.csv 
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 61 indices (first 61 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 61 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 76 indices (first 76 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 76 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 107 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 115 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 122 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 138 indices (first 138 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 138 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 4 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 153 indices (first 153 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 153 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 154 indices for fold 5 to: results/instances/original/vectors/diabetes_mlpML_all_folds.csv 
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.2.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.3.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.4.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.5.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.6.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.7.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.8.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise0.9.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 15 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 31 indices (first 31 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 31 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 38 indices (first 38 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 38 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 46 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 62 indices (first 62 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 62 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 77 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 92 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 108 indices (first 108 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 108 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 116 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 123 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 139 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: diabetes 
+Fold: 5 
+Method: mlpML 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/diabetes_plas_noise1.csv 
+Using 154 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/diabetes_mlpML_results.csv 
+----------------
+There were 50 or more warnings (use warnings() to see the first 50)
+****************************
+Instances altered with noise
+****************************

@@ -1,0 +1,1289 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: phoneme 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7562 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+6494 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+7040 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+6569 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7156 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+7013 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7231 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7299 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+6794 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7423 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7235 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7446 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7304 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7317 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7236 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7179 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3986 rules (length<=3) were extracted from the first 500 trees.
+7742 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7250 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7438 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7273 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7233 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7825 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+7296 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7303 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7288 rules (length<=4) were extracted from the first 500 trees.
+7274 rules (length<=4) were extracted from the first 500 trees.
+Generated and saved 635 indices for fold 1 to: results/instances/original/vectors/phoneme_rfRules_all_folds.csv 
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+7103 rules (length<=4) were extracted from the first 500 trees.

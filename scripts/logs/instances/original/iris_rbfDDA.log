@@ -1,0 +1,6019 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rbfDDA for dataset: iris 
+Training model on clean data
+Generated and saved 30 indices for fold 1 to: results/instances/original/vectors/iris_rbfDDA_all_folds.csv 
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 1 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 30 indices for fold 2 to: results/instances/original/vectors/iris_rbfDDA_all_folds.csv 
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 2 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 30 indices for fold 3 to: results/instances/original/vectors/iris_rbfDDA_all_folds.csv 
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 3 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 30 indices for fold 4 to: results/instances/original/vectors/iris_rbfDDA_all_folds.csv 
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 4 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 30 indices for fold 5 to: results/instances/original/vectors/iris_rbfDDA_all_folds.csv 
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.2.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.3.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.4.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.5.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.6.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.7.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.8.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise0.9.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 3 indices (first 3 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 3 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 6 indices (first 6 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 6 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 8 indices (first 8 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 8 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 9 indices (first 9 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 9 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 12 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 15 indices (first 15 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 15 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 18 indices (first 18 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 18 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 21 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 22 indices (first 22 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 22 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 24 indices (first 24 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 24 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 27 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: iris 
+Fold: 5 
+Method: rbfDDA 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/iris_petalwidth_noise1.csv 
+Using 30 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/iris_rbfDDA_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

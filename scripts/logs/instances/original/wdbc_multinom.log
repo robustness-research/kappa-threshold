@@ -1,0 +1,6089 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: multinom for dataset: wdbc 
+Training model on clean data
+# weights:  32 (31 variable)
+initial  value 314.688820 
+iter  10 value 90.899584
+iter  20 value 30.047501
+iter  30 value 23.631354
+iter  40 value 21.860436
+iter  50 value 20.990824
+iter  60 value 20.058318
+iter  70 value 19.641103
+iter  80 value 19.359589
+iter  90 value 18.305495
+iter 100 value 17.974545
+final  value 17.974545 
+stopped after 100 iterations
+Generated and saved 115 indices for fold 1 to: results/instances/original/vectors/wdbc_multinom_all_folds.csv 
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+# weights:  32 (31 variable)
+initial  value 316.075114 
+iter  10 value 79.063913
+iter  20 value 28.479346
+iter  30 value 24.212034
+iter  40 value 21.790321
+iter  50 value 21.096142
+iter  60 value 20.693482
+iter  70 value 19.847689
+iter  80 value 19.701893
+iter  90 value 19.249199
+iter 100 value 19.093630
+final  value 19.093630 
+stopped after 100 iterations
+Generated and appended 113 indices for fold 2 to: results/instances/original/vectors/wdbc_multinom_all_folds.csv 
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+# weights:  32 (31 variable)
+initial  value 316.075114 
+iter  10 value 87.937931
+iter  20 value 27.681394
+iter  30 value 22.659026
+iter  40 value 20.547154
+iter  50 value 18.807931
+iter  60 value 18.167426
+iter  70 value 17.849028
+iter  80 value 17.566490
+iter  90 value 17.174800
+iter 100 value 16.232536
+final  value 16.232536 
+stopped after 100 iterations
+Generated and appended 113 indices for fold 3 to: results/instances/original/vectors/wdbc_multinom_all_folds.csv 
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+# weights:  32 (31 variable)
+initial  value 315.381967 
+iter  10 value 90.014538
+iter  20 value 24.023334
+iter  30 value 20.124830
+iter  40 value 17.756701
+iter  50 value 16.359146
+iter  60 value 14.878151
+iter  70 value 14.582134
+iter  80 value 14.174975
+iter  90 value 13.903528
+iter 100 value 12.886059
+final  value 12.886059 
+stopped after 100 iterations
+Generated and appended 114 indices for fold 4 to: results/instances/original/vectors/wdbc_multinom_all_folds.csv 
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+# weights:  32 (31 variable)
+initial  value 315.381967 
+iter  10 value 83.711882
+iter  20 value 21.826297
+iter  30 value 16.602906
+iter  40 value 14.708753
+iter  50 value 13.377449
+iter  60 value 12.519679
+iter  70 value 12.049062
+iter  80 value 11.743546
+iter  90 value 11.306577
+iter 100 value 11.050581
+final  value 11.050581 
+stopped after 100 iterations
+Generated and appended 114 indices for fold 5 to: results/instances/original/vectors/wdbc_multinom_all_folds.csv 
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: multinom 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V4_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/wdbc_multinom_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

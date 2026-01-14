@@ -1,0 +1,34 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: waveform-5000 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7947 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7827 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7931 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7768 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7874 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7877 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7850 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3997 rules (length<=3) were extracted from the first 500 trees.
+7847 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.

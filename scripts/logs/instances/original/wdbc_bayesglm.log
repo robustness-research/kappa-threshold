@@ -1,0 +1,6027 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: bayesglm for dataset: wdbc 
+Training model on clean data
+Generated and saved 115 indices for fold 1 to: results/instances/original/vectors/wdbc_bayesglm_all_folds.csv 
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 12 indices (first 12 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 12 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 29 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 58 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 69 indices (first 69 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 69 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 92 indices (first 92 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 92 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 104 indices (first 104 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 104 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 1 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 115 indices (first 115 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 115 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 113 indices for fold 2 to: results/instances/original/vectors/wdbc_bayesglm_all_folds.csv 
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 2 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 113 indices for fold 3 to: results/instances/original/vectors/wdbc_bayesglm_all_folds.csv 
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 45 indices (first 45 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 45 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 56 indices (first 56 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 56 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 79 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 85 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 90 indices (first 90 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 90 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 102 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 3 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 113 indices (first 113 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 113 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 114 indices for fold 4 to: results/instances/original/vectors/wdbc_bayesglm_all_folds.csv 
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 114 indices for fold 5 to: results/instances/original/vectors/wdbc_bayesglm_all_folds.csv 
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: bayesglm 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/wdbc_bayesglm_results.csv 
+----------------
+Warning messages:
+1: fitted probabilities numerically 0 or 1 occurred 
+2: fitted probabilities numerically 0 or 1 occurred 
+3: fitted probabilities numerically 0 or 1 occurred 
+4: algorithm did not converge 
+5: fitted probabilities numerically 0 or 1 occurred 
+6: algorithm did not converge 
+7: fitted probabilities numerically 0 or 1 occurred 
+****************************
+Instances altered with noise
+****************************

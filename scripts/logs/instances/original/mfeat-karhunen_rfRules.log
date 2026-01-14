@@ -1,0 +1,2579 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: mfeat-karhunen 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7806 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3997 rules (length<=3) were extracted from the first 500 trees.
+7772 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3995 rules (length<=3) were extracted from the first 500 trees.
+7835 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7466 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7891 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7950 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7615 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7919 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7718 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7854 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3997 rules (length<=3) were extracted from the first 500 trees.
+7869 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3995 rules (length<=3) were extracted from the first 500 trees.
+7810 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7760 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7902 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7746 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7948 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7893 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7802 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7816 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3994 rules (length<=3) were extracted from the first 500 trees.
+7615 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3991 rules (length<=3) were extracted from the first 500 trees.
+7708 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3994 rules (length<=3) were extracted from the first 500 trees.
+7873 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7763 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7908 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3991 rules (length<=3) were extracted from the first 500 trees.
+7801 rules (length<=4) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+Generated and saved 400 indices for fold 1 to: results/instances/original/vectors/mfeat-karhunen_rfRules_all_folds.csv 
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3995 rules (length<=3) were extracted from the first 500 trees.
+7864 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7795 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7577 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7915 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3986 rules (length<=3) were extracted from the first 500 trees.
+7615 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3997 rules (length<=3) were extracted from the first 500 trees.
+7885 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7669 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3986 rules (length<=3) were extracted from the first 500 trees.
+7809 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7820 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3993 rules (length<=3) were extracted from the first 500 trees.
+7599 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3985 rules (length<=3) were extracted from the first 500 trees.
+7489 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7643 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7584 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7864 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7782 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7899 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7760 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3987 rules (length<=3) were extracted from the first 500 trees.
+7767 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7747 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3995 rules (length<=3) were extracted from the first 500 trees.
+7775 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7909 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3985 rules (length<=3) were extracted from the first 500 trees.
+7797 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7847 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7809 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3995 rules (length<=3) were extracted from the first 500 trees.
+7888 rules (length<=4) were extracted from the first 500 trees.
+7843 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 400 indices for fold 2 to: results/instances/original/vectors/mfeat-karhunen_rfRules_all_folds.csv 
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.2.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.3.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.4.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.5.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.6.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.7.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.8.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise0.9.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 40 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 80 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 100 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 120 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 160 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 200 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 240 indices (first 240 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 240 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 280 indices (first 280 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 280 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 300 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 320 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 360 indices (first 360 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 360 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: mfeat-karhunen 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/mfeat-karhunen_att1_noise1.csv 
+Using 400 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3991 rules (length<=3) were extracted from the first 500 trees.
+7835 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3993 rules (length<=3) were extracted from the first 500 trees.
+7342 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3996 rules (length<=3) were extracted from the first 500 trees.
+7883 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3998 rules (length<=3) were extracted from the first 500 trees.
+7861 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3999 rules (length<=3) were extracted from the first 500 trees.
+7846 rules (length<=4) were extracted from the first 500 trees.

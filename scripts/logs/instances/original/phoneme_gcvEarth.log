@@ -1,0 +1,6020 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: gcvEarth for dataset: phoneme 
+Training model on clean data
+Generated and saved 635 indices for fold 1 to: results/instances/original/vectors/phoneme_gcvEarth_all_folds.csv 
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 634 indices for fold 2 to: results/instances/original/vectors/phoneme_gcvEarth_all_folds.csv 
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 634 indices for fold 3 to: results/instances/original/vectors/phoneme_gcvEarth_all_folds.csv 
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 635 indices for fold 4 to: results/instances/original/vectors/phoneme_gcvEarth_all_folds.csv 
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+Generated and appended 634 indices for fold 5 to: results/instances/original/vectors/phoneme_gcvEarth_all_folds.csv 
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.4.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.5.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.6.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.7.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.8.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.9.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/phoneme_gcvEarth_results.csv 
+----------------
+There were 27 warnings (use warnings() to see them)
+****************************
+Instances altered with noise
+****************************

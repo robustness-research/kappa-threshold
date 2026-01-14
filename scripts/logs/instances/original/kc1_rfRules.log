@@ -1,0 +1,3860 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: kc1 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7448 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7470 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3852 rules (length<=3) were extracted from the first 500 trees.
+6870 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3989 rules (length<=3) were extracted from the first 500 trees.
+7348 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7037 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7170 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7136 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7398 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7430 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7159 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7241 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7437 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+7199 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3921 rules (length<=3) were extracted from the first 500 trees.
+6994 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7139 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+6456 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7428 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7241 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+6908 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7266 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7306 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7170 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7249 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6890 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7437 rules (length<=4) were extracted from the first 500 trees.
+7414 rules (length<=4) were extracted from the first 500 trees.
+Generated and saved 422 indices for fold 1 to: results/instances/original/vectors/kc1_rfRules_all_folds.csv 
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7396 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6841 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6996 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+6957 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7087 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+6597 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+6902 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+6928 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+6983 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6774 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7390 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+6953 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6679 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+6964 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6922 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7170 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+6896 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+6874 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+6924 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+6516 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7073 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+6725 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+6608 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7223 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6573 rules (length<=4) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+Generated and appended 421 indices for fold 2 to: results/instances/original/vectors/kc1_rfRules_all_folds.csv 
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 105 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 126 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 168 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 210 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 337 indices (first 337 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 337 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 379 indices (first 379 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 379 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 421 indices (first 421 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 421 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7036 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6719 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+6838 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+6915 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6858 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+6656 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6876 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6804 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6905 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7002 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+6935 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+6389 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7348 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7063 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7148 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6794 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6802 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+7158 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7182 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7049 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+6831 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7275 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7060 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7005 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7029 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+Generated and appended 422 indices for fold 3 to: results/instances/original/vectors/kc1_rfRules_all_folds.csv 
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.1.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.2.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.3.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.4.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.5.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.6.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.7.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.8.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise0.9.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 84 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 169 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 211 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 253 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 295 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 316 indices (first 316 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 316 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 338 indices (first 338 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 338 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 380 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: kc1 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 422 indices (first 422 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/kc1_d_noise1.csv 
+Using 422 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+2000 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7313 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7140 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+7162 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3852 rules (length<=3) were extracted from the first 500 trees.
+6858 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7283 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7018 rules (length<=4) were extracted from the first 500 trees.

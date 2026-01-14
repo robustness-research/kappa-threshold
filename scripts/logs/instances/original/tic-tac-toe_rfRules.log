@@ -1,0 +1,1362 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: tic-tac-toe 
+Training model on clean data
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7022 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7027 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7007 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7020 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7007 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7018 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7036 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7063 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7006 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7069 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7126 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7053 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7012 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7050 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7022 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7064 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7048 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7066 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7022 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7056 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7010 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7063 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7013 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7022 rules (length<=4) were extracted from the first 500 trees.
+7008 rules (length<=4) were extracted from the first 500 trees.
+Generated and saved 193 indices for fold 1 to: results/instances/original/vectors/tic-tac-toe_rfRules_all_folds.csv 
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.1.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.2.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.3.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.4.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.5.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.6.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.7.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.8.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise0.9.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 19 indices (first 19 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 19 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 39 indices (first 39 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 39 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 48 indices (first 48 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 48 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 58 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 77 indices (first 77 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 77 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 96 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 116 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 135 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 145 indices (first 145 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 145 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 154 indices (first 154 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 154 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 174 indices (first 174 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 174 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: tic-tac-toe 
+Fold: 1 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/tic-tac-toe_middle_middle_square_noise1.csv 
+Using 193 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7007 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7030 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7013 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7011 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7047 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7009 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7015 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7059 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7319 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7011 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7005 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7070 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7037 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7019 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7026 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7034 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7037 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7022 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7044 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7058 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7116 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7076 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+4000 rules (length<=3) were extracted from the first 500 trees.
+7011 rules (length<=4) were extracted from the first 500 trees.
+7026 rules (length<=4) were extracted from the first 500 trees.
