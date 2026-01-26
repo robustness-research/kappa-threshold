@@ -1,0 +1,3032 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: analcatdata_authorship 
+Loaded 169 indices for fold 1 from: results/instances/original/vectors/analcatdata_authorship_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Altering 672 out of 672 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1993 rules (length<=2) were extracted from the first 500 trees.
+3804 rules (length<=3) were extracted from the first 500 trees.
+4834 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3769 rules (length<=3) were extracted from the first 500 trees.
+5109 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+5300 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3839 rules (length<=3) were extracted from the first 500 trees.
+5082 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3778 rules (length<=3) were extracted from the first 500 trees.
+5083 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+5329 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3833 rules (length<=3) were extracted from the first 500 trees.
+5664 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+5107 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+5056 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5446 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3778 rules (length<=3) were extracted from the first 500 trees.
+4822 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3821 rules (length<=3) were extracted from the first 500 trees.
+5112 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3749 rules (length<=3) were extracted from the first 500 trees.
+4929 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+5435 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+5389 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+5450 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+5387 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+4959 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3698 rules (length<=3) were extracted from the first 500 trees.
+4845 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3768 rules (length<=3) were extracted from the first 500 trees.
+4881 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+5149 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5413 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3817 rules (length<=3) were extracted from the first 500 trees.
+4831 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+5281 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+5043 rules (length<=4) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Altering 672 out of 672 training instances
+1986 rules (length<=2) were extracted from the first 500 trees.
+3786 rules (length<=3) were extracted from the first 500 trees.
+4890 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+5348 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5062 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3725 rules (length<=3) were extracted from the first 500 trees.
+4747 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+5080 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3767 rules (length<=3) were extracted from the first 500 trees.
+4996 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+4848 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3677 rules (length<=3) were extracted from the first 500 trees.
+4122 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+5176 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3792 rules (length<=3) were extracted from the first 500 trees.
+4800 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+5037 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+5044 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+5527 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3670 rules (length<=3) were extracted from the first 500 trees.
+4434 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5239 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+5137 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+5218 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+5351 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+5379 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+5360 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+4986 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+4915 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3821 rules (length<=3) were extracted from the first 500 trees.
+4733 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+5260 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+5009 rules (length<=4) were extracted from the first 500 trees.
+5513 rules (length<=4) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Altering 672 out of 672 training instances
+1992 rules (length<=2) were extracted from the first 500 trees.
+3785 rules (length<=3) were extracted from the first 500 trees.
+5262 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+5696 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5593 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3870 rules (length<=3) were extracted from the first 500 trees.
+5519 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+5684 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+5413 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+5305 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+5384 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+5727 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5341 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+5724 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+5566 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+5503 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+5377 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+5307 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+5569 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+5557 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+5460 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3839 rules (length<=3) were extracted from the first 500 trees.
+5321 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+5914 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5387 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+5101 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+5386 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+5442 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+5596 rules (length<=4) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 167 indices for fold 2 from: results/instances/original/vectors/analcatdata_authorship_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Altering 674 out of 674 training instances
+1985 rules (length<=2) were extracted from the first 500 trees.
+3756 rules (length<=3) were extracted from the first 500 trees.
+5069 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+5365 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5200 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+5019 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+5001 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5181 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+5405 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+5236 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3776 rules (length<=3) were extracted from the first 500 trees.
+5259 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3804 rules (length<=3) were extracted from the first 500 trees.
+5248 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+5375 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3782 rules (length<=3) were extracted from the first 500 trees.
+5154 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+4737 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3731 rules (length<=3) were extracted from the first 500 trees.
+4791 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3815 rules (length<=3) were extracted from the first 500 trees.
+5490 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3792 rules (length<=3) were extracted from the first 500 trees.
+5009 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+5139 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3734 rules (length<=3) were extracted from the first 500 trees.
+5251 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+5178 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+5276 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+5066 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3806 rules (length<=3) were extracted from the first 500 trees.
+5374 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5285 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+5395 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+5071 rules (length<=4) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 33 indices (first 33 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 33 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 100 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 117 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 125 indices (first 125 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 125 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 150 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 167 indices (first 167 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 167 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Altering 674 out of 674 training instances
+1984 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+5434 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+5200 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3740 rules (length<=3) were extracted from the first 500 trees.
+4740 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+5333 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3798 rules (length<=3) were extracted from the first 500 trees.
+5376 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+5347 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3798 rules (length<=3) were extracted from the first 500 trees.
+5285 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+5365 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3792 rules (length<=3) were extracted from the first 500 trees.
+4956 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3766 rules (length<=3) were extracted from the first 500 trees.
+5312 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+5441 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+5220 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3816 rules (length<=3) were extracted from the first 500 trees.
+5270 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+5461 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+5265 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5328 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+5251 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3695 rules (length<=3) were extracted from the first 500 trees.
+5100 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+5342 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3780 rules (length<=3) were extracted from the first 500 trees.
+4982 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3763 rules (length<=3) were extracted from the first 500 trees.
+5011 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+5351 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3742 rules (length<=3) were extracted from the first 500 trees.
+5081 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+5384 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+5180 rules (length<=4) were extracted from the first 500 trees.
+3885 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 33 indices (first 33 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 33 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 100 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 117 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 125 indices (first 125 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 125 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 150 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 167 indices (first 167 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 167 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Altering 674 out of 674 training instances
+1990 rules (length<=2) were extracted from the first 500 trees.
+3806 rules (length<=3) were extracted from the first 500 trees.
+5096 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+5255 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+5259 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+5471 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3727 rules (length<=3) were extracted from the first 500 trees.
+5180 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3796 rules (length<=3) were extracted from the first 500 trees.
+5527 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3784 rules (length<=3) were extracted from the first 500 trees.
+5184 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3809 rules (length<=3) were extracted from the first 500 trees.
+5404 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3786 rules (length<=3) were extracted from the first 500 trees.
+5330 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+5569 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3710 rules (length<=3) were extracted from the first 500 trees.
+5180 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3796 rules (length<=3) were extracted from the first 500 trees.
+5250 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3780 rules (length<=3) were extracted from the first 500 trees.
+5249 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3803 rules (length<=3) were extracted from the first 500 trees.
+5264 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3747 rules (length<=3) were extracted from the first 500 trees.
+5097 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5433 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+5267 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3734 rules (length<=3) were extracted from the first 500 trees.
+5029 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3733 rules (length<=3) were extracted from the first 500 trees.
+5498 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+5281 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3688 rules (length<=3) were extracted from the first 500 trees.
+4972 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3783 rules (length<=3) were extracted from the first 500 trees.
+5214 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3743 rules (length<=3) were extracted from the first 500 trees.
+5165 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+5461 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3767 rules (length<=3) were extracted from the first 500 trees.
+4879 rules (length<=4) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 33 indices (first 33 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 33 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 100 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 117 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 125 indices (first 125 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 125 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 150 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 167 indices (first 167 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 167 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 168 indices for fold 3 from: results/instances/original/vectors/analcatdata_authorship_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Altering 673 out of 673 training instances
+1989 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+5325 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5836 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+5359 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+5311 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+5323 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+5134 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5362 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+5401 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+5496 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+5662 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+5226 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+5530 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+5388 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+5216 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3817 rules (length<=3) were extracted from the first 500 trees.
+5248 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+5412 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+5669 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3776 rules (length<=3) were extracted from the first 500 trees.
+5033 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5764 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+5705 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+5561 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+5793 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+5600 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+5122 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3796 rules (length<=3) were extracted from the first 500 trees.
+5115 rules (length<=4) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Altering 673 out of 673 training instances
+1988 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5491 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3812 rules (length<=3) were extracted from the first 500 trees.
+5122 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+5557 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3741 rules (length<=3) were extracted from the first 500 trees.
+5106 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+5550 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+5366 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+5323 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3771 rules (length<=3) were extracted from the first 500 trees.
+4981 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+5685 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3877 rules (length<=3) were extracted from the first 500 trees.
+5465 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5644 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3793 rules (length<=3) were extracted from the first 500 trees.
+5292 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+5585 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+5302 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+5528 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3844 rules (length<=3) were extracted from the first 500 trees.
+5491 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5461 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+5564 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5566 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3736 rules (length<=3) were extracted from the first 500 trees.
+4984 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3750 rules (length<=3) were extracted from the first 500 trees.
+5362 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+5267 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+5442 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3809 rules (length<=3) were extracted from the first 500 trees.
+5395 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3885 rules (length<=3) were extracted from the first 500 trees.
+5567 rules (length<=4) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Altering 673 out of 673 training instances
+1988 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+5566 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3811 rules (length<=3) were extracted from the first 500 trees.
+5209 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+5149 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5434 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+5528 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+5564 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+5694 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5611 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3831 rules (length<=3) were extracted from the first 500 trees.
+5467 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+5427 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3841 rules (length<=3) were extracted from the first 500 trees.
+5374 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+5088 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+5657 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3761 rules (length<=3) were extracted from the first 500 trees.
+4837 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+5389 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+5337 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+5394 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+5872 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3749 rules (length<=3) were extracted from the first 500 trees.
+5349 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+5774 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5448 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+5658 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+5689 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3693 rules (length<=3) were extracted from the first 500 trees.
+4887 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3815 rules (length<=3) were extracted from the first 500 trees.
+5100 rules (length<=4) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 169 indices for fold 4 from: results/instances/original/vectors/analcatdata_authorship_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Altering 672 out of 672 training instances
+1985 rules (length<=2) were extracted from the first 500 trees.
+3838 rules (length<=3) were extracted from the first 500 trees.
+5542 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5809 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+4869 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+5709 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+5491 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+5568 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+5262 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5613 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+5617 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5455 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3796 rules (length<=3) were extracted from the first 500 trees.
+5238 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+5527 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5414 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3816 rules (length<=3) were extracted from the first 500 trees.
+5397 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+5159 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5398 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+5341 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+5431 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+5140 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5621 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+5575 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+5519 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3885 rules (length<=3) were extracted from the first 500 trees.
+5487 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3780 rules (length<=3) were extracted from the first 500 trees.
+5262 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+5357 rules (length<=4) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Altering 672 out of 672 training instances
+1997 rules (length<=2) were extracted from the first 500 trees.
+3839 rules (length<=3) were extracted from the first 500 trees.
+5294 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+5624 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+5484 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+5340 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+5388 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+5662 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3777 rules (length<=3) were extracted from the first 500 trees.
+5350 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+5441 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+5557 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3816 rules (length<=3) were extracted from the first 500 trees.
+5220 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+5438 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+5462 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+5695 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+5405 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+5464 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+5585 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5591 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+5273 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+5776 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+5396 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+5815 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+5243 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+5481 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+5623 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3777 rules (length<=3) were extracted from the first 500 trees.
+5154 rules (length<=4) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Altering 672 out of 672 training instances
+1992 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+5566 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+5771 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+5613 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+5675 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+5511 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+5508 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5644 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+5473 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+5326 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+5542 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+5677 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+5507 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5390 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+5465 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3793 rules (length<=3) were extracted from the first 500 trees.
+5229 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+5437 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3823 rules (length<=3) were extracted from the first 500 trees.
+5597 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+5448 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3757 rules (length<=3) were extracted from the first 500 trees.
+5333 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+5628 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3715 rules (length<=3) were extracted from the first 500 trees.
+4915 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+5356 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+5595 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+5427 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+5914 rules (length<=4) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 51 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 68 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 127 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 135 indices (first 135 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 135 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 152 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 169 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 168 indices for fold 5 from: results/instances/original/vectors/analcatdata_authorship_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Altering 673 out of 673 training instances
+1993 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5368 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5242 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+5355 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5414 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3852 rules (length<=3) were extracted from the first 500 trees.
+5463 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5595 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+5407 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3838 rules (length<=3) were extracted from the first 500 trees.
+5459 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+5537 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+5186 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+5331 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3801 rules (length<=3) were extracted from the first 500 trees.
+5538 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3833 rules (length<=3) were extracted from the first 500 trees.
+5473 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+5189 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+5410 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3765 rules (length<=3) were extracted from the first 500 trees.
+5266 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+5351 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3793 rules (length<=3) were extracted from the first 500 trees.
+5467 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+5594 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+5682 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3783 rules (length<=3) were extracted from the first 500 trees.
+5408 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3804 rules (length<=3) were extracted from the first 500 trees.
+5365 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+5179 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3875 rules (length<=3) were extracted from the first 500 trees.
+5477 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3844 rules (length<=3) were extracted from the first 500 trees.
+5568 rules (length<=4) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.1.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Altering 673 out of 673 training instances
+1998 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+5493 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+5320 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3785 rules (length<=3) were extracted from the first 500 trees.
+5433 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3802 rules (length<=3) were extracted from the first 500 trees.
+5234 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3817 rules (length<=3) were extracted from the first 500 trees.
+5315 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3789 rules (length<=3) were extracted from the first 500 trees.
+5354 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+5647 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+5522 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+5523 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+5942 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3885 rules (length<=3) were extracted from the first 500 trees.
+5761 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5759 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+5478 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+5746 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+5648 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+5525 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+5227 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+5603 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+5328 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+5449 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+5346 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+5282 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3841 rules (length<=3) were extracted from the first 500 trees.
+5465 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3714 rules (length<=3) were extracted from the first 500 trees.
+5344 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+5275 rules (length<=4) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.2.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Altering 673 out of 673 training instances
+1978 rules (length<=2) were extracted from the first 500 trees.
+3815 rules (length<=3) were extracted from the first 500 trees.
+5327 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3755 rules (length<=3) were extracted from the first 500 trees.
+5290 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3768 rules (length<=3) were extracted from the first 500 trees.
+5584 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3789 rules (length<=3) were extracted from the first 500 trees.
+5462 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3779 rules (length<=3) were extracted from the first 500 trees.
+5326 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+5719 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3768 rules (length<=3) were extracted from the first 500 trees.
+5146 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+5752 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+5763 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+5633 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+5806 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3831 rules (length<=3) were extracted from the first 500 trees.
+5191 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+5219 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3845 rules (length<=3) were extracted from the first 500 trees.
+5420 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3790 rules (length<=3) were extracted from the first 500 trees.
+5347 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+5670 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+5587 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3819 rules (length<=3) were extracted from the first 500 trees.
+5262 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+5413 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3885 rules (length<=3) were extracted from the first 500 trees.
+5679 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+5555 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+5609 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+5653 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+5117 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3829 rules (length<=3) were extracted from the first 500 trees.
+5572 rules (length<=4) were extracted from the first 500 trees.
+5984 rules (length<=4) were extracted from the first 500 trees.
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 17 indices (first 17 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 17 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 34 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 42 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 50 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 67 indices (first 67 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 67 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 84 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 101 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 118 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 126 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 134 indices (first 134 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 134 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 151 indices (first 151 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 151 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: analcatdata_authorship 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/analcatdata_authorship_be_noise0.3.csv 
+Using 168 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/analcatdata_authorship_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

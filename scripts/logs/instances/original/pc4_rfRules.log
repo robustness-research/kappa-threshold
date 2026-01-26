@@ -2631,3 +2631,3772 @@ Training model on clean data
 1971 rules (length<=2) were extracted from the first 500 trees.
 3724 rules (length<=3) were extracted from the first 500 trees.
 6358 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3719 rules (length<=3) were extracted from the first 500 trees.
+6072 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3315 rules (length<=3) were extracted from the first 500 trees.
+5237 rules (length<=4) were extracted from the first 500 trees.
+3781 rules (length<=3) were extracted from the first 500 trees.
+Generated and appended 291 indices for fold 3 to: results/instances/original/vectors/pc4_rfRules_all_folds.csv 
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1989 rules (length<=2) were extracted from the first 500 trees.
+3414 rules (length<=3) were extracted from the first 500 trees.
+5052 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3649 rules (length<=3) were extracted from the first 500 trees.
+5898 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+6351 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3783 rules (length<=3) were extracted from the first 500 trees.
+6461 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+6418 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+6721 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3687 rules (length<=3) were extracted from the first 500 trees.
+6475 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3633 rules (length<=3) were extracted from the first 500 trees.
+5518 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3503 rules (length<=3) were extracted from the first 500 trees.
+5306 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3777 rules (length<=3) were extracted from the first 500 trees.
+6446 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3777 rules (length<=3) were extracted from the first 500 trees.
+6649 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3657 rules (length<=3) were extracted from the first 500 trees.
+5873 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3829 rules (length<=3) were extracted from the first 500 trees.
+6789 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3750 rules (length<=3) were extracted from the first 500 trees.
+6453 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3629 rules (length<=3) were extracted from the first 500 trees.
+5389 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3547 rules (length<=3) were extracted from the first 500 trees.
+5868 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3740 rules (length<=3) were extracted from the first 500 trees.
+6294 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3729 rules (length<=3) were extracted from the first 500 trees.
+6088 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3780 rules (length<=3) were extracted from the first 500 trees.
+6535 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3733 rules (length<=3) were extracted from the first 500 trees.
+6259 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3744 rules (length<=3) were extracted from the first 500 trees.
+6478 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3726 rules (length<=3) were extracted from the first 500 trees.
+6399 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3784 rules (length<=3) were extracted from the first 500 trees.
+6388 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3776 rules (length<=3) were extracted from the first 500 trees.
+6525 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3528 rules (length<=3) were extracted from the first 500 trees.
+5335 rules (length<=4) were extracted from the first 500 trees.
+6478 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 291 indices for fold 4 to: results/instances/original/vectors/pc4_rfRules_all_folds.csv 
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 87 indices (first 87 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 87 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 116 indices (first 116 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 116 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 218 indices (first 218 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 218 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 233 indices (first 233 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 233 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 262 indices (first 262 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 262 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 291 indices (first 291 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 291 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1987 rules (length<=2) were extracted from the first 500 trees.
+3663 rules (length<=3) were extracted from the first 500 trees.
+5948 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+6296 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3739 rules (length<=3) were extracted from the first 500 trees.
+6657 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3812 rules (length<=3) were extracted from the first 500 trees.
+6565 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3727 rules (length<=3) were extracted from the first 500 trees.
+6375 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+6379 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3677 rules (length<=3) were extracted from the first 500 trees.
+6117 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3426 rules (length<=3) were extracted from the first 500 trees.
+5260 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3740 rules (length<=3) were extracted from the first 500 trees.
+6584 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+6254 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3199 rules (length<=3) were extracted from the first 500 trees.
+4521 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3736 rules (length<=3) were extracted from the first 500 trees.
+6547 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3804 rules (length<=3) were extracted from the first 500 trees.
+6416 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3541 rules (length<=3) were extracted from the first 500 trees.
+6127 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3700 rules (length<=3) were extracted from the first 500 trees.
+6155 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3634 rules (length<=3) were extracted from the first 500 trees.
+5783 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3537 rules (length<=3) were extracted from the first 500 trees.
+5314 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3372 rules (length<=3) were extracted from the first 500 trees.
+5045 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3422 rules (length<=3) were extracted from the first 500 trees.
+5618 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6629 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+6711 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3658 rules (length<=3) were extracted from the first 500 trees.
+6020 rules (length<=4) were extracted from the first 500 trees.
+1909 rules (length<=2) were extracted from the first 500 trees.
+3421 rules (length<=3) were extracted from the first 500 trees.
+6020 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3711 rules (length<=3) were extracted from the first 500 trees.
+6254 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3714 rules (length<=3) were extracted from the first 500 trees.
+6274 rules (length<=4) were extracted from the first 500 trees.
+3769 rules (length<=3) were extracted from the first 500 trees.
+Generated and appended 292 indices for fold 5 to: results/instances/original/vectors/pc4_rfRules_all_folds.csv 
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.1.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.2.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.3.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.4.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.5.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.6.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.7.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.8.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise0.9.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 58 indices (first 58 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 58 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 73 indices (first 73 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 73 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 117 indices (first 117 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 117 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 146 indices (first 146 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 146 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 175 indices (first 175 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 175 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 204 indices (first 204 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 204 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 219 indices (first 219 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 219 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 234 indices (first 234 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 234 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 263 indices (first 263 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 263 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: pc4 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 292 indices (first 292 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/pc4_LOC_CODE_AND_COMMENT_noise1.csv 
+Using 292 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/pc4_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

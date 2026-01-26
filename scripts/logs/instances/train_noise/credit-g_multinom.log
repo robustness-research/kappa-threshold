@@ -1,0 +1,2015 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: multinom for dataset: credit-g 
+Loaded 200 indices for fold 1 from: results/instances/original/vectors/credit-g_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 405.709353
+iter  20 value 371.916123
+iter  30 value 369.037437
+iter  40 value 368.889002
+final  value 368.888848 
+converged
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 480 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 403.867311
+iter  20 value 369.744294
+iter  30 value 368.156124
+iter  40 value 368.106256
+final  value 368.106093 
+converged
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 400 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 405.232251
+iter  20 value 372.460824
+iter  30 value 368.995614
+iter  40 value 368.892117
+final  value 368.891966 
+converged
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 2 from: results/instances/original/vectors/credit-g_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 399.270442
+iter  20 value 367.528912
+iter  30 value 366.178046
+iter  40 value 366.115019
+final  value 366.114869 
+converged
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 480 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 401.310432
+iter  20 value 366.422796
+iter  30 value 364.672393
+iter  40 value 364.549824
+final  value 364.549678 
+converged
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 400 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 398.153795
+iter  20 value 363.659387
+iter  30 value 361.854010
+iter  40 value 361.779206
+final  value 361.779089 
+converged
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 3 from: results/instances/original/vectors/credit-g_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 431.486742
+iter  20 value 363.914862
+iter  30 value 356.746027
+iter  40 value 356.295699
+iter  50 value 356.224119
+iter  60 value 356.211424
+final  value 356.211316 
+converged
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 480 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 424.999987
+iter  20 value 358.102371
+iter  30 value 351.923958
+iter  40 value 351.709483
+iter  50 value 351.638822
+iter  60 value 351.631499
+final  value 351.631471 
+converged
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 400 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 430.581863
+iter  20 value 368.245542
+iter  30 value 359.471785
+iter  40 value 359.243125
+iter  50 value 359.178372
+iter  60 value 359.167839
+final  value 359.167776 
+converged
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 4 from: results/instances/original/vectors/credit-g_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 392.836151
+iter  20 value 362.643661
+iter  30 value 360.599210
+iter  40 value 360.514794
+final  value 360.514549 
+converged
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 480 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 386.265800
+iter  20 value 358.951915
+iter  30 value 356.610413
+iter  40 value 356.479392
+final  value 356.479106 
+converged
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 400 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 383.264373
+iter  20 value 353.113537
+iter  30 value 349.702809
+iter  40 value 349.575217
+final  value 349.574741 
+converged
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 5 from: results/instances/original/vectors/credit-g_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 382.110451
+iter  20 value 355.645570
+iter  30 value 354.007543
+iter  40 value 353.868178
+final  value 353.867991 
+converged
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 480 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 380.153964
+iter  20 value 355.798232
+iter  30 value 353.154968
+iter  40 value 353.107829
+final  value 353.107696 
+converged
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 400 out of 800 training instances
+# weights:  50 (49 variable)
+initial  value 554.517744 
+iter  10 value 380.442389
+iter  20 value 355.873558
+iter  30 value 353.093984
+iter  40 value 353.020239
+final  value 353.020044 
+converged
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/credit-g_multinom_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

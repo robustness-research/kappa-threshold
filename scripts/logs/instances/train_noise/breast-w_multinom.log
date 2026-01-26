@@ -1,0 +1,1994 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: multinom for dataset: breast-w 
+Loaded 137 indices for fold 1 from: results/instances/original/vectors/breast-w_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 90.804099
+iter  20 value 45.276278
+iter  30 value 45.182018
+final  value 45.179811 
+converged
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 102.903830
+iter  20 value 44.586991
+iter  30 value 44.516839
+final  value 44.512168 
+converged
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 103.349071
+iter  20 value 45.754880
+iter  30 value 45.644512
+final  value 45.639790 
+converged
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 1 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 136 indices for fold 2 from: results/instances/original/vectors/breast-w_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 90.320357
+iter  20 value 35.704085
+iter  30 value 35.628027
+final  value 35.626805 
+converged
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 92.110287
+iter  20 value 34.842131
+iter  30 value 34.782338
+final  value 34.781567 
+converged
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 117.470342
+iter  20 value 36.637001
+iter  30 value 36.573124
+final  value 36.571027 
+converged
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 2 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 137 indices for fold 3 from: results/instances/original/vectors/breast-w_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 100.884452
+iter  20 value 43.662793
+iter  30 value 43.630591
+final  value 43.629907 
+converged
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 95.818141
+iter  20 value 42.371443
+iter  30 value 42.345244
+final  value 42.344195 
+converged
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 104.623762
+iter  20 value 43.003674
+iter  30 value 42.978207
+final  value 42.977735 
+converged
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 3 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 136 indices for fold 4 from: results/instances/original/vectors/breast-w_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 103.101915
+iter  20 value 32.378208
+iter  30 value 32.081087
+final  value 32.041590 
+converged
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 92.927692
+iter  20 value 32.315590
+iter  30 value 31.910887
+final  value 31.891740 
+converged
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Altering 547 out of 547 training instances
+# weights:  11 (10 variable)
+initial  value 379.151508 
+iter  10 value 88.980338
+iter  20 value 31.945774
+iter  30 value 31.481200
+final  value 31.464121 
+converged
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 54 indices (first 54 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 54 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 95 indices (first 95 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 95 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 102 indices (first 102 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 102 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 109 indices (first 109 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 109 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 122 indices (first 122 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 122 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 4 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 136 indices (first 136 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 136 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 137 indices for fold 5 from: results/instances/original/vectors/breast-w_multinom_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 96.451148
+iter  20 value 43.311711
+iter  30 value 43.234086
+final  value 43.231207 
+converged
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.1.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 92.218585
+iter  20 value 42.250086
+iter  30 value 42.180297
+final  value 42.178916 
+converged
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.2.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Altering 546 out of 546 training instances
+# weights:  11 (10 variable)
+initial  value 378.458361 
+iter  10 value 97.710335
+iter  20 value 41.831278
+iter  30 value 41.769768
+final  value 41.767479 
+converged
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 14 indices (first 14 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 14 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 27 indices (first 27 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 27 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 34 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 41 indices (first 41 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 41 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 55 indices (first 55 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 55 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 68 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 82 indices (first 82 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 82 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 96 indices (first 96 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 96 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 103 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 110 indices (first 110 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 110 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 123 indices (first 123 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 123 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: breast-w 
+Fold: 5 
+Method: multinom 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 137 indices (first 137 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/breast-w_Bare_Nuclei_noise0.3.csv 
+Using 137 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/breast-w_multinom_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

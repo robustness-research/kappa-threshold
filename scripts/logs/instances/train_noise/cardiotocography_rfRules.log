@@ -1,0 +1,3032 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: cardiotocography 
+Loaded 424 indices for fold 1 from: results/instances/original/vectors/cardiotocography_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Altering 1702 out of 1702 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1783 rules (length<=2) were extracted from the first 500 trees.
+2137 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2113 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2112 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2196 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1770 rules (length<=2) were extracted from the first 500 trees.
+2186 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1806 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2218 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2126 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1813 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1804 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2217 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1807 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2152 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2198 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2145 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2198 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2131 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2189 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2157 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Altering 1702 out of 1702 training instances
+1781 rules (length<=2) were extracted from the first 500 trees.
+2173 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2204 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2138 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1816 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1767 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1769 rules (length<=2) were extracted from the first 500 trees.
+2198 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2142 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2174 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2131 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1768 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2139 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1781 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1806 rules (length<=2) were extracted from the first 500 trees.
+2142 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1755 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Altering 1702 out of 1702 training instances
+1801 rules (length<=2) were extracted from the first 500 trees.
+2190 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1786 rules (length<=2) were extracted from the first 500 trees.
+2197 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1781 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1812 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1807 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2130 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1814 rules (length<=2) were extracted from the first 500 trees.
+2193 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2130 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2227 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1804 rules (length<=2) were extracted from the first 500 trees.
+2208 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2246 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1802 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1811 rules (length<=2) were extracted from the first 500 trees.
+2189 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 426 indices for fold 2 from: results/instances/original/vectors/cardiotocography_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Altering 1700 out of 1700 training instances
+1792 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2152 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2190 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2141 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2196 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1767 rules (length<=2) were extracted from the first 500 trees.
+2184 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1748 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2147 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1824 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2134 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2229 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2129 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 213 indices (first 213 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 213 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 341 indices (first 341 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 341 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 383 indices (first 383 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 383 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 426 indices (first 426 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 426 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Altering 1700 out of 1700 training instances
+1784 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2178 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2225 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2208 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2134 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2145 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1772 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1768 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1772 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2156 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2125 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2178 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2166 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2217 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1802 rules (length<=2) were extracted from the first 500 trees.
+2238 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2142 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1760 rules (length<=2) were extracted from the first 500 trees.
+2207 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 213 indices (first 213 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 213 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 341 indices (first 341 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 341 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 383 indices (first 383 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 383 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 426 indices (first 426 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 426 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Altering 1700 out of 1700 training instances
+1787 rules (length<=2) were extracted from the first 500 trees.
+2177 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2199 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2217 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2141 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2191 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1802 rules (length<=2) were extracted from the first 500 trees.
+2157 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2178 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2137 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1808 rules (length<=2) were extracted from the first 500 trees.
+2202 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2116 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1763 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2145 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2178 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2210 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2239 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1764 rules (length<=2) were extracted from the first 500 trees.
+2137 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1769 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2189 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2145 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 213 indices (first 213 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 213 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 341 indices (first 341 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 341 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 383 indices (first 383 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 383 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 426 indices (first 426 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 426 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 425 indices for fold 3 from: results/instances/original/vectors/cardiotocography_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Altering 1701 out of 1701 training instances
+1795 rules (length<=2) were extracted from the first 500 trees.
+2202 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2132 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2239 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1765 rules (length<=2) were extracted from the first 500 trees.
+2190 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1820 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2168 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1769 rules (length<=2) were extracted from the first 500 trees.
+2140 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2190 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2186 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1781 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2174 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2163 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2134 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1765 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1770 rules (length<=2) were extracted from the first 500 trees.
+2165 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1772 rules (length<=2) were extracted from the first 500 trees.
+2223 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 255 indices (first 255 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 255 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 319 indices (first 319 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 319 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 340 indices (first 340 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 340 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 425 indices (first 425 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 425 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Altering 1701 out of 1701 training instances
+1781 rules (length<=2) were extracted from the first 500 trees.
+2119 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2139 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1770 rules (length<=2) were extracted from the first 500 trees.
+2194 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1808 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1814 rules (length<=2) were extracted from the first 500 trees.
+2237 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1753 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2237 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2240 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2184 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1772 rules (length<=2) were extracted from the first 500 trees.
+2198 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2147 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1762 rules (length<=2) were extracted from the first 500 trees.
+2168 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2125 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2174 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1770 rules (length<=2) were extracted from the first 500 trees.
+2233 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2157 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 255 indices (first 255 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 255 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 319 indices (first 319 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 319 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 340 indices (first 340 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 340 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 425 indices (first 425 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 425 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Altering 1701 out of 1701 training instances
+1779 rules (length<=2) were extracted from the first 500 trees.
+2169 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2174 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2166 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2210 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1805 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1764 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2197 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2206 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2216 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1810 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1806 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2193 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1762 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1772 rules (length<=2) were extracted from the first 500 trees.
+2152 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 255 indices (first 255 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 255 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 298 indices (first 298 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 298 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 319 indices (first 319 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 319 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 340 indices (first 340 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 340 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 425 indices (first 425 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 425 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 427 indices for fold 4 from: results/instances/original/vectors/cardiotocography_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Altering 1699 out of 1699 training instances
+1793 rules (length<=2) were extracted from the first 500 trees.
+2197 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2157 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2200 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2196 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2225 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1796 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2196 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2128 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2142 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2144 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2194 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2210 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2204 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2198 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2181 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 107 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 171 indices (first 171 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 171 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 214 indices (first 214 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 214 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 299 indices (first 299 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 299 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 342 indices (first 342 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 342 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 384 indices (first 384 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 384 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 427 indices (first 427 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 427 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Altering 1699 out of 1699 training instances
+1798 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2189 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2205 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1786 rules (length<=2) were extracted from the first 500 trees.
+2143 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1826 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1806 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1810 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2132 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1808 rules (length<=2) were extracted from the first 500 trees.
+2229 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2177 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2144 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2141 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2147 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1778 rules (length<=2) were extracted from the first 500 trees.
+2168 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2150 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 107 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 171 indices (first 171 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 171 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 214 indices (first 214 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 214 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 299 indices (first 299 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 299 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 342 indices (first 342 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 342 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 384 indices (first 384 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 384 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 427 indices (first 427 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 427 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Altering 1699 out of 1699 training instances
+1789 rules (length<=2) were extracted from the first 500 trees.
+2183 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2185 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2192 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1780 rules (length<=2) were extracted from the first 500 trees.
+2134 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2196 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2197 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2209 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2173 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2142 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1782 rules (length<=2) were extracted from the first 500 trees.
+2180 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1769 rules (length<=2) were extracted from the first 500 trees.
+2169 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 43 indices (first 43 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 43 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 107 indices (first 107 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 107 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 128 indices (first 128 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 128 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 171 indices (first 171 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 171 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 214 indices (first 214 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 214 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 256 indices (first 256 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 256 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 299 indices (first 299 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 299 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 320 indices (first 320 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 320 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 342 indices (first 342 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 342 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 384 indices (first 384 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 384 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 427 indices (first 427 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 427 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 424 indices for fold 5 from: results/instances/original/vectors/cardiotocography_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Altering 1702 out of 1702 training instances
+1801 rules (length<=2) were extracted from the first 500 trees.
+2173 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2158 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1817 rules (length<=2) were extracted from the first 500 trees.
+2174 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1795 rules (length<=2) were extracted from the first 500 trees.
+2162 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1801 rules (length<=2) were extracted from the first 500 trees.
+2190 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2232 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1786 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2157 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1786 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2150 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2169 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1803 rules (length<=2) were extracted from the first 500 trees.
+2201 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2179 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2153 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.1.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Altering 1702 out of 1702 training instances
+1783 rules (length<=2) were extracted from the first 500 trees.
+2143 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1788 rules (length<=2) were extracted from the first 500 trees.
+2150 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1791 rules (length<=2) were extracted from the first 500 trees.
+2227 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2177 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1784 rules (length<=2) were extracted from the first 500 trees.
+2172 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1787 rules (length<=2) were extracted from the first 500 trees.
+2155 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2184 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1799 rules (length<=2) were extracted from the first 500 trees.
+2173 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2164 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2146 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1766 rules (length<=2) were extracted from the first 500 trees.
+2121 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2187 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2159 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2160 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1817 rules (length<=2) were extracted from the first 500 trees.
+2150 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1809 rules (length<=2) were extracted from the first 500 trees.
+2145 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2182 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1785 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2211 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1771 rules (length<=2) were extracted from the first 500 trees.
+2167 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2143 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1819 rules (length<=2) were extracted from the first 500 trees.
+2170 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2176 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.2.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Altering 1702 out of 1702 training instances
+1779 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2195 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2165 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2161 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1783 rules (length<=2) were extracted from the first 500 trees.
+2136 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1774 rules (length<=2) were extracted from the first 500 trees.
+2151 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1807 rules (length<=2) were extracted from the first 500 trees.
+2188 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1816 rules (length<=2) were extracted from the first 500 trees.
+2163 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1793 rules (length<=2) were extracted from the first 500 trees.
+2147 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2214 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1767 rules (length<=2) were extracted from the first 500 trees.
+2191 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1797 rules (length<=2) were extracted from the first 500 trees.
+2148 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1777 rules (length<=2) were extracted from the first 500 trees.
+2149 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1800 rules (length<=2) were extracted from the first 500 trees.
+2130 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2129 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1775 rules (length<=2) were extracted from the first 500 trees.
+2166 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1776 rules (length<=2) were extracted from the first 500 trees.
+2186 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1798 rules (length<=2) were extracted from the first 500 trees.
+2171 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1779 rules (length<=2) were extracted from the first 500 trees.
+2122 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1794 rules (length<=2) were extracted from the first 500 trees.
+2166 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1789 rules (length<=2) were extracted from the first 500 trees.
+2138 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1781 rules (length<=2) were extracted from the first 500 trees.
+2154 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1790 rules (length<=2) were extracted from the first 500 trees.
+2175 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1773 rules (length<=2) were extracted from the first 500 trees.
+2141 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+1792 rules (length<=2) were extracted from the first 500 trees.
+2143 rules (length<=3) were extracted from the first 500 trees.
+2500 rules (length<=4) were extracted from the first 500 trees.
+2136 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 42 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 85 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 106 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 127 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 170 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 212 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 254 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 297 indices (first 297 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 297 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 318 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 339 indices (first 339 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 339 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 382 indices (first 382 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 382 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cardiotocography 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 424 indices (first 424 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cardiotocography_V27_noise0.3.csv 
+Using 424 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/cardiotocography_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

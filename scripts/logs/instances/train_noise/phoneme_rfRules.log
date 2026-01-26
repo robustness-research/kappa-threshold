@@ -1,0 +1,1873 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: phoneme 
+Loaded 635 indices for fold 1 from: results/instances/original/vectors/phoneme_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Altering 2537 out of 2537 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7379 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7080 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+6878 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+7223 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7097 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7644 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7279 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+7155 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7397 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+6668 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7268 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3863 rules (length<=3) were extracted from the first 500 trees.
+6835 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7232 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+6861 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7160 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+6873 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+7068 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7215 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7550 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7432 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+6771 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7277 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7190 rules (length<=4) were extracted from the first 500 trees.
+7277 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Altering 2537 out of 2537 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+7043 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+7067 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7294 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7253 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+6938 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7330 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7025 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7358 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7207 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7187 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7425 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7572 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+6839 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7080 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7392 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+6851 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+7280 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7226 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7374 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+7340 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+7367 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7219 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+6762 rules (length<=4) were extracted from the first 500 trees.
+7271 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 70 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Altering 1776 out of 2537 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7129 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+7142 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7584 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6766 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+7259 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+6945 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7551 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3839 rules (length<=3) were extracted from the first 500 trees.
+6697 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7210 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7121 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7228 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+7040 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7135 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7380 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7161 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7385 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+6802 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+7323 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+6967 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7238 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+6925 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7123 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+6749 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7191 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7721 rules (length<=4) were extracted from the first 500 trees.
+7209 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 64 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 159 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 318 indices (first 318 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 318 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 381 indices (first 381 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 381 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 508 indices (first 508 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 508 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 572 indices (first 572 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 572 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 635 indices (first 635 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 635 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 634 indices for fold 2 from: results/instances/original/vectors/phoneme_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Altering 2538 out of 2538 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7551 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7505 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7768 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7470 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7444 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7310 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7661 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+7084 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7273 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7070 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7478 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7398 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7438 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7491 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7174 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+6890 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7382 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+7051 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7422 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7440 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7594 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7597 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7531 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7182 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7284 rules (length<=4) were extracted from the first 500 trees.
+7280 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Altering 2538 out of 2538 training instances
+1999 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7625 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7529 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7476 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7550 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3987 rules (length<=3) were extracted from the first 500 trees.
+7447 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+7636 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7450 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7466 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7736 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7272 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7719 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3988 rules (length<=3) were extracted from the first 500 trees.
+7383 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7671 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7272 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7495 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3987 rules (length<=3) were extracted from the first 500 trees.
+7869 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7523 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7697 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7121 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7715 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7246 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7623 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7758 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+7532 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 70 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Altering 1777 out of 2538 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7143 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+6847 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7147 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7611 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7226 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7729 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7441 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7050 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7174 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+7365 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7574 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7397 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7203 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7430 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+7555 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7318 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3839 rules (length<=3) were extracted from the first 500 trees.
+6927 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7682 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7550 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7548 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7672 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7597 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7277 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7414 rules (length<=4) were extracted from the first 500 trees.
+7365 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 634 indices for fold 3 from: results/instances/original/vectors/phoneme_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Altering 2538 out of 2538 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7045 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7429 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7412 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7139 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7154 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7350 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7420 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7524 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7242 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7236 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7446 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7471 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7407 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7426 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7232 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+7261 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7284 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7397 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7341 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7404 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+6898 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7162 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7320 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7525 rules (length<=4) were extracted from the first 500 trees.
+7328 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Altering 2538 out of 2538 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+7081 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7222 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+7422 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7591 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7192 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7742 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7605 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7181 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7415 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7576 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+6990 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7521 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7076 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+6888 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7528 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7714 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7311 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7753 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7412 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+7359 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7400 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+7163 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+7307 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7702 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7463 rules (length<=4) were extracted from the first 500 trees.
+7522 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.2.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 70 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Altering 1777 out of 2538 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7320 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7289 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7348 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7097 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7734 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7392 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7333 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7185 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7353 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7333 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7430 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7385 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7311 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7627 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7520 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7645 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7642 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+7284 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7065 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7743 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+7127 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7482 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7179 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7019 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7536 rules (length<=4) were extracted from the first 500 trees.
+7505 rules (length<=4) were extracted from the first 500 trees.
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 63 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 127 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 158 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 190 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 254 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 317 indices (first 317 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 317 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 380 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 444 indices (first 444 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 444 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 476 indices (first 476 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 476 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 507 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 571 indices (first 571 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 571 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: phoneme 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 634 indices (first 634 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.3.csv 
+Using 634 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 635 indices for fold 4 from: results/instances/original/vectors/phoneme_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/phoneme_V4_noise0.1.csv 
+Altering 2537 out of 2537 training instances
+1998 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+7082 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7091 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7324 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+6947 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+7237 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7191 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7003 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+6995 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7344 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7253 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7419 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+7017 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+6766 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7210 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7300 rules (length<=4) were extracted from the first 500 trees.

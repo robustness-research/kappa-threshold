@@ -3849,3 +3849,2554 @@ Training model on clean data
 1994 rules (length<=2) were extracted from the first 500 trees.
 3221 rules (length<=3) were extracted from the first 500 trees.
 4072 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3321 rules (length<=3) were extracted from the first 500 trees.
+4556 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3396 rules (length<=3) were extracted from the first 500 trees.
+4246 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3322 rules (length<=3) were extracted from the first 500 trees.
+4143 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3171 rules (length<=3) were extracted from the first 500 trees.
+3662 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3381 rules (length<=3) were extracted from the first 500 trees.
+4381 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3418 rules (length<=3) were extracted from the first 500 trees.
+4362 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3383 rules (length<=3) were extracted from the first 500 trees.
+4253 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+2916 rules (length<=3) were extracted from the first 500 trees.
+3494 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3212 rules (length<=3) were extracted from the first 500 trees.
+4134 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3557 rules (length<=3) were extracted from the first 500 trees.
+4620 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3105 rules (length<=3) were extracted from the first 500 trees.
+3871 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3410 rules (length<=3) were extracted from the first 500 trees.
+4346 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3200 rules (length<=3) were extracted from the first 500 trees.
+3995 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3284 rules (length<=3) were extracted from the first 500 trees.
+4228 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3415 rules (length<=3) were extracted from the first 500 trees.
+4439 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3257 rules (length<=3) were extracted from the first 500 trees.
+4113 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3269 rules (length<=3) were extracted from the first 500 trees.
+3839 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3277 rules (length<=3) were extracted from the first 500 trees.
+4108 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3217 rules (length<=3) were extracted from the first 500 trees.
+3893 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3399 rules (length<=3) were extracted from the first 500 trees.
+4295 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3402 rules (length<=3) were extracted from the first 500 trees.
+4286 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3392 rules (length<=3) were extracted from the first 500 trees.
+4179 rules (length<=4) were extracted from the first 500 trees.
+3482 rules (length<=3) were extracted from the first 500 trees.
+Generated and appended 114 indices for fold 4 to: results/instances/original/vectors/wdbc_rfRules_all_folds.csv 
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1991 rules (length<=2) were extracted from the first 500 trees.
+3374 rules (length<=3) were extracted from the first 500 trees.
+4134 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3390 rules (length<=3) were extracted from the first 500 trees.
+4667 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3258 rules (length<=3) were extracted from the first 500 trees.
+4118 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3469 rules (length<=3) were extracted from the first 500 trees.
+4633 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3456 rules (length<=3) were extracted from the first 500 trees.
+4260 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3491 rules (length<=3) were extracted from the first 500 trees.
+4446 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3079 rules (length<=3) were extracted from the first 500 trees.
+3951 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3255 rules (length<=3) were extracted from the first 500 trees.
+4008 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3395 rules (length<=3) were extracted from the first 500 trees.
+4311 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3034 rules (length<=3) were extracted from the first 500 trees.
+3826 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3658 rules (length<=3) were extracted from the first 500 trees.
+4734 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3003 rules (length<=3) were extracted from the first 500 trees.
+3517 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3616 rules (length<=3) were extracted from the first 500 trees.
+4787 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3540 rules (length<=3) were extracted from the first 500 trees.
+4373 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3400 rules (length<=3) were extracted from the first 500 trees.
+4022 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3632 rules (length<=3) were extracted from the first 500 trees.
+4786 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3254 rules (length<=3) were extracted from the first 500 trees.
+3869 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3329 rules (length<=3) were extracted from the first 500 trees.
+4431 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3662 rules (length<=3) were extracted from the first 500 trees.
+4814 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3465 rules (length<=3) were extracted from the first 500 trees.
+4651 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3594 rules (length<=3) were extracted from the first 500 trees.
+4740 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3607 rules (length<=3) were extracted from the first 500 trees.
+4671 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3519 rules (length<=3) were extracted from the first 500 trees.
+4481 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3383 rules (length<=3) were extracted from the first 500 trees.
+4461 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3361 rules (length<=3) were extracted from the first 500 trees.
+4171 rules (length<=4) were extracted from the first 500 trees.
+3663 rules (length<=3) were extracted from the first 500 trees.
+Generated and appended 114 indices for fold 5 to: results/instances/original/vectors/wdbc_rfRules_all_folds.csv 
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.2.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.3.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.4.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.5.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.6.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.7.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.8.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise0.9.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 11 indices (first 11 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 11 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 23 indices (first 23 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 23 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 28 indices (first 28 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 28 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 34 indices (first 34 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 34 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 46 indices (first 46 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 46 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 57 indices (first 57 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 57 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 68 indices (first 68 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 68 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 80 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 86 indices (first 86 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 86 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 91 indices (first 91 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 91 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 103 indices (first 103 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 103 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wdbc 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 114 indices (first 114 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wdbc_V24_noise1.csv 
+Using 114 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/wdbc_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

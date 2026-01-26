@@ -1310,3 +1310,5093 @@ Training model on clean data
 6298 rules (length<=4) were extracted from the first 500 trees.
 1967 rules (length<=2) were extracted from the first 500 trees.
 3391 rules (length<=3) were extracted from the first 500 trees.
+5789 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+6864 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3417 rules (length<=3) were extracted from the first 500 trees.
+5795 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6232 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3752 rules (length<=3) were extracted from the first 500 trees.
+6241 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+6707 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3826 rules (length<=3) were extracted from the first 500 trees.
+6487 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+6648 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6844 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3620 rules (length<=3) were extracted from the first 500 trees.
+6041 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+6874 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+6760 rules (length<=4) were extracted from the first 500 trees.
+1852 rules (length<=2) were extracted from the first 500 trees.
+2784 rules (length<=3) were extracted from the first 500 trees.
+4678 rules (length<=4) were extracted from the first 500 trees.
+1871 rules (length<=2) were extracted from the first 500 trees.
+2814 rules (length<=3) were extracted from the first 500 trees.
+4874 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+6489 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+6694 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3356 rules (length<=3) were extracted from the first 500 trees.
+5788 rules (length<=4) were extracted from the first 500 trees.
+6619 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 506 indices for fold 2 to: results/instances/original/vectors/ozone-level-8hr_rfRules_all_folds.csv 
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 126 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 202 indices (first 202 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 202 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 253 indices (first 253 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 253 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 354 indices (first 354 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 354 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 405 indices (first 405 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 405 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 455 indices (first 455 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 455 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 2 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 506 indices (first 506 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 506 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1961 rules (length<=2) were extracted from the first 500 trees.
+3659 rules (length<=3) were extracted from the first 500 trees.
+6221 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+6734 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3760 rules (length<=3) were extracted from the first 500 trees.
+6210 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+6235 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6502 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3658 rules (length<=3) were extracted from the first 500 trees.
+6387 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+6894 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3681 rules (length<=3) were extracted from the first 500 trees.
+6243 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+6790 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3792 rules (length<=3) were extracted from the first 500 trees.
+6461 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3583 rules (length<=3) were extracted from the first 500 trees.
+6142 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3863 rules (length<=3) were extracted from the first 500 trees.
+6550 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+6571 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+6422 rules (length<=4) were extracted from the first 500 trees.
+1944 rules (length<=2) were extracted from the first 500 trees.
+3467 rules (length<=3) were extracted from the first 500 trees.
+5980 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+6749 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3744 rules (length<=3) were extracted from the first 500 trees.
+6189 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+6947 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7000 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+6706 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3852 rules (length<=3) were extracted from the first 500 trees.
+6481 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6536 rules (length<=4) were extracted from the first 500 trees.
+1927 rules (length<=2) were extracted from the first 500 trees.
+3100 rules (length<=3) were extracted from the first 500 trees.
+5050 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3811 rules (length<=3) were extracted from the first 500 trees.
+6484 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6559 rules (length<=4) were extracted from the first 500 trees.
+6874 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 507 indices for fold 3 to: results/instances/original/vectors/ozone-level-8hr_rfRules_all_folds.csv 
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1984 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+6797 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3575 rules (length<=3) were extracted from the first 500 trees.
+6211 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7174 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+6620 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+6710 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3863 rules (length<=3) were extracted from the first 500 trees.
+6535 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6842 rules (length<=4) were extracted from the first 500 trees.
+1910 rules (length<=2) were extracted from the first 500 trees.
+3531 rules (length<=3) were extracted from the first 500 trees.
+5904 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+6547 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3811 rules (length<=3) were extracted from the first 500 trees.
+6163 rules (length<=4) were extracted from the first 500 trees.
+1915 rules (length<=2) were extracted from the first 500 trees.
+3473 rules (length<=3) were extracted from the first 500 trees.
+5893 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+6768 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7031 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+6819 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+6716 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+6936 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3689 rules (length<=3) were extracted from the first 500 trees.
+6313 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3476 rules (length<=3) were extracted from the first 500 trees.
+5804 rules (length<=4) were extracted from the first 500 trees.
+1945 rules (length<=2) were extracted from the first 500 trees.
+3519 rules (length<=3) were extracted from the first 500 trees.
+5904 rules (length<=4) were extracted from the first 500 trees.
+1941 rules (length<=2) were extracted from the first 500 trees.
+3473 rules (length<=3) were extracted from the first 500 trees.
+5977 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+6570 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+6957 rules (length<=4) were extracted from the first 500 trees.
+1950 rules (length<=2) were extracted from the first 500 trees.
+3483 rules (length<=3) were extracted from the first 500 trees.
+5898 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3720 rules (length<=3) were extracted from the first 500 trees.
+6239 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3585 rules (length<=3) were extracted from the first 500 trees.
+5463 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+Generated and appended 507 indices for fold 4 to: results/instances/original/vectors/ozone-level-8hr_rfRules_all_folds.csv 
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1989 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7059 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3734 rules (length<=3) were extracted from the first 500 trees.
+6025 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+6361 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6942 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+6580 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7128 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3461 rules (length<=3) were extracted from the first 500 trees.
+5916 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3822 rules (length<=3) were extracted from the first 500 trees.
+6386 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3806 rules (length<=3) were extracted from the first 500 trees.
+6370 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6868 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+6694 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3687 rules (length<=3) were extracted from the first 500 trees.
+6064 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+6691 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6383 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+6938 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7358 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3641 rules (length<=3) were extracted from the first 500 trees.
+6114 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3738 rules (length<=3) were extracted from the first 500 trees.
+6230 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+6381 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3558 rules (length<=3) were extracted from the first 500 trees.
+5721 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+6433 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3507 rules (length<=3) were extracted from the first 500 trees.
+5821 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+6927 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3779 rules (length<=3) were extracted from the first 500 trees.
+6482 rules (length<=4) were extracted from the first 500 trees.
+1941 rules (length<=2) were extracted from the first 500 trees.
+3736 rules (length<=3) were extracted from the first 500 trees.
+6307 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+Generated and appended 507 indices for fold 5 to: results/instances/original/vectors/ozone-level-8hr_rfRules_all_folds.csv 
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.2.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.3.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.4.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.5.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.6.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.7.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.8.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise0.9.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 51 indices (first 51 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 51 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 101 indices (first 101 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 101 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 127 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 152 indices (first 152 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 152 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 203 indices (first 203 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 203 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 254 indices (first 254 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 254 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 304 indices (first 304 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 304 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 355 indices (first 355 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 355 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 380 indices (first 380 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 380 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 406 indices (first 406 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 406 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 456 indices (first 456 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 456 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: ozone-level-8hr 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 507 indices (first 507 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/ozone-level-8hr_V10_noise1.csv 
+Using 507 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/ozone-level-8hr_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

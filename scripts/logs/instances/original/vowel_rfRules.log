@@ -5156,3 +5156,1247 @@ Training model on clean data
 3651 rules (length<=4) were extracted from the first 500 trees.
 1869 rules (length<=2) were extracted from the first 500 trees.
 3161 rules (length<=3) were extracted from the first 500 trees.
+3904 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3063 rules (length<=3) were extracted from the first 500 trees.
+3852 rules (length<=4) were extracted from the first 500 trees.
+1911 rules (length<=2) were extracted from the first 500 trees.
+3138 rules (length<=3) were extracted from the first 500 trees.
+4619 rules (length<=4) were extracted from the first 500 trees.
+1859 rules (length<=2) were extracted from the first 500 trees.
+2572 rules (length<=3) were extracted from the first 500 trees.
+3104 rules (length<=4) were extracted from the first 500 trees.
+1928 rules (length<=2) were extracted from the first 500 trees.
+3139 rules (length<=3) were extracted from the first 500 trees.
+4344 rules (length<=4) were extracted from the first 500 trees.
+1854 rules (length<=2) were extracted from the first 500 trees.
+2938 rules (length<=3) were extracted from the first 500 trees.
+3463 rules (length<=4) were extracted from the first 500 trees.
+1923 rules (length<=2) were extracted from the first 500 trees.
+3100 rules (length<=3) were extracted from the first 500 trees.
+3612 rules (length<=4) were extracted from the first 500 trees.
+1943 rules (length<=2) were extracted from the first 500 trees.
+3301 rules (length<=3) were extracted from the first 500 trees.
+4446 rules (length<=4) were extracted from the first 500 trees.
+1874 rules (length<=2) were extracted from the first 500 trees.
+2950 rules (length<=3) were extracted from the first 500 trees.
+4118 rules (length<=4) were extracted from the first 500 trees.
+1914 rules (length<=2) were extracted from the first 500 trees.
+3144 rules (length<=3) were extracted from the first 500 trees.
+4017 rules (length<=4) were extracted from the first 500 trees.
+1841 rules (length<=2) were extracted from the first 500 trees.
+2499 rules (length<=3) were extracted from the first 500 trees.
+3201 rules (length<=4) were extracted from the first 500 trees.
+1923 rules (length<=2) were extracted from the first 500 trees.
+3028 rules (length<=3) were extracted from the first 500 trees.
+4173 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3198 rules (length<=3) were extracted from the first 500 trees.
+4179 rules (length<=4) were extracted from the first 500 trees.
+4429 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 198 indices for fold 5 to: results/instances/original/vectors/vowel_rfRules_all_folds.csv 
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.4.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.5.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.6.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.7.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.8.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.9.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/vowel_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

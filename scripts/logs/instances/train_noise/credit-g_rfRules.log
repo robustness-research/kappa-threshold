@@ -1,0 +1,3032 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: credit-g 
+Loaded 200 indices for fold 1 from: results/instances/original/vectors/credit-g_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1971 rules (length<=2) were extracted from the first 500 trees.
+3741 rules (length<=3) were extracted from the first 500 trees.
+6315 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3819 rules (length<=3) were extracted from the first 500 trees.
+6337 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+7056 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6672 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7201 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+6823 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+6624 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3783 rules (length<=3) were extracted from the first 500 trees.
+6611 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+6840 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3756 rules (length<=3) were extracted from the first 500 trees.
+6332 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3795 rules (length<=3) were extracted from the first 500 trees.
+6500 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3791 rules (length<=3) were extracted from the first 500 trees.
+6725 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6624 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7112 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+6834 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+6956 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3727 rules (length<=3) were extracted from the first 500 trees.
+6127 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+6804 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+6913 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6768 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6949 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3827 rules (length<=3) were extracted from the first 500 trees.
+6769 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+6811 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+6829 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3817 rules (length<=3) were extracted from the first 500 trees.
+6736 rules (length<=4) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 320 out of 800 training instances
+1980 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+6991 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3852 rules (length<=3) were extracted from the first 500 trees.
+6543 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+6929 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+7099 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+7051 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+6967 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6805 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+7056 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3796 rules (length<=3) were extracted from the first 500 trees.
+6627 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+6492 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+6774 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7409 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+7242 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7265 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+6968 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6782 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+7103 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3573 rules (length<=3) were extracted from the first 500 trees.
+6184 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3766 rules (length<=3) were extracted from the first 500 trees.
+6534 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3787 rules (length<=3) were extracted from the first 500 trees.
+6535 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+6976 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3836 rules (length<=3) were extracted from the first 500 trees.
+6844 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7098 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+7229 rules (length<=4) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 480 out of 800 training instances
+1962 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6641 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6633 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+7185 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7191 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3870 rules (length<=3) were extracted from the first 500 trees.
+7000 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6989 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3809 rules (length<=3) were extracted from the first 500 trees.
+7006 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3726 rules (length<=3) were extracted from the first 500 trees.
+6331 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3765 rules (length<=3) were extracted from the first 500 trees.
+6583 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+6832 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3789 rules (length<=3) were extracted from the first 500 trees.
+6836 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7191 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+7152 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7195 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3922 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3863 rules (length<=3) were extracted from the first 500 trees.
+6984 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+6750 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+6401 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3867 rules (length<=3) were extracted from the first 500 trees.
+6936 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6884 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+7089 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+7059 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+7033 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3652 rules (length<=3) were extracted from the first 500 trees.
+6261 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 2 from: results/instances/original/vectors/credit-g_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+1968 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7178 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6695 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+7150 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+6844 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3807 rules (length<=3) were extracted from the first 500 trees.
+7015 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7000 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+7224 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+7042 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7382 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3800 rules (length<=3) were extracted from the first 500 trees.
+6853 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+6916 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+7017 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+7069 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+7024 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6843 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7206 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+7143 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+6718 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3721 rules (length<=3) were extracted from the first 500 trees.
+6616 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3877 rules (length<=3) were extracted from the first 500 trees.
+7028 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7249 rules (length<=4) were extracted from the first 500 trees.
+1952 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6369 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7333 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3798 rules (length<=3) were extracted from the first 500 trees.
+6750 rules (length<=4) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 320 out of 800 training instances
+1973 rules (length<=2) were extracted from the first 500 trees.
+3859 rules (length<=3) were extracted from the first 500 trees.
+6615 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+7320 rules (length<=4) were extracted from the first 500 trees.
+1938 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+6779 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+6587 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+6863 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+7088 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+6782 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+6954 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3729 rules (length<=3) were extracted from the first 500 trees.
+6567 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+6972 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6952 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+7190 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+6844 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+6911 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7059 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+6973 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7378 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+6830 rules (length<=4) were extracted from the first 500 trees.
+1946 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7367 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+7031 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7322 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+6790 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+7010 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 480 out of 800 training instances
+1960 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6841 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+6868 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7375 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+7031 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7451 rules (length<=4) were extracted from the first 500 trees.
+1949 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+7115 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7207 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7294 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+6740 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+7107 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3922 rules (length<=3) were extracted from the first 500 trees.
+7278 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+7104 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+6819 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6934 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+7049 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7141 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3829 rules (length<=3) were extracted from the first 500 trees.
+6804 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3820 rules (length<=3) were extracted from the first 500 trees.
+6563 rules (length<=4) were extracted from the first 500 trees.
+1948 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+6948 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7235 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+6965 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7126 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7336 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7531 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7246 rules (length<=4) were extracted from the first 500 trees.
+7285 rules (length<=4) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 3 from: results/instances/original/vectors/credit-g_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+1965 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7169 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+6856 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3922 rules (length<=3) were extracted from the first 500 trees.
+6933 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7386 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7383 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7112 rules (length<=4) were extracted from the first 500 trees.
+1933 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+6912 rules (length<=4) were extracted from the first 500 trees.
+1944 rules (length<=2) were extracted from the first 500 trees.
+3790 rules (length<=3) were extracted from the first 500 trees.
+6761 rules (length<=4) were extracted from the first 500 trees.
+1950 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7054 rules (length<=4) were extracted from the first 500 trees.
+1943 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+6984 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+6996 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+6973 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7353 rules (length<=4) were extracted from the first 500 trees.
+1952 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7198 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7356 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7172 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7184 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7453 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3877 rules (length<=3) were extracted from the first 500 trees.
+7112 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+6965 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7316 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+7058 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3841 rules (length<=3) were extracted from the first 500 trees.
+6814 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+7142 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7102 rules (length<=4) were extracted from the first 500 trees.
+7385 rules (length<=4) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 320 out of 800 training instances
+1971 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+7252 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+1952 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7332 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+7071 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6790 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+6938 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7339 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+7344 rules (length<=4) were extracted from the first 500 trees.
+1946 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+7207 rules (length<=4) were extracted from the first 500 trees.
+1947 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+7319 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7412 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+6979 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7471 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3853 rules (length<=3) were extracted from the first 500 trees.
+7236 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7240 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+7093 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7220 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7212 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7225 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7412 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7234 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7230 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+6992 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7384 rules (length<=4) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 480 out of 800 training instances
+1976 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7271 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7194 rules (length<=4) were extracted from the first 500 trees.
+1950 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7268 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7286 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7124 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7346 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7235 rules (length<=4) were extracted from the first 500 trees.
+1947 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7343 rules (length<=4) were extracted from the first 500 trees.
+1942 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+7110 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+7175 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+7420 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+7025 rules (length<=4) were extracted from the first 500 trees.
+1949 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7289 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7118 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7450 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7300 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+1950 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+7028 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+7188 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7424 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7124 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7382 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7310 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+6863 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+7173 rules (length<=4) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 4 from: results/instances/original/vectors/credit-g_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+1974 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7378 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3760 rules (length<=3) were extracted from the first 500 trees.
+6293 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3758 rules (length<=3) were extracted from the first 500 trees.
+6561 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+7036 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3863 rules (length<=3) were extracted from the first 500 trees.
+6776 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+6912 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+7112 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7369 rules (length<=4) were extracted from the first 500 trees.
+1948 rules (length<=2) were extracted from the first 500 trees.
+3838 rules (length<=3) were extracted from the first 500 trees.
+7001 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6955 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3853 rules (length<=3) were extracted from the first 500 trees.
+6845 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3763 rules (length<=3) were extracted from the first 500 trees.
+6208 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+6992 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3623 rules (length<=3) were extracted from the first 500 trees.
+6316 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3801 rules (length<=3) were extracted from the first 500 trees.
+6466 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6554 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7143 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+7109 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+7096 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3769 rules (length<=3) were extracted from the first 500 trees.
+6454 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3907 rules (length<=3) were extracted from the first 500 trees.
+7192 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+7149 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+7296 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+6876 rules (length<=4) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 320 out of 800 training instances
+1981 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7346 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7198 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7338 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+7233 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3827 rules (length<=3) were extracted from the first 500 trees.
+6746 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6849 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+6857 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+6854 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+6847 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+7430 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7074 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+6850 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7249 rules (length<=4) were extracted from the first 500 trees.
+1947 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7182 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+7326 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+7180 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3922 rules (length<=3) were extracted from the first 500 trees.
+7061 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7209 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7008 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3890 rules (length<=3) were extracted from the first 500 trees.
+7013 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7218 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3734 rules (length<=3) were extracted from the first 500 trees.
+6806 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+7127 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3875 rules (length<=3) were extracted from the first 500 trees.
+6887 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+7034 rules (length<=4) were extracted from the first 500 trees.
+7322 rules (length<=4) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 480 out of 800 training instances
+1963 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+6805 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3742 rules (length<=3) were extracted from the first 500 trees.
+6709 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3853 rules (length<=3) were extracted from the first 500 trees.
+6840 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+7249 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6990 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7156 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6974 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7205 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7187 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7078 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3749 rules (length<=3) were extracted from the first 500 trees.
+5851 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7069 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3810 rules (length<=3) were extracted from the first 500 trees.
+6554 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+7155 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7492 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+6926 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3811 rules (length<=3) were extracted from the first 500 trees.
+6747 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+7040 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3798 rules (length<=3) were extracted from the first 500 trees.
+6720 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6804 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7160 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+7138 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+7052 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+7338 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7088 rules (length<=4) were extracted from the first 500 trees.
+7140 rules (length<=4) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 200 indices for fold 5 from: results/instances/original/vectors/credit-g_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Altering 800 out of 800 training instances
+1959 rules (length<=2) were extracted from the first 500 trees.
+3892 rules (length<=3) were extracted from the first 500 trees.
+6856 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+6574 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3837 rules (length<=3) were extracted from the first 500 trees.
+7023 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3875 rules (length<=3) were extracted from the first 500 trees.
+6776 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+7262 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+6887 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6872 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+6751 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3790 rules (length<=3) were extracted from the first 500 trees.
+6533 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7241 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+6853 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+7058 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7218 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7389 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7360 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+6921 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7086 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+6851 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6796 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7174 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+6909 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7229 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7376 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3879 rules (length<=3) were extracted from the first 500 trees.
+7049 rules (length<=4) were extracted from the first 500 trees.
+7275 rules (length<=4) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.1.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Altering 320 out of 800 training instances
+1975 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+6935 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3780 rules (length<=3) were extracted from the first 500 trees.
+6502 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7289 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+6991 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+6872 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3771 rules (length<=3) were extracted from the first 500 trees.
+6294 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7171 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+6972 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7031 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7141 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3800 rules (length<=3) were extracted from the first 500 trees.
+6403 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7226 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3875 rules (length<=3) were extracted from the first 500 trees.
+6802 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7160 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+7156 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7296 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6670 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6998 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7230 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7052 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7443 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6901 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7007 rules (length<=4) were extracted from the first 500 trees.
+1946 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+7014 rules (length<=4) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.2.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 60 %
+Loading training noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Altering 480 out of 800 training instances
+1958 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+6726 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+6993 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+7054 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+6832 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+6724 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7186 rules (length<=4) were extracted from the first 500 trees.
+1957 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7260 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6711 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7135 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3877 rules (length<=3) were extracted from the first 500 trees.
+6914 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+7277 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3775 rules (length<=3) were extracted from the first 500 trees.
+6275 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7325 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7152 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7190 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+6961 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+6591 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+7246 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+7262 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3865 rules (length<=3) were extracted from the first 500 trees.
+6799 rules (length<=4) were extracted from the first 500 trees.
+1953 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6917 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+6729 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+7075 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+7141 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7373 rules (length<=4) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 60 indices (first 60 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 60 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 80 indices (first 80 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 80 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 100 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 120 indices (first 120 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 120 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 140 indices (first 140 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 140 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 150 indices (first 150 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 150 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 160 indices (first 160 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 160 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 180 indices (first 180 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 180 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: credit-g 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/credit-g_checking_status_noise0.3.csv 
+Using 200 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/credit-g_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

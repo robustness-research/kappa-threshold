@@ -2618,3 +2618,3785 @@ Training model on clean data
 7619 rules (length<=4) were extracted from the first 500 trees.
 1985 rules (length<=2) were extracted from the first 500 trees.
 3948 rules (length<=3) were extracted from the first 500 trees.
+7101 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+6718 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7236 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7419 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+6715 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7334 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+6883 rules (length<=4) were extracted from the first 500 trees.
+7271 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 211 indices for fold 3 to: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1982 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+6973 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7026 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7438 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+6772 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7061 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7074 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+6935 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7285 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7186 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7018 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6954 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7441 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7321 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+6878 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7287 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7377 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+6605 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7154 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3992 rules (length<=3) were extracted from the first 500 trees.
+7308 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+6966 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7150 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+6945 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+6894 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+6973 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7410 rules (length<=4) were extracted from the first 500 trees.
+7302 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 211 indices for fold 4 to: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Training model on clean data
+1980 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+6595 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+6917 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+6543 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6725 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+6510 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+6833 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7055 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3987 rules (length<=3) were extracted from the first 500 trees.
+7404 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7035 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6717 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7219 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7119 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7109 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+6726 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7285 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+6791 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7334 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+6541 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+7311 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+6623 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+6228 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+6874 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+6884 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+6808 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+6992 rules (length<=4) were extracted from the first 500 trees.
+7240 rules (length<=4) were extracted from the first 500 trees.
+Generated and appended 212 indices for fold 5 to: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.4.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.5.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.6.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.7.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.8.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.9.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise1.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/qsar-biodeg_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

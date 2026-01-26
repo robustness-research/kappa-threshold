@@ -1,0 +1,1890 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: gcvEarth for dataset: vowel 
+Loaded 198 indices for fold 1 from: results/instances/original/vectors/vowel_gcvEarth_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Altering 792 out of 792 training instances
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Altering 317 out of 792 training instances
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 30 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Altering 238 out of 792 training instances
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 1 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 198 indices for fold 2 from: results/instances/original/vectors/vowel_gcvEarth_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Altering 792 out of 792 training instances
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Altering 317 out of 792 training instances
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 30 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Altering 238 out of 792 training instances
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 2 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 198 indices for fold 3 from: results/instances/original/vectors/vowel_gcvEarth_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Altering 792 out of 792 training instances
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Altering 317 out of 792 training instances
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 30 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Altering 238 out of 792 training instances
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 3 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 198 indices for fold 4 from: results/instances/original/vectors/vowel_gcvEarth_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Altering 792 out of 792 training instances
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Altering 317 out of 792 training instances
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 30 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Altering 238 out of 792 training instances
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 4 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 198 indices for fold 5 from: results/instances/original/vectors/vowel_gcvEarth_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Altering 792 out of 792 training instances
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.1.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Altering 317 out of 792 training instances
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.2.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 30 %
+Loading training noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Altering 238 out of 792 training instances
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 20 indices (first 20 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 20 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 40 indices (first 40 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 40 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 50 indices (first 50 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 50 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 59 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 79 indices (first 79 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 79 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 99 indices (first 99 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 99 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 119 indices (first 119 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 119 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 139 indices (first 139 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 139 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 148 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 158 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 178 indices (first 178 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 178 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: vowel 
+Fold: 5 
+Method: gcvEarth 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 198 indices (first 198 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/vowel_Feature_1_noise0.3.csv 
+Using 198 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/vowel_gcvEarth_results.csv 
+----------------
+There were 50 or more warnings (use warnings() to see the first 50)
+****************************
+Instances altered with noise
+****************************

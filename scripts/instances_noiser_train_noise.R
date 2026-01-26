@@ -45,8 +45,65 @@ load_parameters <- function(params_file) {
   )
 }
  
-# Model training function (instead of if-else block)
-train_model <- function(method, train_df, control) {
+# Model training function with noise injection in training data
+train_model_noise <- function(method, train_df, train_df_indices, dataset, noise_level, threshold_results, mia_df, control) {
+  # Look up the critical_percentage for this dataset/method/noise_level
+  # Convert noise_level from decimal (0.1, 0.2, 0.3) to percentage (10, 20, 30) for lookup
+  noise_level_pct <- noise_level * 100
+  threshold_row <- subset(threshold_results, 
+                          dataset_name == dataset & 
+                          technique == method & 
+                          noise_level == noise_level_pct)
+  
+  if(nrow(threshold_row) == 0) {
+    stop(paste("No threshold found for dataset:", dataset, "method:", method, "noise_level:", noise_level_pct))
+  }
+  
+  critical_percentage <- threshold_row$critical_percentage[1] / 100  # Convert to decimal
+  cat("Critical percentage for training noise:", critical_percentage * 100, "%\n")
+  
+  # If critical_percentage is 0, train on clean data
+  if(critical_percentage == 0) {
+    cat("Training on clean data (critical_percentage = 0)\n")
+    noisy_train_df <- train_df
+  } else {
+    # Get MIA for this dataset/method combination
+    mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
+    
+    # Load noise data from CSV file
+    noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise_level, ".csv")
+    cat("Loading training noise data from:", noise_csv_file, "\n")
+    
+    if(!file.exists(noise_csv_file)) {
+      stop(paste("Noise CSV file not found:", noise_csv_file))
+    }
+    
+    noise_full_df <- read.csv(noise_csv_file, stringsAsFactors = FALSE)
+    
+    # Remove metadata columns if present
+    noise_full_df$dataset_name <- NULL
+    noise_full_df$altered_attribute <- NULL
+    noise_full_df$noise_level <- NULL
+    
+    # Convert class column to factor
+    noise_full_df$class <- as.factor(noise_full_df$class)
+    
+    # Select only the training set rows from the noisy dataset
+    noise_train_df <- noise_full_df[train_df_indices, ]
+    
+    # Calculate number of instances to alter
+    n_instances <- round(nrow(train_df) * critical_percentage, 0)
+    cat("Altering", n_instances, "out of", nrow(train_df), "training instances\n")
+    
+    # Randomly sample indices to alter
+    indices_to_alter <- sample(1:nrow(train_df), n_instances)
+    
+    # Create noisy training data
+    noisy_train_df <- train_df
+    noisy_train_df[indices_to_alter, ] <- noise_train_df[indices_to_alter, ]
+  }
+  
+  # Train model with the noisy training data
   model_params <- list(
     "C5.0" = list(method = "C5.0"),
     "ctree" = list(method = "ctree"),
@@ -78,7 +135,7 @@ train_model <- function(method, train_df, control) {
     stop(paste("Unsupported method:", method))
   }
   
-  do.call(caret::train, c(list(class ~ ., data = train_df), params))
+  do.call(caret::train, c(list(class ~ ., data = noisy_train_df), params))
 }
 
 # Calculate predictions and generate confusion matrix
@@ -109,7 +166,7 @@ calculate_predictions <- function(fit, test_df, instances_df, noise) {
 }
 
 # Instances-Noise
-process_instance <- function(dataset, fold_index, method, mia, noise, percent, test_df, test_df_indices, noise_df, fit, indices) {
+process_instance <- function(dataset, fold_index, method, mia, noise, percent, test_df, test_df_indices, fit, indices) {
   # Print relevant information for the iteration
   cat("Dataset:", dataset, "\n")
   cat("Fold:", fold_index, "\n")
@@ -184,53 +241,41 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
 }
 
 # Models
-process_model <- function(dataset, fold_index, train_df, test_df, test_df_indices, method, mia_df, noise_levels, instances, control) {
-  # Train model on clean data
-  cat("Training model on clean data\n")
-  fit <- train_model(method, train_df, control)
-
+process_model <- function(dataset, fold_index, train_df, train_df_indices, test_df, test_df_indices, method, mia_df, noise_levels, instances, threshold_results, control) {
   # Get MIA
   mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
 
-  # Generate or load indices for this (dataset, fold, method) combination
+  # Load indices from original execution to ensure consistent train/test partitions
   indices_file <- paste0("results/instances/original/vectors/", 
                          dataset, "_", method, "_all_folds.csv")
   
   if(!file.exists(indices_file)) {
-    # First time: sample ALL test indices and save with fold info
-    all_indices <- sample(1:nrow(test_df))
-    indices_data <- data.frame(
-      fold = fold_index,
-      index = all_indices, 
-      original_test_index = test_df_indices[all_indices]
-    )
-    write.csv(indices_data, file = indices_file, row.names = FALSE)
-    cat("Generated and saved", length(all_indices), "indices for fold", fold_index, "to:", indices_file, "\n")
-  } else {
-    # Load existing indices and check if this fold exists
-    existing_data <- read.csv(indices_file, stringsAsFactors = FALSE)
-    
-    if(fold_index %in% existing_data$fold) {
-      # Load indices for this fold
-      all_indices <- existing_data$index[existing_data$fold == fold_index]
-      cat("Loaded", length(all_indices), "indices for fold", fold_index, "from:", indices_file, "\n")
-    } else {
-      # Generate new indices for this fold and append
-      all_indices <- sample(1:nrow(test_df))
-      new_data <- data.frame(
-        fold = fold_index,
-        index = all_indices, 
-        original_test_index = test_df_indices[all_indices]
-      )
-      combined_data <- rbind(existing_data, new_data)
-      write.csv(combined_data, file = indices_file, row.names = FALSE)
-      cat("Generated and appended", length(all_indices), "indices for fold", fold_index, "to:", indices_file, "\n")
-    }
+    stop(paste("Original indices file not found:", indices_file, "\nPlease run the original instances script first."))
   }
+  
+  # Load existing indices for this fold
+  existing_data <- read.csv(indices_file, stringsAsFactors = FALSE)
+  
+  if(!fold_index %in% existing_data$fold) {
+    stop(paste("Fold", fold_index, "not found in", indices_file))
+  }
+  
+  # Load indices for this fold
+  all_indices <- existing_data$index[existing_data$fold == fold_index]
+  cat("Loaded", length(all_indices), "indices for fold", fold_index, "from:", indices_file, "\n")
 
   # Store results for all noise/instance level combinations
   method_results <- list()
+  
+  # Iterate through noise levels - train a separate model for each noise level
   for (noise in noise_levels) {
+    cat("\n=== Training model with", noise * 100, "% noise in training data ===\n")
+    
+    # Train model with noise in training data based on critical_percentage
+    fit <- train_model_noise(method, train_df, train_df_indices, dataset, noise, 
+                             threshold_results, mia_df, control)
+    
+    # Test with varying percentages of noisy test instances
     for (percent in instances) {
       # Calculate sample size for this percentage
       sample_size <- round(nrow(test_df) * percent, 0)
@@ -238,20 +283,12 @@ process_model <- function(dataset, fold_index, train_df, test_df, test_df_indice
       # Use subset of all_indices based on percentage
       indices_to_use <- all_indices[1:sample_size]
       
-      noise_df <- NULL  # Will be loaded in process_instance
       result <- process_instance(dataset, fold_index, method, mia, noise, percent, 
-                                test_df, test_df_indices, noise_df, fit, indices_to_use)
+                                test_df, test_df_indices, fit, indices_to_use)
       method_results <- append(method_results, list(result))
     }
   }
   do.call(rbind, method_results)
-}
-
-# Folds
-process_fold <- function(dataset, fold_index, train_df, test_df, test_indices, model, mia_df, noise_levels, instances, control) {
-  # Process single model for this fold
-  fold_results <- process_model(dataset, fold_index, train_df, test_df, test_indices, model, mia_df, noise_levels, instances, control)
-  fold_results
 }
 
 # Load and extract parameters
@@ -259,7 +296,7 @@ parameters <- load_parameters("data/files/parameters.csv")
 datasets <- parameters$datasets
 fold_names <- parameters$fold_names
 models <- parameters$models 
-noise_levels <- parameters$noise_levels 
+noise_levels <- c(0.1, 0.2, 0.3)  # Only use these specific noise levels for training noise
 instances <- parameters$instances
 control <- parameters$control
 
@@ -269,17 +306,8 @@ n_folds <- 5
 # Load most important attribute table
 mia_df <- read.csv("results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
 
-# Initialize empty results dataframe
-results_df <- data.frame(
-  dataset = character(),
-  fold = character(),
-  method = character(),
-  noise_level = numeric(),
-  instance_level = numeric(),
-  accuracy = numeric(),
-  kappa = numeric(),
-  stringsAsFactors = FALSE
-)
+# Load threshold instance results
+threshold_results <- read.csv("results/threshold_instance_results.csv", stringsAsFactors = FALSE)
 
 # Datasets
 dataset <- datasets
@@ -289,9 +317,25 @@ df <- read.csv(filename, stringsAsFactors = FALSE)
 # Convert class column to factor for classification
 df$class <- as.factor(df$class)
 
-# Partition data into train/test with cross validation folds
-fold_train_indices <- createFolds(df$class, k = 5, list = TRUE, returnTrain = TRUE)
-fold_test_indices <- lapply(fold_train_indices, function(index) setdiff(1:nrow(df), index))
+# Load train/test partitions from original execution
+# We need to reconstruct the fold indices from the original vector files
+# Read one of the vector files to get the original test indices for all folds
+sample_vector_file <- paste0("results/instances/original/vectors/", dataset, "_", models, "_all_folds.csv")
+if(!file.exists(sample_vector_file)) {
+  stop(paste("Cannot find original vector file:", sample_vector_file, "\nPlease run the original instances script first."))
+}
+
+vector_data <- read.csv(sample_vector_file, stringsAsFactors = FALSE)
+
+# Reconstruct fold_test_indices from the vector file
+fold_test_indices <- lapply(1:n_folds, function(fold_i) {
+  unique(vector_data$original_test_index[vector_data$fold == fold_i])
+})
+
+# Calculate fold_train_indices as complement of test indices
+fold_train_indices <- lapply(fold_test_indices, function(test_idx) {
+  setdiff(1:nrow(df), test_idx)
+})
 
 # Process each model separately and save results per dataset-model combination
 for(model in models) {
@@ -300,14 +344,15 @@ for(model in models) {
   # Call functions (iterate folds) for this specific model
   model_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
     process_model(dataset, fold_i, 
-                  df[fold_train_indices[[fold_i]], ], 
+                  df[fold_train_indices[[fold_i]], ],
+                  fold_train_indices[[fold_i]],
                   df[fold_test_indices[[fold_i]], ], 
                   fold_test_indices[[fold_i]], 
-                  model, mia_df, noise_levels, instances, control)
+                  model, mia_df, noise_levels, instances, threshold_results, control)
   }))
   
   # Save results per dataset-model combination
-  out_filename <- paste0("results/instances/original/by_dataset/", dataset, "_", model, "_results.csv")
+  out_filename <- paste0("results/instances/train_noise/by_dataset/", dataset, "_", model, "_results.csv")
   write.csv(model_results, file = out_filename, row.names = FALSE)
   cat("Saved results to:", out_filename, "\n")
   cat("----------------\n")

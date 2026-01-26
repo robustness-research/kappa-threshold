@@ -1,0 +1,1874 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: fda for dataset: waveform-5000 
+Loaded 1000 indices for fold 1 from: results/instances/original/vectors/waveform-5000_fda_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 1 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 999 indices for fold 2 from: results/instances/original/vectors/waveform-5000_fda_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 599 indices (first 599 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 599 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 699 indices (first 699 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 699 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 749 indices (first 749 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 749 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 799 indices (first 799 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 799 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 899 indices (first 899 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 899 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 999 indices (first 999 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 999 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 599 indices (first 599 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 599 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 699 indices (first 699 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 699 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 749 indices (first 749 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 749 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 799 indices (first 799 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 799 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 899 indices (first 899 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 899 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 999 indices (first 999 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 999 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 599 indices (first 599 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 599 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 699 indices (first 699 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 699 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 749 indices (first 749 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 749 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 799 indices (first 799 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 799 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 899 indices (first 899 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 899 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 2 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 999 indices (first 999 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 999 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 1000 indices for fold 3 from: results/instances/original/vectors/waveform-5000_fda_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 3 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 1001 indices for fold 4 from: results/instances/original/vectors/waveform-5000_fda_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 601 indices (first 601 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 601 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 701 indices (first 701 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 701 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 751 indices (first 751 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 751 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 801 indices (first 801 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 801 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 901 indices (first 901 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 901 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 1001 indices (first 1001 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 1001 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 601 indices (first 601 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 601 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 701 indices (first 701 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 701 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 751 indices (first 751 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 751 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 801 indices (first 801 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 801 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 901 indices (first 901 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 901 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 1001 indices (first 1001 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 1001 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 601 indices (first 601 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 601 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 701 indices (first 701 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 701 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 751 indices (first 751 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 751 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 801 indices (first 801 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 801 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 901 indices (first 901 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 901 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 4 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 1001 indices (first 1001 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 1001 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 1000 indices for fold 5 from: results/instances/original/vectors/waveform-5000_fda_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.1.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.2.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 0 %
+Training on clean data (critical_percentage = 0)
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 100 indices (first 100 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 100 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 200 indices (first 200 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 200 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 250 indices (first 250 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 250 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 300 indices (first 300 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 300 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 400 indices (first 400 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 400 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 500 indices (first 500 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 500 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 600 indices (first 600 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 600 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 700 indices (first 700 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 700 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 750 indices (first 750 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 750 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 800 indices (first 800 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 800 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 900 indices (first 900 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 900 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: waveform-5000 
+Fold: 5 
+Method: fda 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 1000 indices (first 1000 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/waveform-5000_x11_noise0.3.csv 
+Using 1000 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/waveform-5000_fda_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

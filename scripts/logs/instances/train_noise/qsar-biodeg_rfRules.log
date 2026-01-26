@@ -1,0 +1,3032 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: qsar-biodeg 
+Loaded 211 indices for fold 1 from: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Altering 338 out of 844 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+1967 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7010 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+6793 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+6991 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+6805 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+6953 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7275 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7115 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7437 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+6873 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+6913 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7323 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7033 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7257 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7126 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7172 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7351 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6977 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7237 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7302 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7231 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7140 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7016 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3994 rules (length<=3) were extracted from the first 500 trees.
+7415 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7246 rules (length<=4) were extracted from the first 500 trees.
+3989 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Altering 169 out of 844 training instances
+1981 rules (length<=2) were extracted from the first 500 trees.
+3989 rules (length<=3) were extracted from the first 500 trees.
+7315 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7113 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+6859 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7289 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7059 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7041 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6657 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+6725 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+7003 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+6878 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+6948 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+6929 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7242 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+6971 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+6597 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+7194 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7186 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7101 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7229 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7204 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+6900 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+6678 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+6942 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7290 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+6951 rules (length<=4) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 10 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Altering 84 out of 844 training instances
+1972 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7084 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+6956 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7045 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+6802 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+6803 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3884 rules (length<=3) were extracted from the first 500 trees.
+6866 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6436 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6785 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7483 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7308 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+6985 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+6869 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7350 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+6809 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+6943 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7411 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7195 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+6993 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+6606 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7216 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7195 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7176 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+6901 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7098 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7127 rules (length<=4) were extracted from the first 500 trees.
+7327 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 210 indices for fold 2 from: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Altering 338 out of 845 training instances
+1986 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+6969 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7245 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7278 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+6962 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7453 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7087 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7284 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+6905 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7028 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7265 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3921 rules (length<=3) were extracted from the first 500 trees.
+7200 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7096 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7281 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7313 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7327 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7228 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+6790 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7396 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7212 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7214 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+6705 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7252 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7391 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+7133 rules (length<=4) were extracted from the first 500 trees.
+7381 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 52 indices (first 52 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 52 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 105 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 126 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 147 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 168 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 189 indices (first 189 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 189 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 210 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Altering 169 out of 845 training instances
+1982 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7041 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7524 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7046 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+6813 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7251 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3985 rules (length<=3) were extracted from the first 500 trees.
+7202 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7038 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7564 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3903 rules (length<=3) were extracted from the first 500 trees.
+6772 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7069 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7313 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7165 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7195 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7129 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+6938 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7486 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+7025 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+6876 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+6839 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7408 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+7092 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+6871 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7341 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+6895 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 52 indices (first 52 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 52 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 105 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 126 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 147 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 168 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 189 indices (first 189 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 189 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 210 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 10 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Altering 84 out of 845 training instances
+1988 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+6685 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7006 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7135 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7112 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7134 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6990 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+6590 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+6719 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+6929 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7209 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+6493 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7290 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+6693 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7262 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7060 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+6788 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7010 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6786 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7029 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7179 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6950 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3921 rules (length<=3) were extracted from the first 500 trees.
+7067 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+6590 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7109 rules (length<=4) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 52 indices (first 52 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 52 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 105 indices (first 105 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 105 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 126 indices (first 126 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 126 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 147 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 168 indices (first 168 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 168 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 189 indices (first 189 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 189 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 210 indices (first 210 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 210 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 211 indices for fold 3 from: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Altering 338 out of 844 training instances
+1979 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7051 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7185 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7383 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7171 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7505 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7256 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7189 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+6566 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6573 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3881 rules (length<=3) were extracted from the first 500 trees.
+6356 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3899 rules (length<=3) were extracted from the first 500 trees.
+6709 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7166 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+6830 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3834 rules (length<=3) were extracted from the first 500 trees.
+6465 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7322 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+6792 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7010 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+6922 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7040 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7335 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7403 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3978 rules (length<=3) were extracted from the first 500 trees.
+7415 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3949 rules (length<=3) were extracted from the first 500 trees.
+6982 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+6831 rules (length<=4) were extracted from the first 500 trees.
+7256 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Altering 169 out of 844 training instances
+1985 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+6561 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7256 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7427 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7259 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7461 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+6996 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+6703 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7082 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7192 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3989 rules (length<=3) were extracted from the first 500 trees.
+7153 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7457 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3916 rules (length<=3) were extracted from the first 500 trees.
+6833 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7330 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+6838 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7492 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+6695 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7287 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7375 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+6635 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7454 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+6732 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7300 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7333 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+6877 rules (length<=4) were extracted from the first 500 trees.
+1963 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+6706 rules (length<=4) were extracted from the first 500 trees.
+7229 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 10 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Altering 84 out of 844 training instances
+1991 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7325 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7412 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7360 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7187 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7222 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7209 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3883 rules (length<=3) were extracted from the first 500 trees.
+6802 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3951 rules (length<=3) were extracted from the first 500 trees.
+7028 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7067 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7146 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6579 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7190 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7347 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7158 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+7340 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7145 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7413 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7213 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+6687 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7224 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3984 rules (length<=3) were extracted from the first 500 trees.
+7444 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3967 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+6898 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7478 rules (length<=4) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 211 indices for fold 4 from: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Altering 338 out of 844 training instances
+1986 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7408 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7054 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7110 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+6933 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3972 rules (length<=3) were extracted from the first 500 trees.
+7365 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7319 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7239 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7308 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7015 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7116 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+7258 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7217 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7146 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3947 rules (length<=3) were extracted from the first 500 trees.
+7217 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7097 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7063 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3985 rules (length<=3) were extracted from the first 500 trees.
+7527 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3983 rules (length<=3) were extracted from the first 500 trees.
+7190 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+6683 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7054 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7211 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3974 rules (length<=3) were extracted from the first 500 trees.
+7253 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+6992 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+6677 rules (length<=4) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Altering 169 out of 844 training instances
+1982 rules (length<=2) were extracted from the first 500 trees.
+3990 rules (length<=3) were extracted from the first 500 trees.
+7321 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3954 rules (length<=3) were extracted from the first 500 trees.
+6964 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+6829 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3926 rules (length<=3) were extracted from the first 500 trees.
+6579 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+6967 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6950 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6753 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7187 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7069 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3988 rules (length<=3) were extracted from the first 500 trees.
+7305 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7145 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7198 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7263 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+6849 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+6877 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+7168 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7154 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7082 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7385 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7340 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+6744 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3977 rules (length<=3) were extracted from the first 500 trees.
+7228 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7335 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7177 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+6962 rules (length<=4) were extracted from the first 500 trees.
+7335 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 10 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Altering 84 out of 844 training instances
+1976 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7151 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+6972 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7251 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7050 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+6993 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7106 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6877 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7453 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+6756 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+6846 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7106 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6810 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+6915 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+6947 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+6816 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7185 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7253 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6982 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3913 rules (length<=3) were extracted from the first 500 trees.
+6734 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7204 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+6937 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+6963 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7012 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+6642 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7062 rules (length<=4) were extracted from the first 500 trees.
+7251 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 63 indices (first 63 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 63 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 84 indices (first 84 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 84 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 158 indices (first 158 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 158 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 169 indices (first 169 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 169 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 190 indices (first 190 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 190 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 211 indices (first 211 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 211 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 212 indices for fold 5 from: results/instances/original/vectors/qsar-biodeg_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 40 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Altering 337 out of 843 training instances
+1977 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+5967 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+6914 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+6670 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7073 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7017 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+6986 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7030 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+6891 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7151 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3927 rules (length<=3) were extracted from the first 500 trees.
+6910 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7170 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+6805 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7172 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3862 rules (length<=3) were extracted from the first 500 trees.
+6458 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7165 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3889 rules (length<=3) were extracted from the first 500 trees.
+6796 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+6689 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+6810 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3948 rules (length<=3) were extracted from the first 500 trees.
+6482 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+6700 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7103 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7265 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+6945 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3982 rules (length<=3) were extracted from the first 500 trees.
+7141 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3969 rules (length<=3) were extracted from the first 500 trees.
+7088 rules (length<=4) were extracted from the first 500 trees.
+7243 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.1.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Altering 169 out of 843 training instances
+1982 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7220 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3860 rules (length<=3) were extracted from the first 500 trees.
+6589 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7179 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3975 rules (length<=3) were extracted from the first 500 trees.
+7326 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3957 rules (length<=3) were extracted from the first 500 trees.
+7210 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+6918 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7340 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7378 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+6879 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7142 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+6949 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+6845 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+6645 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7239 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7088 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7341 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3959 rules (length<=3) were extracted from the first 500 trees.
+6768 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7138 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7372 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3960 rules (length<=3) were extracted from the first 500 trees.
+7128 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+6761 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+6926 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7163 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7264 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+6913 rules (length<=4) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.2.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 10 %
+Loading training noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Altering 84 out of 843 training instances
+1984 rules (length<=2) were extracted from the first 500 trees.
+3971 rules (length<=3) were extracted from the first 500 trees.
+7138 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+6983 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3922 rules (length<=3) were extracted from the first 500 trees.
+7179 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3956 rules (length<=3) were extracted from the first 500 trees.
+6993 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3976 rules (length<=3) were extracted from the first 500 trees.
+7045 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+6452 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3961 rules (length<=3) were extracted from the first 500 trees.
+7084 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+6943 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+6740 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3962 rules (length<=3) were extracted from the first 500 trees.
+7014 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3979 rules (length<=3) were extracted from the first 500 trees.
+7150 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7086 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3968 rules (length<=3) were extracted from the first 500 trees.
+7004 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3973 rules (length<=3) were extracted from the first 500 trees.
+7308 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3966 rules (length<=3) were extracted from the first 500 trees.
+7336 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3964 rules (length<=3) were extracted from the first 500 trees.
+7396 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3980 rules (length<=3) were extracted from the first 500 trees.
+7614 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+6645 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7033 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3935 rules (length<=3) were extracted from the first 500 trees.
+6625 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+6712 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3946 rules (length<=3) were extracted from the first 500 trees.
+7013 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7070 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3981 rules (length<=3) were extracted from the first 500 trees.
+7191 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+6767 rules (length<=4) were extracted from the first 500 trees.
+7275 rules (length<=4) were extracted from the first 500 trees.
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 21 indices (first 21 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 21 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 42 indices (first 42 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 42 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 53 indices (first 53 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 53 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 64 indices (first 64 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 64 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 85 indices (first 85 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 85 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 106 indices (first 106 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 106 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 127 indices (first 127 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 127 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 148 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 159 indices (first 159 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 159 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 170 indices (first 170 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 170 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 191 indices (first 191 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 191 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: qsar-biodeg 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 212 indices (first 212 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/qsar-biodeg_V36_noise0.3.csv 
+Using 212 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/qsar-biodeg_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

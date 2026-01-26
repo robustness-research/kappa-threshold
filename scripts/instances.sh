@@ -35,7 +35,7 @@ echo "Logs will be saved to: $PROJECT_ROOT/scripts/logs/instances/original/"
 echo "Results will be saved to: $PROJECT_ROOT/results/instances/original/by_dataset/"
 echo ""
 
-# Run with max 4 concurrent jobs using GNU Parallel
+# Run with max 16 concurrent jobs using GNU Parallel
 parallel -j 16 --line-buffer --progress \
   Rscript "$SCRIPTS_DIR/instances_noiser.R" {1} {2} '>' "$PROJECT_ROOT/scripts/logs/instances/original/{1}_{2}.log" 2'>&1' \
   ::: "${arguments[@]}" ::: "${arguments2[@]}"

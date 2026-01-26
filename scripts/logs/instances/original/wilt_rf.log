@@ -4811,3 +4811,1209 @@ Using 968 indices for  100 % of instances
 Calculate prediction
 Confusion matrix
 Training model on clean data
+Generated and appended 967 indices for fold 5 to: results/instances/original/vectors/wilt_rf_all_folds.csv 
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.1.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.2.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.3.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  40 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.4.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  50 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.5.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  60 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.6.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  70 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.7.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  80 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.8.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  90 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise0.9.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  10 %
+Using 97 indices (first 97 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 97 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  20 %
+Using 193 indices (first 193 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 193 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  25 %
+Using 242 indices (first 242 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 242 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  30 %
+Using 290 indices (first 290 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 290 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  40 %
+Using 387 indices (first 387 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 387 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  50 %
+Using 484 indices (first 484 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 484 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  60 %
+Using 580 indices (first 580 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 580 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  70 %
+Using 677 indices (first 677 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 677 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  75 %
+Using 725 indices (first 725 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 725 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  80 %
+Using 774 indices (first 774 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 774 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  90 %
+Using 870 indices (first 870 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 870 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: wilt 
+Fold: 5 
+Method: rf 
+Noise level:  100 %
+Percentage of altered instances:  100 %
+Using 967 indices (first 967 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/wilt_Mean_R_noise1.csv 
+Using 967 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/original/by_dataset/wilt_rf_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************

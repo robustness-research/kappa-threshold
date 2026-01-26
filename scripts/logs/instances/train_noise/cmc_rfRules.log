@@ -1,0 +1,3032 @@
+Current working directory: /home/chris/github/kappa-threshold 
+parameters.csv exists: TRUE 
+parameters.csv absolute path: /home/chris/github/kappa-threshold/data/files/parameters.csv 
+Processing model: rfRules for dataset: cmc 
+Loaded 295 indices for fold 1 from: results/instances/original/vectors/cmc_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Altering 1178 out of 1178 training instances
+Registered S3 method overwritten by 'RRF':
+  method      from        
+  plot.margin randomForest
+2000 rules (length<=2) were extracted from the first 500 trees.
+3765 rules (length<=3) were extracted from the first 500 trees.
+6400 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3782 rules (length<=3) were extracted from the first 500 trees.
+6452 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3698 rules (length<=3) were extracted from the first 500 trees.
+6222 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+6439 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3563 rules (length<=3) were extracted from the first 500 trees.
+5874 rules (length<=4) were extracted from the first 500 trees.
+1969 rules (length<=2) were extracted from the first 500 trees.
+3459 rules (length<=3) were extracted from the first 500 trees.
+5343 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3479 rules (length<=3) were extracted from the first 500 trees.
+5536 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3708 rules (length<=3) were extracted from the first 500 trees.
+6064 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3701 rules (length<=3) were extracted from the first 500 trees.
+6135 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3510 rules (length<=3) were extracted from the first 500 trees.
+5390 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3658 rules (length<=3) were extracted from the first 500 trees.
+5797 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3674 rules (length<=3) were extracted from the first 500 trees.
+6116 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+6793 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3679 rules (length<=3) were extracted from the first 500 trees.
+5785 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3530 rules (length<=3) were extracted from the first 500 trees.
+5331 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3838 rules (length<=3) were extracted from the first 500 trees.
+7148 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3768 rules (length<=3) were extracted from the first 500 trees.
+6170 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7223 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3816 rules (length<=3) were extracted from the first 500 trees.
+6756 rules (length<=4) were extracted from the first 500 trees.
+1937 rules (length<=2) were extracted from the first 500 trees.
+3354 rules (length<=3) were extracted from the first 500 trees.
+5113 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3662 rules (length<=3) were extracted from the first 500 trees.
+6113 rules (length<=4) were extracted from the first 500 trees.
+1954 rules (length<=2) were extracted from the first 500 trees.
+3425 rules (length<=3) were extracted from the first 500 trees.
+5291 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3529 rules (length<=3) were extracted from the first 500 trees.
+5309 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+6626 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3817 rules (length<=3) were extracted from the first 500 trees.
+6485 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Altering 589 out of 1178 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+6421 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7008 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+7071 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3936 rules (length<=3) were extracted from the first 500 trees.
+7074 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3856 rules (length<=3) were extracted from the first 500 trees.
+6522 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3702 rules (length<=3) were extracted from the first 500 trees.
+6172 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3853 rules (length<=3) were extracted from the first 500 trees.
+6745 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3871 rules (length<=3) were extracted from the first 500 trees.
+6815 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3808 rules (length<=3) were extracted from the first 500 trees.
+6252 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+7001 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+6883 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7357 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3831 rules (length<=3) were extracted from the first 500 trees.
+6505 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6732 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7121 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3932 rules (length<=3) were extracted from the first 500 trees.
+7320 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3841 rules (length<=3) were extracted from the first 500 trees.
+6517 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3955 rules (length<=3) were extracted from the first 500 trees.
+7315 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6938 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3934 rules (length<=3) were extracted from the first 500 trees.
+7466 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+6583 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6952 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7053 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7242 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7091 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Altering 236 out of 1178 training instances
+1996 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6734 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+6344 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3692 rules (length<=3) were extracted from the first 500 trees.
+6061 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3878 rules (length<=3) were extracted from the first 500 trees.
+6792 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3788 rules (length<=3) were extracted from the first 500 trees.
+6164 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3617 rules (length<=3) were extracted from the first 500 trees.
+5774 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3944 rules (length<=3) were extracted from the first 500 trees.
+6842 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3802 rules (length<=3) were extracted from the first 500 trees.
+6373 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6848 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3893 rules (length<=3) were extracted from the first 500 trees.
+6723 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3795 rules (length<=3) were extracted from the first 500 trees.
+6661 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6212 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3736 rules (length<=3) were extracted from the first 500 trees.
+6031 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3539 rules (length<=3) were extracted from the first 500 trees.
+5554 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7237 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6909 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3830 rules (length<=3) were extracted from the first 500 trees.
+6588 rules (length<=4) were extracted from the first 500 trees.
+1967 rules (length<=2) were extracted from the first 500 trees.
+3563 rules (length<=3) were extracted from the first 500 trees.
+5761 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+6261 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6035 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3525 rules (length<=3) were extracted from the first 500 trees.
+5404 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3707 rules (length<=3) were extracted from the first 500 trees.
+6105 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6831 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3940 rules (length<=3) were extracted from the first 500 trees.
+7505 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3801 rules (length<=3) were extracted from the first 500 trees.
+6450 rules (length<=4) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 1 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 294 indices for fold 2 from: results/instances/original/vectors/cmc_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Altering 1179 out of 1179 training instances
+1984 rules (length<=2) were extracted from the first 500 trees.
+3693 rules (length<=3) were extracted from the first 500 trees.
+6054 rules (length<=4) were extracted from the first 500 trees.
+1932 rules (length<=2) were extracted from the first 500 trees.
+3315 rules (length<=3) were extracted from the first 500 trees.
+5405 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3725 rules (length<=3) were extracted from the first 500 trees.
+6173 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3549 rules (length<=3) were extracted from the first 500 trees.
+5481 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3779 rules (length<=3) were extracted from the first 500 trees.
+6419 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3627 rules (length<=3) were extracted from the first 500 trees.
+5728 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3794 rules (length<=3) were extracted from the first 500 trees.
+6188 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3431 rules (length<=3) were extracted from the first 500 trees.
+5263 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3722 rules (length<=3) were extracted from the first 500 trees.
+6194 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3645 rules (length<=3) were extracted from the first 500 trees.
+6275 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3603 rules (length<=3) were extracted from the first 500 trees.
+5824 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3608 rules (length<=3) were extracted from the first 500 trees.
+5969 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3790 rules (length<=3) were extracted from the first 500 trees.
+6463 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3709 rules (length<=3) were extracted from the first 500 trees.
+6096 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3575 rules (length<=3) were extracted from the first 500 trees.
+5581 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3627 rules (length<=3) were extracted from the first 500 trees.
+5836 rules (length<=4) were extracted from the first 500 trees.
+1958 rules (length<=2) were extracted from the first 500 trees.
+3555 rules (length<=3) were extracted from the first 500 trees.
+5782 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+6272 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3707 rules (length<=3) were extracted from the first 500 trees.
+6194 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3728 rules (length<=3) were extracted from the first 500 trees.
+5994 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3569 rules (length<=3) were extracted from the first 500 trees.
+5494 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3758 rules (length<=3) were extracted from the first 500 trees.
+6168 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3775 rules (length<=3) were extracted from the first 500 trees.
+6280 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3847 rules (length<=3) were extracted from the first 500 trees.
+6661 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3783 rules (length<=3) were extracted from the first 500 trees.
+6578 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Altering 590 out of 1179 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6984 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3906 rules (length<=3) were extracted from the first 500 trees.
+7310 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6663 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3764 rules (length<=3) were extracted from the first 500 trees.
+6290 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3854 rules (length<=3) were extracted from the first 500 trees.
+6913 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6593 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3790 rules (length<=3) were extracted from the first 500 trees.
+6384 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+6817 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3723 rules (length<=3) were extracted from the first 500 trees.
+5963 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6744 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+6982 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3814 rules (length<=3) were extracted from the first 500 trees.
+6575 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3800 rules (length<=3) were extracted from the first 500 trees.
+6740 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3840 rules (length<=3) were extracted from the first 500 trees.
+6833 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3846 rules (length<=3) were extracted from the first 500 trees.
+6647 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3876 rules (length<=3) were extracted from the first 500 trees.
+6941 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7133 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3888 rules (length<=3) were extracted from the first 500 trees.
+7029 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7212 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7534 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3803 rules (length<=3) were extracted from the first 500 trees.
+6450 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3924 rules (length<=3) were extracted from the first 500 trees.
+7120 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3758 rules (length<=3) were extracted from the first 500 trees.
+6344 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+6693 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3898 rules (length<=3) were extracted from the first 500 trees.
+6905 rules (length<=4) were extracted from the first 500 trees.
+6957 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Altering 236 out of 1179 training instances
+1999 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+6768 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3853 rules (length<=3) were extracted from the first 500 trees.
+6576 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3674 rules (length<=3) were extracted from the first 500 trees.
+5774 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+6591 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3805 rules (length<=3) were extracted from the first 500 trees.
+6266 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6974 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6728 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3663 rules (length<=3) were extracted from the first 500 trees.
+5743 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3813 rules (length<=3) were extracted from the first 500 trees.
+6603 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6594 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6460 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3773 rules (length<=3) were extracted from the first 500 trees.
+6213 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3939 rules (length<=3) were extracted from the first 500 trees.
+7403 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3765 rules (length<=3) were extracted from the first 500 trees.
+6399 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7436 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+6911 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3764 rules (length<=3) were extracted from the first 500 trees.
+6213 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3824 rules (length<=3) were extracted from the first 500 trees.
+6433 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3827 rules (length<=3) were extracted from the first 500 trees.
+6517 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3882 rules (length<=3) were extracted from the first 500 trees.
+6856 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3754 rules (length<=3) were extracted from the first 500 trees.
+6069 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3821 rules (length<=3) were extracted from the first 500 trees.
+6404 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6985 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3902 rules (length<=3) were extracted from the first 500 trees.
+7242 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3861 rules (length<=3) were extracted from the first 500 trees.
+6404 rules (length<=4) were extracted from the first 500 trees.
+6648 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 2 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 295 indices for fold 3 from: results/instances/original/vectors/cmc_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Altering 1178 out of 1178 training instances
+1988 rules (length<=2) were extracted from the first 500 trees.
+3744 rules (length<=3) were extracted from the first 500 trees.
+6346 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3679 rules (length<=3) were extracted from the first 500 trees.
+5792 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3751 rules (length<=3) were extracted from the first 500 trees.
+6268 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3857 rules (length<=3) were extracted from the first 500 trees.
+6910 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+7158 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3672 rules (length<=3) were extracted from the first 500 trees.
+6013 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3687 rules (length<=3) were extracted from the first 500 trees.
+5758 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+6331 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3394 rules (length<=3) were extracted from the first 500 trees.
+5298 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3622 rules (length<=3) were extracted from the first 500 trees.
+5697 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3726 rules (length<=3) were extracted from the first 500 trees.
+6066 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3647 rules (length<=3) were extracted from the first 500 trees.
+6201 rules (length<=4) were extracted from the first 500 trees.
+1966 rules (length<=2) were extracted from the first 500 trees.
+3577 rules (length<=3) were extracted from the first 500 trees.
+5797 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3802 rules (length<=3) were extracted from the first 500 trees.
+6731 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3654 rules (length<=3) were extracted from the first 500 trees.
+5827 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3776 rules (length<=3) were extracted from the first 500 trees.
+6398 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3709 rules (length<=3) were extracted from the first 500 trees.
+5919 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3797 rules (length<=3) were extracted from the first 500 trees.
+6449 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3739 rules (length<=3) were extracted from the first 500 trees.
+6128 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3825 rules (length<=3) were extracted from the first 500 trees.
+6687 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3771 rules (length<=3) were extracted from the first 500 trees.
+6077 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3735 rules (length<=3) were extracted from the first 500 trees.
+6439 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3746 rules (length<=3) were extracted from the first 500 trees.
+6197 rules (length<=4) were extracted from the first 500 trees.
+1992 rules (length<=2) were extracted from the first 500 trees.
+3698 rules (length<=3) were extracted from the first 500 trees.
+6111 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3828 rules (length<=3) were extracted from the first 500 trees.
+6407 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Altering 589 out of 1178 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7566 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3917 rules (length<=3) were extracted from the first 500 trees.
+7104 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3897 rules (length<=3) were extracted from the first 500 trees.
+7091 rules (length<=4) were extracted from the first 500 trees.
+1975 rules (length<=2) were extracted from the first 500 trees.
+3557 rules (length<=3) were extracted from the first 500 trees.
+5911 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3818 rules (length<=3) were extracted from the first 500 trees.
+6298 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3942 rules (length<=3) were extracted from the first 500 trees.
+7524 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3920 rules (length<=3) were extracted from the first 500 trees.
+7027 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3851 rules (length<=3) were extracted from the first 500 trees.
+6574 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3950 rules (length<=3) were extracted from the first 500 trees.
+7489 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7632 rules (length<=4) were extracted from the first 500 trees.
+1980 rules (length<=2) were extracted from the first 500 trees.
+3632 rules (length<=3) were extracted from the first 500 trees.
+5877 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3919 rules (length<=3) were extracted from the first 500 trees.
+7217 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+6735 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3914 rules (length<=3) were extracted from the first 500 trees.
+7084 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+7093 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+6678 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+6671 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3756 rules (length<=3) were extracted from the first 500 trees.
+6253 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7312 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7353 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+6810 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7609 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3809 rules (length<=3) were extracted from the first 500 trees.
+6503 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3683 rules (length<=3) were extracted from the first 500 trees.
+6053 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3930 rules (length<=3) were extracted from the first 500 trees.
+7534 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Altering 236 out of 1178 training instances
+1996 rules (length<=2) were extracted from the first 500 trees.
+3781 rules (length<=3) were extracted from the first 500 trees.
+6316 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3864 rules (length<=3) were extracted from the first 500 trees.
+6590 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+6782 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3732 rules (length<=3) were extracted from the first 500 trees.
+6139 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3794 rules (length<=3) were extracted from the first 500 trees.
+6206 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3945 rules (length<=3) were extracted from the first 500 trees.
+7018 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3901 rules (length<=3) were extracted from the first 500 trees.
+7021 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3766 rules (length<=3) were extracted from the first 500 trees.
+6437 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+6773 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+6865 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3891 rules (length<=3) were extracted from the first 500 trees.
+7302 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3894 rules (length<=3) were extracted from the first 500 trees.
+7234 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3895 rules (length<=3) were extracted from the first 500 trees.
+6879 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3915 rules (length<=3) were extracted from the first 500 trees.
+7175 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3838 rules (length<=3) were extracted from the first 500 trees.
+6767 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3886 rules (length<=3) were extracted from the first 500 trees.
+6615 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3918 rules (length<=3) were extracted from the first 500 trees.
+6679 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7292 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3872 rules (length<=3) were extracted from the first 500 trees.
+6709 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3900 rules (length<=3) were extracted from the first 500 trees.
+6838 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+6978 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3875 rules (length<=3) were extracted from the first 500 trees.
+6645 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3938 rules (length<=3) were extracted from the first 500 trees.
+7077 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3923 rules (length<=3) were extracted from the first 500 trees.
+7435 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3827 rules (length<=3) were extracted from the first 500 trees.
+6404 rules (length<=4) were extracted from the first 500 trees.
+6912 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 3 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 294 indices for fold 4 from: results/instances/original/vectors/cmc_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Altering 1179 out of 1179 training instances
+1970 rules (length<=2) were extracted from the first 500 trees.
+3452 rules (length<=3) were extracted from the first 500 trees.
+5154 rules (length<=4) were extracted from the first 500 trees.
+1932 rules (length<=2) were extracted from the first 500 trees.
+3289 rules (length<=3) were extracted from the first 500 trees.
+4940 rules (length<=4) were extracted from the first 500 trees.
+1995 rules (length<=2) were extracted from the first 500 trees.
+3516 rules (length<=3) were extracted from the first 500 trees.
+5363 rules (length<=4) were extracted from the first 500 trees.
+1942 rules (length<=2) were extracted from the first 500 trees.
+3358 rules (length<=3) were extracted from the first 500 trees.
+5182 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3510 rules (length<=3) were extracted from the first 500 trees.
+5239 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3782 rules (length<=3) were extracted from the first 500 trees.
+6331 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3647 rules (length<=3) were extracted from the first 500 trees.
+5612 rules (length<=4) were extracted from the first 500 trees.
+1955 rules (length<=2) were extracted from the first 500 trees.
+3415 rules (length<=3) were extracted from the first 500 trees.
+5181 rules (length<=4) were extracted from the first 500 trees.
+1939 rules (length<=2) were extracted from the first 500 trees.
+3354 rules (length<=3) were extracted from the first 500 trees.
+5072 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3426 rules (length<=3) were extracted from the first 500 trees.
+5181 rules (length<=4) were extracted from the first 500 trees.
+1951 rules (length<=2) were extracted from the first 500 trees.
+3466 rules (length<=3) were extracted from the first 500 trees.
+5473 rules (length<=4) were extracted from the first 500 trees.
+1985 rules (length<=2) were extracted from the first 500 trees.
+3490 rules (length<=3) were extracted from the first 500 trees.
+5211 rules (length<=4) were extracted from the first 500 trees.
+1974 rules (length<=2) were extracted from the first 500 trees.
+3434 rules (length<=3) were extracted from the first 500 trees.
+5118 rules (length<=4) were extracted from the first 500 trees.
+1916 rules (length<=2) were extracted from the first 500 trees.
+3018 rules (length<=3) were extracted from the first 500 trees.
+4515 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3478 rules (length<=3) were extracted from the first 500 trees.
+5176 rules (length<=4) were extracted from the first 500 trees.
+1972 rules (length<=2) were extracted from the first 500 trees.
+3423 rules (length<=3) were extracted from the first 500 trees.
+5102 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3585 rules (length<=3) were extracted from the first 500 trees.
+5569 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3536 rules (length<=3) were extracted from the first 500 trees.
+5339 rules (length<=4) were extracted from the first 500 trees.
+1961 rules (length<=2) were extracted from the first 500 trees.
+3348 rules (length<=3) were extracted from the first 500 trees.
+4987 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3607 rules (length<=3) were extracted from the first 500 trees.
+5768 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3866 rules (length<=3) were extracted from the first 500 trees.
+6736 rules (length<=4) were extracted from the first 500 trees.
+1910 rules (length<=2) were extracted from the first 500 trees.
+3120 rules (length<=3) were extracted from the first 500 trees.
+4704 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3567 rules (length<=3) were extracted from the first 500 trees.
+5818 rules (length<=4) were extracted from the first 500 trees.
+1936 rules (length<=2) were extracted from the first 500 trees.
+3239 rules (length<=3) were extracted from the first 500 trees.
+5068 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3612 rules (length<=3) were extracted from the first 500 trees.
+5825 rules (length<=4) were extracted from the first 500 trees.
+5369 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Altering 590 out of 1179 training instances
+1954 rules (length<=2) were extracted from the first 500 trees.
+3559 rules (length<=3) were extracted from the first 500 trees.
+5551 rules (length<=4) were extracted from the first 500 trees.
+1965 rules (length<=2) were extracted from the first 500 trees.
+3537 rules (length<=3) were extracted from the first 500 trees.
+5708 rules (length<=4) were extracted from the first 500 trees.
+1979 rules (length<=2) were extracted from the first 500 trees.
+3616 rules (length<=3) were extracted from the first 500 trees.
+5796 rules (length<=4) were extracted from the first 500 trees.
+1944 rules (length<=2) were extracted from the first 500 trees.
+3367 rules (length<=3) were extracted from the first 500 trees.
+5088 rules (length<=4) were extracted from the first 500 trees.
+1981 rules (length<=2) were extracted from the first 500 trees.
+3692 rules (length<=3) were extracted from the first 500 trees.
+6045 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3679 rules (length<=3) were extracted from the first 500 trees.
+5967 rules (length<=4) were extracted from the first 500 trees.
+1962 rules (length<=2) were extracted from the first 500 trees.
+3509 rules (length<=3) were extracted from the first 500 trees.
+5570 rules (length<=4) were extracted from the first 500 trees.
+1983 rules (length<=2) were extracted from the first 500 trees.
+3578 rules (length<=3) were extracted from the first 500 trees.
+5571 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3724 rules (length<=3) were extracted from the first 500 trees.
+6286 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3492 rules (length<=3) were extracted from the first 500 trees.
+5399 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3641 rules (length<=3) were extracted from the first 500 trees.
+5637 rules (length<=4) were extracted from the first 500 trees.
+1970 rules (length<=2) were extracted from the first 500 trees.
+3495 rules (length<=3) were extracted from the first 500 trees.
+5569 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3664 rules (length<=3) were extracted from the first 500 trees.
+5915 rules (length<=4) were extracted from the first 500 trees.
+1978 rules (length<=2) were extracted from the first 500 trees.
+3611 rules (length<=3) were extracted from the first 500 trees.
+5815 rules (length<=4) were extracted from the first 500 trees.
+1942 rules (length<=2) were extracted from the first 500 trees.
+3297 rules (length<=3) were extracted from the first 500 trees.
+5216 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3722 rules (length<=3) were extracted from the first 500 trees.
+6125 rules (length<=4) were extracted from the first 500 trees.
+1937 rules (length<=2) were extracted from the first 500 trees.
+3330 rules (length<=3) were extracted from the first 500 trees.
+5059 rules (length<=4) were extracted from the first 500 trees.
+1947 rules (length<=2) were extracted from the first 500 trees.
+3410 rules (length<=3) were extracted from the first 500 trees.
+5232 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3511 rules (length<=3) were extracted from the first 500 trees.
+5423 rules (length<=4) were extracted from the first 500 trees.
+1973 rules (length<=2) were extracted from the first 500 trees.
+3558 rules (length<=3) were extracted from the first 500 trees.
+5516 rules (length<=4) were extracted from the first 500 trees.
+1936 rules (length<=2) were extracted from the first 500 trees.
+3284 rules (length<=3) were extracted from the first 500 trees.
+5068 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3610 rules (length<=3) were extracted from the first 500 trees.
+5630 rules (length<=4) were extracted from the first 500 trees.
+1960 rules (length<=2) were extracted from the first 500 trees.
+3474 rules (length<=3) were extracted from the first 500 trees.
+5444 rules (length<=4) were extracted from the first 500 trees.
+1942 rules (length<=2) were extracted from the first 500 trees.
+3337 rules (length<=3) were extracted from the first 500 trees.
+5124 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3568 rules (length<=3) were extracted from the first 500 trees.
+5685 rules (length<=4) were extracted from the first 500 trees.
+3623 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Altering 236 out of 1179 training instances
+1905 rules (length<=2) were extracted from the first 500 trees.
+3021 rules (length<=3) were extracted from the first 500 trees.
+4621 rules (length<=4) were extracted from the first 500 trees.
+1920 rules (length<=2) were extracted from the first 500 trees.
+3315 rules (length<=3) were extracted from the first 500 trees.
+5100 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3850 rules (length<=3) were extracted from the first 500 trees.
+6778 rules (length<=4) were extracted from the first 500 trees.
+1989 rules (length<=2) were extracted from the first 500 trees.
+3706 rules (length<=3) were extracted from the first 500 trees.
+5779 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3873 rules (length<=3) were extracted from the first 500 trees.
+6886 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3762 rules (length<=3) were extracted from the first 500 trees.
+5996 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3643 rules (length<=3) were extracted from the first 500 trees.
+5583 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3761 rules (length<=3) were extracted from the first 500 trees.
+6030 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3751 rules (length<=3) were extracted from the first 500 trees.
+5882 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3835 rules (length<=3) were extracted from the first 500 trees.
+6792 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3673 rules (length<=3) were extracted from the first 500 trees.
+5624 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3786 rules (length<=3) were extracted from the first 500 trees.
+6228 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3731 rules (length<=3) were extracted from the first 500 trees.
+5828 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3806 rules (length<=3) were extracted from the first 500 trees.
+6586 rules (length<=4) were extracted from the first 500 trees.
+1907 rules (length<=2) were extracted from the first 500 trees.
+3215 rules (length<=3) were extracted from the first 500 trees.
+5034 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3776 rules (length<=3) were extracted from the first 500 trees.
+6216 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3591 rules (length<=3) were extracted from the first 500 trees.
+5833 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3779 rules (length<=3) were extracted from the first 500 trees.
+6031 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3672 rules (length<=3) were extracted from the first 500 trees.
+5646 rules (length<=4) were extracted from the first 500 trees.
+1945 rules (length<=2) were extracted from the first 500 trees.
+3331 rules (length<=3) were extracted from the first 500 trees.
+5069 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+6769 rules (length<=4) were extracted from the first 500 trees.
+1892 rules (length<=2) were extracted from the first 500 trees.
+3045 rules (length<=3) were extracted from the first 500 trees.
+4553 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3694 rules (length<=3) were extracted from the first 500 trees.
+6005 rules (length<=4) were extracted from the first 500 trees.
+1959 rules (length<=2) were extracted from the first 500 trees.
+3424 rules (length<=3) were extracted from the first 500 trees.
+5349 rules (length<=4) were extracted from the first 500 trees.
+1987 rules (length<=2) were extracted from the first 500 trees.
+3706 rules (length<=3) were extracted from the first 500 trees.
+5923 rules (length<=4) were extracted from the first 500 trees.
+6215 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 29 indices (first 29 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 29 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 147 indices (first 147 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 147 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 176 indices (first 176 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 176 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 220 indices (first 220 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 220 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 235 indices (first 235 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 235 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 265 indices (first 265 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 265 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 4 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 294 indices (first 294 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 294 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Loaded 295 indices for fold 5 from: results/instances/original/vectors/cmc_rfRules_all_folds.csv 
+
+=== Training model with 10 % noise in training data ===
+Critical percentage for training noise: 100 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Altering 1178 out of 1178 training instances
+1959 rules (length<=2) were extracted from the first 500 trees.
+3480 rules (length<=3) were extracted from the first 500 trees.
+5391 rules (length<=4) were extracted from the first 500 trees.
+1984 rules (length<=2) were extracted from the first 500 trees.
+3558 rules (length<=3) were extracted from the first 500 trees.
+5768 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3801 rules (length<=3) were extracted from the first 500 trees.
+6315 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3789 rules (length<=3) were extracted from the first 500 trees.
+6113 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3617 rules (length<=3) were extracted from the first 500 trees.
+5769 rules (length<=4) were extracted from the first 500 trees.
+1977 rules (length<=2) were extracted from the first 500 trees.
+3620 rules (length<=3) were extracted from the first 500 trees.
+5643 rules (length<=4) were extracted from the first 500 trees.
+1968 rules (length<=2) were extracted from the first 500 trees.
+3557 rules (length<=3) were extracted from the first 500 trees.
+5650 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3639 rules (length<=3) were extracted from the first 500 trees.
+5649 rules (length<=4) were extracted from the first 500 trees.
+1898 rules (length<=2) were extracted from the first 500 trees.
+3178 rules (length<=3) were extracted from the first 500 trees.
+4823 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3704 rules (length<=3) were extracted from the first 500 trees.
+6150 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3632 rules (length<=3) were extracted from the first 500 trees.
+5768 rules (length<=4) were extracted from the first 500 trees.
+1925 rules (length<=2) were extracted from the first 500 trees.
+3330 rules (length<=3) were extracted from the first 500 trees.
+5113 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3637 rules (length<=3) were extracted from the first 500 trees.
+5596 rules (length<=4) were extracted from the first 500 trees.
+1964 rules (length<=2) were extracted from the first 500 trees.
+3475 rules (length<=3) were extracted from the first 500 trees.
+5244 rules (length<=4) were extracted from the first 500 trees.
+1982 rules (length<=2) were extracted from the first 500 trees.
+3571 rules (length<=3) were extracted from the first 500 trees.
+5658 rules (length<=4) were extracted from the first 500 trees.
+1988 rules (length<=2) were extracted from the first 500 trees.
+3671 rules (length<=3) were extracted from the first 500 trees.
+5994 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3734 rules (length<=3) were extracted from the first 500 trees.
+6134 rules (length<=4) were extracted from the first 500 trees.
+1976 rules (length<=2) were extracted from the first 500 trees.
+3621 rules (length<=3) were extracted from the first 500 trees.
+5587 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3770 rules (length<=3) were extracted from the first 500 trees.
+6342 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3760 rules (length<=3) were extracted from the first 500 trees.
+6174 rules (length<=4) were extracted from the first 500 trees.
+1971 rules (length<=2) were extracted from the first 500 trees.
+3531 rules (length<=3) were extracted from the first 500 trees.
+5518 rules (length<=4) were extracted from the first 500 trees.
+1994 rules (length<=2) were extracted from the first 500 trees.
+3621 rules (length<=3) were extracted from the first 500 trees.
+5631 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3858 rules (length<=3) were extracted from the first 500 trees.
+6496 rules (length<=4) were extracted from the first 500 trees.
+1986 rules (length<=2) were extracted from the first 500 trees.
+3652 rules (length<=3) were extracted from the first 500 trees.
+5868 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3799 rules (length<=3) were extracted from the first 500 trees.
+6153 rules (length<=4) were extracted from the first 500 trees.
+3735 rules (length<=3) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  10 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.1.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 20 % noise in training data ===
+Critical percentage for training noise: 50 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Altering 589 out of 1178 training instances
+1999 rules (length<=2) were extracted from the first 500 trees.
+3831 rules (length<=3) were extracted from the first 500 trees.
+6603 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3831 rules (length<=3) were extracted from the first 500 trees.
+6608 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3848 rules (length<=3) were extracted from the first 500 trees.
+6449 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3933 rules (length<=3) were extracted from the first 500 trees.
+7152 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3868 rules (length<=3) were extracted from the first 500 trees.
+6729 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3880 rules (length<=3) were extracted from the first 500 trees.
+6895 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3781 rules (length<=3) were extracted from the first 500 trees.
+6360 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3849 rules (length<=3) were extracted from the first 500 trees.
+6501 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3814 rules (length<=3) were extracted from the first 500 trees.
+6457 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3870 rules (length<=3) were extracted from the first 500 trees.
+6931 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3804 rules (length<=3) were extracted from the first 500 trees.
+6584 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+7009 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3855 rules (length<=3) were extracted from the first 500 trees.
+6543 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6609 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+6542 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3952 rules (length<=3) were extracted from the first 500 trees.
+7224 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3869 rules (length<=3) were extracted from the first 500 trees.
+6787 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3843 rules (length<=3) were extracted from the first 500 trees.
+6625 rules (length<=4) were extracted from the first 500 trees.
+1990 rules (length<=2) were extracted from the first 500 trees.
+3778 rules (length<=3) were extracted from the first 500 trees.
+6419 rules (length<=4) were extracted from the first 500 trees.
+1991 rules (length<=2) were extracted from the first 500 trees.
+3819 rules (length<=3) were extracted from the first 500 trees.
+6433 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3812 rules (length<=3) were extracted from the first 500 trees.
+6506 rules (length<=4) were extracted from the first 500 trees.
+1956 rules (length<=2) were extracted from the first 500 trees.
+3453 rules (length<=3) were extracted from the first 500 trees.
+5503 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3793 rules (length<=3) were extracted from the first 500 trees.
+6281 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3774 rules (length<=3) were extracted from the first 500 trees.
+6189 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3965 rules (length<=3) were extracted from the first 500 trees.
+7382 rules (length<=4) were extracted from the first 500 trees.
+6697 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  20 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.2.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+
+=== Training model with 30 % noise in training data ===
+Critical percentage for training noise: 20 %
+Loading training noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Altering 236 out of 1178 training instances
+2000 rules (length<=2) were extracted from the first 500 trees.
+3905 rules (length<=3) were extracted from the first 500 trees.
+6912 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3931 rules (length<=3) were extracted from the first 500 trees.
+7287 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3874 rules (length<=3) were extracted from the first 500 trees.
+6690 rules (length<=4) were extracted from the first 500 trees.
+1993 rules (length<=2) were extracted from the first 500 trees.
+3832 rules (length<=3) were extracted from the first 500 trees.
+6437 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3912 rules (length<=3) were extracted from the first 500 trees.
+6905 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3941 rules (length<=3) were extracted from the first 500 trees.
+7225 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7285 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3925 rules (length<=3) were extracted from the first 500 trees.
+7422 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3904 rules (length<=3) were extracted from the first 500 trees.
+6945 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7232 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3909 rules (length<=3) were extracted from the first 500 trees.
+7007 rules (length<=4) were extracted from the first 500 trees.
+1998 rules (length<=2) were extracted from the first 500 trees.
+3908 rules (length<=3) were extracted from the first 500 trees.
+7107 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3929 rules (length<=3) were extracted from the first 500 trees.
+7138 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3953 rules (length<=3) were extracted from the first 500 trees.
+7505 rules (length<=4) were extracted from the first 500 trees.
+1996 rules (length<=2) were extracted from the first 500 trees.
+3910 rules (length<=3) were extracted from the first 500 trees.
+6824 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3842 rules (length<=3) were extracted from the first 500 trees.
+6303 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3958 rules (length<=3) were extracted from the first 500 trees.
+7459 rules (length<=4) were extracted from the first 500 trees.
+1999 rules (length<=2) were extracted from the first 500 trees.
+3896 rules (length<=3) were extracted from the first 500 trees.
+6838 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3937 rules (length<=3) were extracted from the first 500 trees.
+7250 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3943 rules (length<=3) were extracted from the first 500 trees.
+7260 rules (length<=4) were extracted from the first 500 trees.
+1997 rules (length<=2) were extracted from the first 500 trees.
+3887 rules (length<=3) were extracted from the first 500 trees.
+6790 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3911 rules (length<=3) were extracted from the first 500 trees.
+6661 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3928 rules (length<=3) were extracted from the first 500 trees.
+7207 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3963 rules (length<=3) were extracted from the first 500 trees.
+7614 rules (length<=4) were extracted from the first 500 trees.
+2000 rules (length<=2) were extracted from the first 500 trees.
+3970 rules (length<=3) were extracted from the first 500 trees.
+7686 rules (length<=4) were extracted from the first 500 trees.
+7203 rules (length<=4) were extracted from the first 500 trees.
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  10 %
+Using 30 indices (first 30 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 30 indices for  10 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  20 %
+Using 59 indices (first 59 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 59 indices for  20 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  25 %
+Using 74 indices (first 74 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 74 indices for  25 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  30 %
+Using 88 indices (first 88 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 88 indices for  30 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  40 %
+Using 118 indices (first 118 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 118 indices for  40 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  50 %
+Using 148 indices (first 148 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 148 indices for  50 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  60 %
+Using 177 indices (first 177 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 177 indices for  60 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  70 %
+Using 206 indices (first 206 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 206 indices for  70 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  75 %
+Using 221 indices (first 221 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 221 indices for  75 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  80 %
+Using 236 indices (first 236 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 236 indices for  80 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  90 %
+Using 266 indices (first 266 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 266 indices for  90 % of instances
+Calculate prediction
+Confusion matrix
+Dataset: cmc 
+Fold: 5 
+Method: rfRules 
+Noise level:  30 %
+Percentage of altered instances:  100 %
+Using 295 indices (first 295 from shuffled list)
+Loading noise data from: results/noise_injection/by_dataset/cmc_Number_of_children_ever_born_noise0.3.csv 
+Using 295 indices for  100 % of instances
+Calculate prediction
+Confusion matrix
+Saved results to: results/instances/train_noise/by_dataset/cmc_rfRules_results.csv 
+----------------
+****************************
+Instances altered with noise
+****************************
