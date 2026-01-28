@@ -43,6 +43,11 @@ all_results <- do.call(rbind, lapply(datasets, function(dataset) {
   }
 }))
 
+# Load threshold instance results for threshold = 0.15
+threshold_results <- read_csv("../../data/results/threshold_instance_results.csv", show_col_types = FALSE) %>%
+  filter(threshold == 0.15) %>%
+  rename(dataset_name = dataset_name, technique = technique, noise = noise_level)
+
 # Convert instance_level to percentage (multiply by 100)
 all_results$percentage <- all_results$instance_level * 100
 
@@ -57,9 +62,13 @@ all_results <- all_results %>%
 all_results <- all_results %>%
   rename(dataset_name = dataset, technique = method, noise = noise_levels)
 
-# Create quartiles dataframe (filter for quartile values: 25, 50, 75, 100)
+# Create quartiles dataframe (filter for quartile values: 50, 100 - excluding 25 and 75)
 quartiles_df <- all_results %>%
-  filter(instance_level %in% c(0.25, 0.5, 0.75, 1.0))
+  filter(instance_level %in% c(0.5, 1.0))
+
+# Create full quartiles dataframe (0, 25, 50, 75, 100)
+full_quartiles_df <- all_results %>%
+  filter(instance_level %in% c(0, 0.25, 0.5, 0.75, 1.0))
 
 # Create deciles dataframe (filter for decile values: 10, 20, ..., 100)
 deciles_df <- all_results %>%
@@ -128,6 +137,8 @@ names(dataset_labels) <- datasets
 
 # Create plot
 p <- ggplot(quartiles_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_vline(data = threshold_results, aes(xintercept = critical_percentage), 
+             linetype = "dotted", color = "black", alpha = 0.7) +
   geom_point() +
   geom_line(aes(group = factor(noise))) +
   labs(x = "Instances", y = "Kappa", color = "Noise") +
@@ -236,6 +247,8 @@ names(dataset_labels) <- datasets
 
 # Create plot
 p <- ggplot(deciles_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_vline(data = threshold_results, aes(xintercept = critical_percentage), 
+             linetype = "dotted", color = "black", alpha = 0.7) +
   geom_point() +
   geom_line(aes(group = factor(noise))) +
   labs(x = "Instances", y = "Kappa", color = "Noise") +
@@ -262,6 +275,59 @@ p <- ggplot(deciles_df, aes(x = percentage, y = kappa_loss, color = factor(noise
 
 # Print plot
 openPDFEPS("KLC_plot_d_v2", heigh = 26, width = 20)
+print(p)
+dev.off()
+```
+
+## Full Quartiles Plot (0, 25, 50, 75, 100)
+
+```{r echo=FALSE}
+openPDFEPS <- function(file, height= PDFheight, width= PDFwidth, PDFEPS = 1) {
+  if (PDFEPS == 1) {
+    pdf(paste(file, ".pdf", sep=""), width, height)
+  } else if (PDFEPS == 2) {
+    postscript(paste(file, ".eps", sep=""), width, height, horizontal=FALSE)
+  }
+}
+
+
+# Create a new column to control the order of datasets
+full_quartiles_df$dataset_order <- factor(full_quartiles_df$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+full_quartiles_df$method_order <- factor(full_quartiles_df$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(full_quartiles_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_vline(data = threshold_results, aes(xintercept = critical_percentage), 
+             linetype = "dotted", color = "black", alpha = 0.7) +
+  geom_point() +
+  geom_line(aes(group = factor(noise))) +
+  labs(x = "Instances", y = "Kappa", color = "Noise") +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.5)) +
+  facet_grid(dataset_order ~ method_order, scales = "free", 
+             labeller = labeller(dataset_order = dataset_labels, method_order = method_labels)) +
+  guides(colour = guide_legend(nrow = 1)) +
+  theme_minimal() +  
+  theme(legend.position = "bottom",
+        legend.text=element_text(size=16),
+        axis.text=element_text(size=12),
+        axis.text.x = element_text(angle = 90, vjust = 0, hjust=0.5),
+        axis.title = element_text(size=14,face = "bold"),
+        panel.grid.minor = element_blank(),
+        strip.background = element_rect(
+          color="white", fill="#edf2f4", size=0.0, linetype="solid"),
+        strip.text = element_text(face = "bold"),
+        strip.text.y = element_text(angle = 0))
+
+# Print plot
+openPDFEPS("KLC_plot_full_quartiles_v2", heigh = 26, width = 20)
 print(p)
 dev.off()
 ```

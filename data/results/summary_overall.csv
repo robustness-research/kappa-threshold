@@ -1,0 +1,3 @@
+dataset_type,n_datasets,n_methods,n_noise_levels,n_instance_levels,total_records,mean_kappa_loss,sd_kappa_loss,min_kappa_loss,max_kappa_loss,mean_accuracy,sd_accuracy,min_accuracy,max_accuracy
+original,20,21,3,12,15120,0.051,0.086,0,1,0.981,0.04,0.079,1
+train_noise,20,21,3,12,15120,0.043,0.074,0,0.998,0.985,0.028,0.444,1
