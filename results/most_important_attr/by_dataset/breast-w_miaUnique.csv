@@ -1,0 +1,6 @@
+"dataset_name","most_important_attribute"
+"breast-w","Clump_Thickness"
+"breast-w","Cell_Size_Uniformity"
+"breast-w","Bare_Nuclei"
+"breast-w","Marginal_Adhesion"
+"breast-w","Cell_Shape_Uniformity"

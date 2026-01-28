@@ -1,0 +1,267 @@
+---
+title: "Plots"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Load libraries
+
+```{r, include=FALSE}
+# Packages that need to be loaded
+library(dplyr)
+library(ggplot2)
+```
+
+Load files
+
+```{r, include=FALSE}
+# Load parameters from CSV
+library(readr)
+params <- read_csv("../../data/files/parameters.csv", show_col_types = FALSE)
+
+# Extract parameters
+datasets <- strsplit(params$values[params$parameter == "dataset_name"], "\\|")[[1]]
+method_names <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[1]]
+noise_level <- as.numeric(strsplit(params$values[params$parameter == "noise_level"], "\\|")[[1]])
+noise_names <- strsplit(params$values[params$parameter == "noise_name"], "\\|")[[1]]
+instances_names <- strsplit(params$values[params$parameter == "instances_name"], "\\|")[[1]]
+quartiles_names <- c("0", "25", "50", "75", "100")
+
+# Load results from CSV files in results/instances/original/by_dataset/
+results_dir <- "../../results/instances/original/by_dataset"
+
+# Read result files for each dataset
+all_results <- do.call(rbind, lapply(datasets, function(dataset) {
+  file_path <- file.path(results_dir, paste0(dataset, "_results.csv"))
+  if (file.exists(file_path)) {
+    read_csv(file_path, show_col_types = FALSE)
+  } else {
+    NULL
+  }
+}))
+
+# Convert instance_level to percentage (multiply by 100)
+all_results$percentage <- all_results$instance_level * 100
+
+# Calculate kappa loss (assuming baseline is kappa at instance_level = 1)
+# For each dataset-method-noise-fold combination, calculate loss from maximum
+all_results <- all_results %>%
+  group_by(dataset, method, noise_levels, fold) %>%
+  mutate(kappa_loss = kappa) %>%
+  ungroup()
+
+# Rename columns to match expected format
+all_results <- all_results %>%
+  rename(dataset_name = dataset, technique = method, noise = noise_levels)
+
+# Create quartiles dataframe (filter for quartile values: 25, 50, 75, 100)
+quartiles_df <- all_results %>%
+  filter(instance_level %in% c(0.25, 0.5, 0.75, 1.0))
+
+# Create deciles dataframe (filter for decile values: 10, 20, ..., 100)
+deciles_df <- all_results %>%
+  filter(instance_level %in% seq(0.1, 1.0, by = 0.1))
+
+# For compatibility with existing code, also create the P versions
+decilesP_df <- deciles_df
+```
+
+# Plotting the Kappa Loss Curves for each dataset and technique in a grid
+
+## Obtain the Kappa Loss (in deciles)
+
+```{r eval=FALSE, include=FALSE}
+library(ggplot2)
+
+# Create a new column to control the order of datasets
+decilesP_df$dataset_order <- factor(decilesP_df$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+decilesP_df$method_order <- factor(decilesP_df$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(decilesP_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_point() +
+  geom_line(aes(group = factor(noise))) +
+  labs(x = "Instances", y = "Kappa", color = "Noise") +
+  theme_bw() +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.1)) +
+  facet_grid(method_order ~ dataset_order, scales = "free", 
+             labeller = labeller(method_order = method_labels, dataset_order = dataset_labels))
+
+# Print plot
+print(p)
+```
+
+## Obtain the Kappa Loss (in quartiles)
+
+```{r echo=FALSE}
+openPDFEPS <- function(file, height= PDFheight, width= PDFwidth, PDFEPS = 1) {
+  if (PDFEPS == 1) {
+    pdf(paste(file, ".pdf", sep=""), width, height)
+  } else if (PDFEPS == 2) {
+    postscript(paste(file, ".eps", sep=""), width, height, horizontal=FALSE)
+  }
+}
+
+
+# Create a new column to control the order of datasets
+quartiles_df$dataset_order <- factor(quartiles_df$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+quartiles_df$method_order <- factor(quartiles_df$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(quartiles_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_point() +
+  geom_line(aes(group = factor(noise))) +
+  labs(x = "Instances", y = "Kappa", color = "Noise") +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.5)) +
+  # scale_x_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.25)) +
+  scale_x_discrete(limits = c(50, 100)) + 
+  facet_grid(dataset_order ~ method_order, scales = "free", 
+             labeller = labeller(dataset_order = dataset_labels, method_order = method_labels)) +
+  guides(colour = guide_legend(nrow = 1)) +
+  # scale_colour_viridis_d() +
+  # scale_colour_viridis_d(option = "plasma") +
+  theme_minimal() +  
+  theme(legend.position = "bottom",
+        legend.text=element_text(size=16),
+        axis.text=element_text(size=12),
+        axis.text.x = element_text(angle = 90, vjust = 0, hjust=0.5),
+        axis.title = element_text(size=14,face = "bold"),
+        panel.grid.minor = element_blank(),
+        strip.background = element_rect(
+          color="white", fill="#edf2f4", size=0.0, linetype="solid"),
+        strip.text = element_text(face = "bold"),
+        strip.text.y = element_text(angle = 0))
+  # facet_grid(method_order ~ dataset_order, scales = "free")
+
+# Print plot
+openPDFEPS("KLC_plot_q_v2", heigh = 26, width = 20)
+print(p)
+dev.off()
+```
+
+```{r eval=FALSE, include=FALSE}
+openPDFEPS <- function(file, height= PDFheight, width= PDFwidth, PDFEPS = 1) {
+  if (PDFEPS == 1) {
+    pdf(paste(file, ".pdf", sep=""), width, height)
+  } else if (PDFEPS == 2) {
+    postscript(paste(file, ".eps", sep=""), width, height, horizontal=FALSE)
+  }
+}
+
+
+# Create a new column to control the order of datasets
+quartilesP_df$dataset_order <- factor(quartilesP_df$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+quartilesP_df$method_order <- factor(quartilesP_df$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(quartilesP_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_point() +
+  geom_line(aes(group = factor(noise))) +
+  labs(x = "Instances", y = "Kappa", color = "Noise") +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.5)) +
+  # scale_x_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.25)) +
+  scale_x_discrete(limits = c(50, 100)) + 
+  facet_grid(dataset_order ~ method_order, scales = "free", 
+             labeller = labeller(dataset_order = dataset_labels, method_order = method_labels)) +
+  guides(colour = guide_legend(nrow = 1)) +
+  # scale_colour_viridis_d() +
+  # scale_colour_viridis_d(option = "plasma") +
+  theme_minimal() +  
+  theme(legend.position = "bottom",
+        legend.text=element_text(size=16),
+        axis.text=element_text(size=12),
+        axis.text.x = element_text(angle = 90, vjust = 0, hjust=0.5),
+        axis.title = element_text(size=14,face = "bold"),
+        panel.grid.minor = element_blank(),
+        strip.background = element_rect(
+          color="white", fill="#edf2f4", size=0.0, linetype="solid"),
+        strip.text = element_text(face = "bold"),
+        strip.text.y = element_text(angle = 0))
+  # facet_grid(method_order ~ dataset_order, scales = "free")
+
+# Print plot
+openPDFEPS("KLC_plot_q_popular_v2", heigh = 26, width = 20)
+print(p)
+dev.off()
+```
+
+```{r echo=FALSE}
+openPDFEPS <- function(file, height= PDFheight, width= PDFwidth, PDFEPS = 1) {
+  if (PDFEPS == 1) {
+    pdf(paste(file, ".pdf", sep=""), width, height)
+  } else if (PDFEPS == 2) {
+    postscript(paste(file, ".eps", sep=""), width, height, horizontal=FALSE)
+  }
+}
+
+
+# Create a new column to control the order of datasets
+deciles_df$dataset_order <- factor(deciles_df$dataset_name, levels = datasets)
+
+# Create a new column to control the order of methods
+deciles_df$method_order <- factor(deciles_df$technique, levels = method_names)
+
+# Create custom labels for methods (a-u) and datasets (1-26)
+method_labels <- letters[1:length(method_names)]
+names(method_labels) <- method_names
+dataset_labels <- as.character(1:length(datasets))
+names(dataset_labels) <- datasets
+
+# Create plot
+p <- ggplot(deciles_df, aes(x = percentage, y = kappa_loss, color = factor(noise))) +
+  geom_point() +
+  geom_line(aes(group = factor(noise))) +
+  labs(x = "Instances", y = "Kappa", color = "Noise") +
+  scale_y_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.5)) +
+  # scale_x_continuous(limits = c(0.0, 1), breaks = seq(0, 1, by = 0.25)) +
+  scale_x_discrete(limits = c(50, 100)) + 
+  facet_grid(dataset_order ~ method_order, scales = "free", 
+             labeller = labeller(dataset_order = dataset_labels, method_order = method_labels)) +
+  guides(colour = guide_legend(nrow = 1)) +
+  # scale_colour_viridis_d() +
+  # scale_colour_viridis_d(option = "plasma") +
+  theme_minimal() +  
+  theme(legend.position = "bottom",
+        legend.text=element_text(size=16),
+        axis.text=element_text(size=12),
+        axis.text.x = element_text(angle = 90, vjust = 0, hjust=0.5),
+        axis.title = element_text(size=14,face = "bold"),
+        panel.grid.minor = element_blank(),
+        strip.background = element_rect(
+          color="white", fill="#edf2f4", size=0.0, linetype="solid"),
+        strip.text = element_text(face = "bold"),
+        strip.text.y = element_text(angle = 0))
+  # facet_grid(method_order ~ dataset_order, scales = "free")
+
+# Print plot
+openPDFEPS("KLC_plot_d_v2", heigh = 26, width = 20)
+print(p)
+dev.off()
+```

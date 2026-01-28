@@ -6,4 +6,7 @@
 .DS_Store
 
 # Data files
-*.csv
+#*.csv
+
+# Log files
+*.log
