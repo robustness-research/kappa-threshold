@@ -40,7 +40,7 @@ echo ""
 # Run with max 4 concurrent jobs using GNU Parallel
 # Note: --progress removed to avoid TTY errors when running with nohup
 parallel -j 4 --line-buffer \
-  Rscript "$SCRIPTS_DIR/instances_noiser_train_noise.R" {1} {2} \> "$PROJECT_ROOT/scripts/logs/instances/train_noise/{1}_{2}.log" 2\>\&1 \
+  'Rscript '"$SCRIPTS_DIR"'/instances_noiser_train_noise.R {1} {2} > '"$PROJECT_ROOT"'/scripts/logs/instances/train_noise/{1}_{2}.log 2>&1' \
   ::: "${arguments[@]}" ::: "${arguments2[@]}"
 
 echo ""

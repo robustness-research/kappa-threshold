@@ -14,8 +14,8 @@ script.dir <- dirname(thisFile())
 project.root <- normalizePath(file.path(script.dir, ".."))
 setwd(project.root)
 cat("Current working directory:", getwd(), "\n")
-cat("parameters.csv exists:", file.exists("data/files/parameters.csv"), "\n")
-cat("parameters.csv absolute path:", normalizePath("data/files/parameters.csv", mustWork=FALSE), "\n")
+cat("parameters.csv exists:", file.exists("data/parameters.csv"), "\n")
+cat("parameters.csv absolute path:", normalizePath("data/parameters.csv", mustWork=FALSE), "\n")
 
 # Packages that need to be loaded
 pacman::p_load(caret, iml, citation, dplyr, earth, lime, data.table)
@@ -47,95 +47,102 @@ load_parameters <- function(params_file) {
  
 # Model training function with noise injection in training data
 train_model_noise <- function(method, train_df, train_df_indices, dataset, noise_level, threshold_results, mia_df, control) {
-  # Look up the critical_percentage for this dataset/method/noise_level
-  # Convert noise_level from decimal (0.1, 0.2, 0.3) to percentage (10, 20, 30) for lookup
-  noise_level_pct <- noise_level * 100
-  threshold_row <- subset(threshold_results, 
-                          dataset_name == dataset & 
-                          technique == method & 
-                          noise_level == noise_level_pct)
-  
-  if(nrow(threshold_row) == 0) {
-    stop(paste("No threshold found for dataset:", dataset, "method:", method, "noise_level:", noise_level_pct))
-  }
-  
-  critical_percentage <- threshold_row$critical_percentage[1] / 100  # Convert to decimal
-  cat("Critical percentage for training noise:", critical_percentage * 100, "%\n")
-  
-  # If critical_percentage is 0, train on clean data
-  if(critical_percentage == 0) {
-    cat("Training on clean data (critical_percentage = 0)\n")
-    noisy_train_df <- train_df
-  } else {
-    # Get MIA for this dataset/method combination
-    mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
-    
-    # Load noise data from CSV file
-    noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise_level, ".csv")
-    cat("Loading training noise data from:", noise_csv_file, "\n")
-    
-    if(!file.exists(noise_csv_file)) {
-      stop(paste("Noise CSV file not found:", noise_csv_file))
+    # Look up the critical_percentage for this dataset/method/noise_level
+    noise_level_pct <- noise_level * 100
+    threshold_row <- subset(threshold_results, 
+                            dataset_name == dataset & 
+                            technique == method & 
+                            noise_level == noise_level_pct)
+
+    if(nrow(threshold_row) == 0) {
+      stop(paste("No threshold found for dataset:", dataset, "method:", method, "noise_level:", noise_level_pct))
     }
+
+    critical_percentage <- threshold_row$critical_percentage[1] / 100  # Convert to decimal
+    cat("Critical percentage for training noise:", critical_percentage * 100, "%\n")
+
+    # If critical_percentage is 0, train on clean data
+    if(critical_percentage == 0) {
+      cat("Training on clean data (critical_percentage = 0)\n")
+      noisy_train_df <- train_df
+    } else {
+      # Get MIA for this dataset/method combination
+      mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
+
+      # Load noise data from CSV file
+      noise_csv_file <- paste0("data/results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise_level, ".csv")
+      cat("Loading training noise data from:", noise_csv_file, "\n")
+
+      if(!file.exists(noise_csv_file)) {
+        stop(paste("Noise CSV file not found:", noise_csv_file))
+      }
+
+      noise_full_df <- read.csv(noise_csv_file, stringsAsFactors = FALSE)
+
+      # Remove metadata columns if present
+      noise_full_df$dataset_name <- NULL
+      noise_full_df$altered_attribute <- NULL
+      noise_full_df$noise_level <- NULL
+
+      # Convert class column to factor
+      noise_full_df$class <- as.factor(noise_full_df$class)
+
+      # Select only the training set rows from the noisy dataset
+      noise_train_df <- noise_full_df[train_df_indices, ]
+
+      # Calculate number of instances to alter
+      n_instances <- round(nrow(train_df) * critical_percentage, 0)
+      cat("Altering", n_instances, "out of", nrow(train_df), "training instances\n")
+
+      # Randomly sample indices to alter
+      indices_to_alter <- sample(1:nrow(train_df), n_instances)
+
+      # Create noisy training data
+      noisy_train_df <- train_df
+      noisy_train_df[indices_to_alter, ] <- noise_train_df[indices_to_alter, ]
+    }
+
+    # Train model with the noisy training data
+    model_params <- list(
+      "C5.0" = list(method = "C5.0"),
+      "ctree" = list(method = "ctree"),
+      "fda" = list(method = "fda"),
+      "gbm" = list(method = "gbm"),
+      "gcvEarth" = list(method = "gcvEarth"),
+      "JRip" = list(method = "JRip"),
+      "lvq" = list(method = "lvq"),
+      "mlpML" = list(method = "mlpML"),
+      "multinom" = list(method = "multinom", trControl = control, 
+                       tuneGrid = expand.grid(decay = c(0)), MaxNWts = 10000),
+      "naive_bayes" = list(method = "naive_bayes"),
+      "PART" = list(method = "PART"),
+      "rbfDDA" = list(method = "rbfDDA", trControl = control),
+      "rda" = list(method = "rda"),
+      "rf" = list(method = "rf"),
+      "rpart" = list(method = "rpart"),
+      "simpls" = list(method = "simpls"),
+      "svmLinear" = list(method = "svmLinear"),
+      "svmRadial" = list(method = "svmRadial"),
+      "rfRules" = list(method = "rfRules"),
+      "knn" = list(method = "knn", tuneGrid = expand.grid(k = 5:5), 
+                  preProcess = c("center", "scale"), trControl = control),
+      "bayesglm" = list(method = "bayesglm", trControl = control)
+    )
+
+    params <- model_params[[method]]
+    if(is.null(params)) {
+      stop(paste("Unsupported method:", method))
+    }
+
+    model <- do.call(caret::train, c(list(class ~ ., data = noisy_train_df), params))
+
+    # Ensure the directory exists BEFORE saving
+    dir.create(paste0("data/results/instances/train_noise/threshold_", noise_level), recursive = TRUE, showWarnings = FALSE)
     
-    noise_full_df <- read.csv(noise_csv_file, stringsAsFactors = FALSE)
+    # Save the model
+    saveRDS(model, file = paste0("data/results/instances/train_noise/threshold_", noise_level, "/", dataset, "_", method, "_noise", noise_level, ".rds"))
     
-    # Remove metadata columns if present
-    noise_full_df$dataset_name <- NULL
-    noise_full_df$altered_attribute <- NULL
-    noise_full_df$noise_level <- NULL
-    
-    # Convert class column to factor
-    noise_full_df$class <- as.factor(noise_full_df$class)
-    
-    # Select only the training set rows from the noisy dataset
-    noise_train_df <- noise_full_df[train_df_indices, ]
-    
-    # Calculate number of instances to alter
-    n_instances <- round(nrow(train_df) * critical_percentage, 0)
-    cat("Altering", n_instances, "out of", nrow(train_df), "training instances\n")
-    
-    # Randomly sample indices to alter
-    indices_to_alter <- sample(1:nrow(train_df), n_instances)
-    
-    # Create noisy training data
-    noisy_train_df <- train_df
-    noisy_train_df[indices_to_alter, ] <- noise_train_df[indices_to_alter, ]
-  }
-  
-  # Train model with the noisy training data
-  model_params <- list(
-    "C5.0" = list(method = "C5.0"),
-    "ctree" = list(method = "ctree"),
-    "fda" = list(method = "fda"),
-    "gbm" = list(method = "gbm"),
-    "gcvEarth" = list(method = "gcvEarth"),
-    "JRip" = list(method = "JRip"),
-    "lvq" = list(method = "lvq"),
-    "mlpML" = list(method = "mlpML"),
-    "multinom" = list(method = "multinom", trControl = control, 
-                     tuneGrid = expand.grid(decay = c(0)), MaxNWts = 10000),
-    "naive_bayes" = list(method = "naive_bayes"),
-    "PART" = list(method = "PART"),
-    "rbfDDA" = list(method = "rbfDDA", trControl = control),
-    "rda" = list(method = "rda"),
-    "rf" = list(method = "rf"),
-    "rpart" = list(method = "rpart"),
-    "simpls" = list(method = "simpls"),
-    "svmLinear" = list(method = "svmLinear"),
-    "svmRadial" = list(method = "svmRadial"),
-    "rfRules" = list(method = "rfRules"),
-    "knn" = list(method = "knn", tuneGrid = expand.grid(k = 5:5), 
-                preProcess = c("center", "scale"), trControl = control),
-    "bayesglm" = list(method = "bayesglm", trControl = control)
-  )
-  
-  params <- model_params[[method]]
-  if(is.null(params)) {
-    stop(paste("Unsupported method:", method))
-  }
-  
-  do.call(caret::train, c(list(class ~ ., data = noisy_train_df), params))
+    return(model)
 }
 
 # Calculate predictions and generate confusion matrix
@@ -176,7 +183,7 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
   cat("Using", length(indices), "indices (first", length(indices), "from shuffled list)\n")
 
   # Load noise data from CSV file created by noise_injector.R
-  noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise, ".csv")
+  noise_csv_file <- paste0("data/results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise, ".csv")
   cat("Loading noise data from:", noise_csv_file, "\n")
   
   if(!file.exists(noise_csv_file)) {
@@ -246,7 +253,7 @@ process_model <- function(dataset, fold_index, train_df, train_df_indices, test_
   mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
 
   # Load indices from original execution to ensure consistent train/test partitions
-  indices_file <- paste0("results/instances/original/vectors/", 
+  indices_file <- paste0("data/results/instances/original/vectors/", 
                          dataset, "_", method, "_all_folds.csv")
   
   if(!file.exists(indices_file)) {
@@ -292,7 +299,7 @@ process_model <- function(dataset, fold_index, train_df, train_df_indices, test_
 }
 
 # Load and extract parameters
-parameters <- load_parameters("data/files/parameters.csv")
+parameters <- load_parameters("data/parameters.csv")
 datasets <- parameters$datasets
 fold_names <- parameters$fold_names
 models <- parameters$models 
@@ -304,10 +311,10 @@ control <- parameters$control
 n_folds <- 5
 
 # Load most important attribute table
-mia_df <- read.csv("results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
+mia_df <- read.csv("data/results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
 
 # Load threshold instance results
-threshold_results <- read.csv("results/threshold_instance_results.csv", stringsAsFactors = FALSE)
+threshold_results <- read.csv("data/results/threshold_instance_results.csv", stringsAsFactors = FALSE)
 
 # Datasets
 dataset <- datasets
@@ -320,7 +327,7 @@ df$class <- as.factor(df$class)
 # Load train/test partitions from original execution
 # We need to reconstruct the fold indices from the original vector files
 # Read one of the vector files to get the original test indices for all folds
-sample_vector_file <- paste0("results/instances/original/vectors/", dataset, "_", models, "_all_folds.csv")
+sample_vector_file <- paste0("data/results/instances/original/vectors/", dataset, "_", models, "_all_folds.csv")
 if(!file.exists(sample_vector_file)) {
   stop(paste("Cannot find original vector file:", sample_vector_file, "\nPlease run the original instances script first."))
 }
@@ -352,7 +359,7 @@ for(model in models) {
   }))
   
   # Save results per dataset-model combination
-  out_filename <- paste0("results/instances/train_noise/by_dataset/", dataset, "_", model, "_results.csv")
+  out_filename <- paste0("data/results/instances/train_noise/by_dataset/", dataset, "_", model, "_results.csv")
   write.csv(model_results, file = out_filename, row.names = FALSE)
   cat("Saved results to:", out_filename, "\n")
   cat("----------------\n")
