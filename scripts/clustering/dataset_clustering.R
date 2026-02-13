@@ -69,8 +69,8 @@ characteristics_df <- data.frame(
 # Iterate through datasets
 for (dataset_name in datasets) {
   # Load dataset
-  filename = paste0("datasets/", dataset_name, ".rds")
-  dataset <- readRDS(filename)
+  filename = paste0("data/datasets/", dataset_name, ".csv")
+  dataset <- read.csv(filename)
   # Calculate summary metrics
   num_instances <- get_num_instances(dataset)
   attribute_types <- get_attribute_type(dataset)
