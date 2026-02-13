@@ -41,18 +41,20 @@ load_parameters <- function(params_file) {
     #models = unlist(strsplit(subset(params, parameter == "technique_name")$values, "\\|")),
     noise_levels = as.numeric(unlist(strsplit(subset(params, parameter == "noise_levels")$values, "\\|"))),
     instances = as.numeric(unlist(strsplit(subset(params, parameter == "instance_level")$values, "\\|"))),
+    threshold_levels = as.numeric(unlist(strsplit(subset(params, parameter == "threshold_level")$values, "\\|"))),
     control = control
   )
 }
  
 # Model training function with noise injection in training data
-train_model_noise <- function(method, train_df, train_df_indices, dataset, noise_level, threshold_results, mia_df, control) {
+train_model_noise <- function(method, train_df, train_df_indices, dataset, noise_level, threshold_results, mia_df, control, threshold) {
     # Look up the critical_percentage for this dataset/method/noise_level
     noise_level_pct <- noise_level * 100
     threshold_row <- subset(threshold_results, 
                             dataset_name == dataset & 
                             technique == method & 
-                            noise_level == noise_level_pct)
+                            noise_level == noise_level_pct &
+                            threshold == threshold)
 
     if(nrow(threshold_row) == 0) {
       stop(paste("No threshold found for dataset:", dataset, "method:", method, "noise_level:", noise_level_pct))
@@ -135,12 +137,6 @@ train_model_noise <- function(method, train_df, train_df_indices, dataset, noise
     }
 
     model <- do.call(caret::train, c(list(class ~ ., data = noisy_train_df), params))
-
-    # Ensure the directory exists BEFORE saving
-    dir.create(paste0("data/results/instances/train_noise/threshold_", noise_level), recursive = TRUE, showWarnings = FALSE)
-    
-    # Save the model
-    saveRDS(model, file = paste0("data/results/instances/train_noise/threshold_", noise_level, "/", dataset, "_", method, "_noise", noise_level, ".rds"))
     
     return(model)
 }
@@ -248,7 +244,7 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
 }
 
 # Models
-process_model <- function(dataset, fold_index, train_df, train_df_indices, test_df, test_df_indices, method, mia_df, noise_levels, instances, threshold_results, control) {
+process_model <- function(dataset, fold_index, train_df, train_df_indices, test_df, test_df_indices, method, mia_df, noise_levels, instances, threshold_results, control, threshold) {
   # Get MIA
   mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
 
@@ -280,7 +276,7 @@ process_model <- function(dataset, fold_index, train_df, train_df_indices, test_
     
     # Train model with noise in training data based on critical_percentage
     fit <- train_model_noise(method, train_df, train_df_indices, dataset, noise, 
-                             threshold_results, mia_df, control)
+                             threshold_results, mia_df, control, threshold)
     
     # Test with varying percentages of noisy test instances
     for (percent in instances) {
@@ -305,6 +301,7 @@ fold_names <- parameters$fold_names
 models <- parameters$models 
 noise_levels <- c(0.1, 0.2, 0.3)  # Only use these specific noise levels for training noise
 instances <- parameters$instances
+threshold_levels <- parameters$threshold_levels
 control <- parameters$control
 
 # Set number of folds
@@ -344,25 +341,34 @@ fold_train_indices <- lapply(fold_test_indices, function(test_idx) {
   setdiff(1:nrow(df), test_idx)
 })
 
-# Process each model separately and save results per dataset-model combination
-for(model in models) {
-  cat("Processing model:", model, "for dataset:", dataset, "\n")
+# Process each threshold separately
+for(threshold in threshold_levels) {
+  cat("\n====== Processing threshold:", threshold * 100, "% ======\n")
   
-  # Call functions (iterate folds) for this specific model
-  model_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
-    process_model(dataset, fold_i, 
-                  df[fold_train_indices[[fold_i]], ],
-                  fold_train_indices[[fold_i]],
-                  df[fold_test_indices[[fold_i]], ], 
-                  fold_test_indices[[fold_i]], 
-                  model, mia_df, noise_levels, instances, threshold_results, control)
-  }))
-  
-  # Save results per dataset-model combination
-  out_filename <- paste0("data/results/instances/train_noise/by_dataset/", dataset, "_", model, "_results.csv")
-  write.csv(model_results, file = out_filename, row.names = FALSE)
-  cat("Saved results to:", out_filename, "\n")
-  cat("----------------\n")
+  # Process each model separately and save results per dataset-model combination
+  for(model in models) {
+    cat("Processing model:", model, "for dataset:", dataset, "\n")
+    
+    # Call functions (iterate folds) for this specific model
+    model_results <- do.call(rbind, lapply(1:n_folds, function(fold_i) {
+      process_model(dataset, fold_i, 
+                    df[fold_train_indices[[fold_i]], ],
+                    fold_train_indices[[fold_i]],
+                    df[fold_test_indices[[fold_i]], ], 
+                    fold_test_indices[[fold_i]], 
+                    model, mia_df, noise_levels, instances, threshold_results, control, threshold)
+    }))
+    
+    # Create threshold-specific directory
+    threshold_dir <- paste0("data/results/instances/train_noise/by_dataset/threshold_", threshold)
+    dir.create(threshold_dir, recursive = TRUE, showWarnings = FALSE)
+
+    # Save results per dataset-model combination
+    out_filename <- paste0(threshold_dir, "/", dataset, "_", model, "_", threshold, "_results.csv")
+    write.csv(model_results, file = out_filename, row.names = FALSE)
+    cat("Saved results to:", out_filename, "\n")
+    cat("----------------\n")
+  }
 }
 
 cat("****************************\n")

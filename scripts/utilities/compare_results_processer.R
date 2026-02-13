@@ -9,15 +9,15 @@ params <- read_csv("data/parameters.csv", show_col_types = FALSE)
 datasets <- strsplit(params$values[params$parameter == "dataset_name"], "\\|")[[1]]
 models <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[1]]
 target_noise_levels <- c(0.1, 0.2, 0.3) # Noise list to filter
-#instances <- strsplit(params$values[params$parameter == "instance_level"], "\\|")[[1]]
+threshold_levels <- as.numeric(strsplit(params$values[params$parameter == "threshold_level"], "\\|")[[1]])
 
 # Create output directory
 output_dir <- "data/results/plots"
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Function to read and process results for a dataset
-process_dataset_results <- function(dataset) {
-  cat(sprintf("Processing dataset: %s\n", dataset))
+process_dataset_results <- function(dataset, threshold) {
+  cat(sprintf("Processing dataset: %s (threshold: %s)\n", dataset, threshold))
   
   all_results <- list()
   
@@ -27,7 +27,8 @@ process_dataset_results <- function(dataset) {
     if(dataset_type == "original") {
       results_dir <- file.path("data", "results", "instances", dataset_type, "by_dataset")
     } else {
-      results_dir <- file.path("data", "results", "instances", dataset_type, "by_dataset", "threshold_15")
+      threshold_dir <- paste0("threshold_", gsub("\\.", ".", threshold))
+      results_dir <- file.path("data", "results", "instances", dataset_type, "by_dataset", threshold_dir)
     }
     
     
@@ -70,23 +71,30 @@ process_dataset_results <- function(dataset) {
   return(filtered_data)
 }
 
-# Process all datasets
-all_data <- map_dfr(datasets, process_dataset_results)
-
-if (is.null(all_data) || nrow(all_data) == 0) {
-  cat("No data found. Exiting.\n")
-  quit(status = 1)
-}
-
-# Load threshold instance results for threshold = 0.15
-threshold_results <- read_csv("data/results/threshold_instance_results.csv", show_col_types = FALSE) %>%
-  filter(threshold == 0.15) %>%
+# Load all threshold instance results
+all_threshold_results <- read_csv("data/results/threshold_instance_results.csv", show_col_types = FALSE) %>%
   rename(dataset = dataset_name, method = technique, noise_levels = noise_level)
 
-# Create plots for each dataset
-cat("\nGenerating plots...\n")
-
-for (ds in unique(all_data$dataset)) {
+# Loop through each threshold
+for (threshold in threshold_levels) {
+  cat(sprintf("\n=== Processing threshold: %s ===\n", threshold))
+  
+  # Process all datasets for this threshold
+  all_data <- map_dfr(datasets, process_dataset_results, threshold = threshold)
+  
+  if (is.null(all_data) || nrow(all_data) == 0) {
+    cat(sprintf("No data found for threshold %s. Skipping.\n", threshold))
+    next
+  }
+  
+  # Filter threshold results for current threshold
+  threshold_results <- all_threshold_results %>%
+    filter(threshold == !!threshold)
+  
+  # Create plots for each dataset
+  cat(sprintf("Generating plots for threshold %s...\n", threshold))
+  
+  for (ds in unique(all_data$dataset)) {
   dataset_data <- all_data %>% filter(dataset == ds)
   
   # Check if both dataset types are present
@@ -190,7 +198,7 @@ for (ds in unique(all_data$dataset)) {
     n_rows <- ceiling(n_plots / n_cols)
     
     output_file_kappa <- file.path(output_dir, 
-                                    sprintf("%s_all_kappa_loss.png", ds))
+                                    sprintf("%s_threshold_%s_all_kappa_loss.png", ds, gsub("\\.", "_", threshold)))
     
     # Arrange all kappa plots in a grid
     all_kappa_grid <- grid.arrange(grobs = kappa_plots, ncol = n_cols)
@@ -207,7 +215,7 @@ for (ds in unique(all_data$dataset)) {
     n_rows <- ceiling(n_plots / n_cols)
     
     output_file_bars <- file.path(output_dir, 
-                                   sprintf("%s_all_accuracy_comparison.png", ds))
+                                   sprintf("%s_threshold_%s_all_accuracy_comparison.png", ds, gsub("\\.", "_", threshold)))
     
     # Arrange all bar plots in a grid
     all_bars_grid <- grid.arrange(grobs = bar_plots, ncol = n_cols)
@@ -216,6 +224,7 @@ for (ds in unique(all_data$dataset)) {
     
     cat(sprintf("    Saved accuracy comparison grid: %s\n", output_file_bars))
   }
+  }
 }
 
-cat("\nCompleted!\n") 
+cat("\nCompleted all thresholds!\n") 
