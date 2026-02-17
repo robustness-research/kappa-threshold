@@ -51,6 +51,8 @@ process_cluster_results <- function(cluster_id, cluster_datasets, threshold) {
         data <- read_csv(result_file, show_col_types = FALSE)
         data$dataset <- dataset
         cluster_data_list[[dataset]] <- data
+      } else {
+        cat(sprintf("  Warning: Skipping dataset %s - file not found in %s\n", dataset, results_dir))
       }
     }
     
@@ -80,7 +82,12 @@ process_cluster_results <- function(cluster_id, cluster_datasets, threshold) {
 }
 
 # Load all threshold instance results
-all_threshold_results <- read_csv("data/results/threshold_instance_results.csv", show_col_types = FALSE) %>%
+threshold_file <- "data/results/threshold_instance_results.csv"
+if (!file.exists(threshold_file)) {
+  stop(sprintf("Required file not found: %s\nPlease run threshold_instance_finder.R first.", threshold_file))
+}
+
+all_threshold_results <- read_csv(threshold_file, show_col_types = FALSE) %>%
   rename(dataset = dataset_name, method = technique, noise_levels = noise_level)
 
 # Get unique clusters and their datasets

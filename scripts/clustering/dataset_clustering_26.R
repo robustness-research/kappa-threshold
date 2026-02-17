@@ -97,13 +97,6 @@ print(characteristics_df)
 # Save as CSV
 write.csv(characteristics_df, "data/results/clustering/characteristics.csv", row.names = FALSE)
 
-# Define test datasets
-test_data <- c("analcatdata_authorship", "breast-w", "cardiotocography", "liver-disorders")
-
-# Save test_data as CSV (as a single-column file)
-test_data_df <- data.frame(dataset_name = test_data)
-write.csv(test_data_df, "data/results/clustering/test_data.csv", row.names = FALSE)
-
 # Scale the data
 clusters_scaled <- scale(characteristics_df[,-1])
 
@@ -133,31 +126,14 @@ dmatrix <- dist(clusters_scaled[,-1])
 dmatrix_csv <- as.matrix(dmatrix)
 write.csv(dmatrix_csv, "data/results/clustering/dmatrix.csv")
 
-# Create new dataframe without the test set
-train_set <- clusters_scaled[!clusters_scaled$dataset_name %in% test_data, ]
-
-# Create new dataframe with only the test set
-test_set <- clusters_scaled[clusters_scaled$dataset_name %in% test_data, ]
-
-# Save as CSV
-write.csv(train_set, "data/results/clustering/train_set.csv", row.names = FALSE)
-write.csv(test_set, "data/results/clustering/test_set.csv", row.names = FALSE)
-
-# Create distance matrix for training set
-train_dmatrix <- dist(train_set[,-1])
-
-# Save training distance matrix as CSV
-train_dmatrix_csv <- as.matrix(train_dmatrix)
-write.csv(train_dmatrix_csv, "data/results/clustering/train_dmatrix.csv")
-
 # Create a new table with dataset names and rownames
 groups_df <- data.frame(
-  ID = as.numeric(rownames(train_set)),
-  dataset_name = train_set$dataset_name
+  ID = as.numeric(rownames(clusters_scaled)),
+  dataset_name = clusters_scaled$dataset_name
 )
 
 # K = 4 Hierarchical Clustering
-hclusters <- hclust(train_dmatrix, method = "ward.D")
+hclusters <- hclust(dmatrix, method = "ward.D")
 groups_k4 <- cutree(hclusters, k = 4)
 groups_df$hclust_4 <- groups_k4
 
@@ -171,21 +147,21 @@ groups_df$hclust_6 <- groups_k6
 
 # K = 4 K-Means
 set.seed(1)
-kmeans_4 <- kmeans(train_set[,-1], centers = 4, nstart = 25)
+kmeans_4 <- kmeans(clusters_scaled[,-1], centers = 4, nstart = 25)
 groups_df$kmeans_4 <- kmeans_4$cluster
 centroids_4 <- as.data.frame(kmeans_4$centers)
 centroids_4$K <- 4
 
 # K = 5 K-Means
 set.seed(1)
-kmeans_5 <- kmeans(train_set[,-1], centers = 5, nstart = 25)
+kmeans_5 <- kmeans(clusters_scaled[,-1], centers = 5, nstart = 25)
 groups_df$kmeans_5 <- kmeans_5$cluster
 centroids_5 <- as.data.frame(kmeans_5$centers)
 centroids_5$K <- 5
 
 # K = 6 K-Means
 set.seed(1)
-kmeans_6 <- kmeans(train_set[,-1], centers = 6, nstart = 25)
+kmeans_6 <- kmeans(clusters_scaled[,-1], centers = 6, nstart = 25)
 groups_df$kmeans_6 <- kmeans_6$cluster
 centroids_6 <- as.data.frame(kmeans_6$centers)
 centroids_6$K <- 6
@@ -197,7 +173,7 @@ centroids <- rbind(centroids_4, centroids_5, centroids_6)
 write.csv(centroids, "data/results/clustering/centroids.csv", row.names = FALSE)
 
 # Save KCCA information (K=4, as used in the original)
-kcca_4 <- as.kcca(kmeans_4, train_set[,-1])
+kcca_4 <- as.kcca(kmeans_4, clusters_scaled[,-1])
 kcca_info <- data.frame(
   K = 4,
   num_centers = nrow(kmeans_4$centers),
@@ -210,12 +186,12 @@ kcca_info <- data.frame(
 )
 write.csv(kcca_info, "data/results/clustering/kcca_info.csv", row.names = FALSE)
 
-# Compute MDS for training set
-fit_mds <- isoMDS(train_dmatrix, k = 2)
+# Compute MDS for datasets
+fit_mds <- isoMDS(dmatrix, k = 2)
 
 # Create a table with the results
 coord_df <- data.frame(
-  dataset_name = train_set$dataset_name,
+  dataset_name = clusters_scaled$dataset_name,
   coordinate_1 = fit_mds$points[, 1],
   coordinate_2 = fit_mds$points[, 2]
 )
@@ -232,12 +208,8 @@ write.csv(groups_df, "data/results/clustering/groups.csv", row.names = FALSE)
 cat("\n=== CLUSTERING ANALYSIS COMPLETE ===\n")
 cat("data saved:\n")
 cat("  - data/results/clustering/characteristics.csv\n")
-cat("  - data/results/clustering/test_data.csv\n")
 cat("  - data/results/clustering/cl_scaled.csv\n")
 cat("  - data/results/clustering/dmatrix.csv\n")
-cat("  - data/results/clustering/train_set.csv\n")
-cat("  - data/results/clustering/test_set.csv\n")
-cat("  - data/results/clustering/train_dmatrix.csv\n")
 cat("  - data/results/clustering/centroids.csv\n")
 cat("  - data/results/clustering/kcca_info.csv\n")
 cat("  - data/results/clustering/groups.csv\n")

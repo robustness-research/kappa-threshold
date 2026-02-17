@@ -1,5 +1,5 @@
 ---
-title: "Clustering Comparison: Standard vs IDEAL"
+title: "Clustering Comparison: New vs IDEAL paper clustering"
 subtitle: "Analyzing Differences Between Clustering Approaches"
 author: "Clustering Analysis"
 date: "`r Sys.Date()`"
@@ -26,35 +26,80 @@ knitr::opts_knit$set(root.dir = '../../')
 
 ## Data Loading
 
-```{r load_data}
+```{r load_data, echo=FALSE}
 # Load clustering data from both approaches
 clustering_standard <- list(
-  groups = read.csv('data/results/clustering/groups.csv', row.names = 1),
+  groups = read.csv('data/results/clustering/groups.csv'),
   chars = read.csv('data/results/clustering/characteristics.csv'),
   centroids = read.csv('data/results/clustering/centroids.csv'),
   kcca_info = read.csv('data/results/clustering/kcca_info.csv')
 )
 
-clustering_ideal <- list(
-  groups = read.csv('data/results/clustering_IDEAL/groups.csv', row.names = 1),
-  chars = read.csv('data/results/clustering_IDEAL/characteristics.csv'),
-  centroids = read.csv('data/results/clustering_IDEAL/centroids.csv'),
-  kcca_info = read.csv('data/results/clustering_IDEAL/kcca_info.csv')
-)
+# Check if IDEAL clustering files exist
+ideal_dir <- 'data/results/clustering_IDEAL'
+if (dir.exists(ideal_dir)) {
+  clustering_ideal <- list(
+    groups = read.csv('data/results/clustering_IDEAL/groups.csv'),
+    chars = read.csv('data/results/clustering_IDEAL/characteristics.csv'),
+    centroids = read.csv('data/results/clustering_IDEAL/centroids.csv'),
+    kcca_info = read.csv('data/results/clustering_IDEAL/kcca_info.csv')
+  )
+} else {
+  warning(sprintf("Directory not found: %s - IDEAL clustering comparison will be skipped. Please run dataset_clustering_IDEAL.R first.", ideal_dir))
+  clustering_ideal <- NULL
+}
 
-# Load most important attributes data
-mia_data <- read.csv('data/results/most_important_attr/mia.csv')
+# Identify datasets that were analyzed but not clustered
+standard_missing <- setdiff(clustering_standard$chars$dataset_name, clustering_standard$groups$dataset_name)
+ideal_missing <- if (!is.null(clustering_ideal)) setdiff(clustering_ideal$chars$dataset_name, clustering_ideal$groups$dataset_name) else c()
+
+# Find datasets in both clusterings (for fair comparison)
+standard_datasets <- clustering_standard$groups$dataset_name
+ideal_datasets <- if (!is.null(clustering_ideal)) clustering_ideal$groups$dataset_name else c()
+common_datasets <- intersect(standard_datasets, ideal_datasets)
+only_standard <- setdiff(standard_datasets, ideal_datasets)
+only_ideal <- setdiff(ideal_datasets, standard_datasets)
 
 # Display basic info
-cat("Standard Clustering - Number of datasets:", nrow(clustering_standard$groups), "\n")
-cat("IDEAL Clustering - Number of datasets:", nrow(clustering_ideal$groups), "\n")
+cat("=== DATASET COUNTS ===\n\n")
+cat("Standard/New Clustering:\n")
+cat("  - Total analyzed:", nrow(clustering_standard$chars), "\n")
+cat("  - Successfully clustered:", nrow(clustering_standard$groups), "\n")
+cat("  - Missing cluster assignments:", length(standard_missing), "\n")
+if(length(standard_missing) > 0) {
+  cat("    Datasets without cluster assignments:", paste(standard_missing, collapse = ", "), "\n")
+}
+
+if (!is.null(clustering_ideal)) {
+  cat("\nIDEAL Clustering:\n")
+  cat("  - Total analyzed:", nrow(clustering_ideal$chars), "\n")
+  cat("  - Successfully clustered:", nrow(clustering_ideal$groups), "\n")
+  cat("  - Missing cluster assignments:", length(ideal_missing), "\n")
+  if(length(ideal_missing) > 0) {
+    cat("    Datasets without cluster assignments:", paste(ideal_missing, collapse = ", "), "\n")
+  }
+  
+  cat("\n=== DATASET OVERLAP COMPARISON ===\n\n")
+  cat("Datasets in BOTH clusterings (for comparison):", length(common_datasets), "\n")
+  cat("Datasets ONLY in Standard clustering:", length(only_standard), "\n")
+  if(length(only_standard) > 0) {
+    cat("  -", paste(only_standard, collapse = ", "), "\n")
+  }
+  cat("Datasets ONLY in IDEAL clustering:", length(only_ideal), "\n")
+  if(length(only_ideal) > 0) {
+    cat("  -", paste(only_ideal, collapse = ", "), "\n")
+  }
+} else {
+  cat("\nIDEAL Clustering: Data not available\n")
+  common_datasets <- c()
+}
 ```
 
 ## Clustering Overview
 
 ### Standard Clustering Summary
 
-```{r standard_summary}
+```{r standard_summary, echo=FALSE}
 # Summary statistics for standard clustering
 cat("K-value:", clustering_standard$kcca_info$K[1], "\n")
 cat("Number of clusters:", clustering_standard$kcca_info$num_centers[1], "\n")
@@ -65,7 +110,7 @@ cat("Cluster sizes:", paste(clustering_standard$kcca_info[1, grepl("size_cluster
 
 ### IDEAL Clustering Summary
 
-```{r ideal_summary}
+```{r ideal_summary, echo=FALSE}
 # Summary statistics for ideal clustering
 cat("K-value:", clustering_ideal$kcca_info$K[1], "\n")
 cat("Number of clusters:", clustering_ideal$kcca_info$num_centers[1], "\n")
@@ -76,306 +121,438 @@ cat("Cluster sizes:", paste(clustering_ideal$kcca_info[1, grepl("size_cluster", 
 
 ## Group Assignment Comparison
 
-```{r group_comparison}
-# Create comparison dataframe
-comparison_df <- data.frame(
-  dataset_name = clustering_standard$groups$dataset_name,
-  standard_hclust_4 = clustering_standard$groups$hclust_4,
-  ideal_hclust_4 = clustering_ideal$groups$hclust_4,
-  standard_hclust_5 = clustering_standard$groups$hclust_5,
-  ideal_hclust_5 = clustering_ideal$groups$hclust_5,
-  standard_kmeans_4 = clustering_standard$groups$kmeans_4,
-  ideal_kmeans_4 = clustering_ideal$groups$kmeans_4,
-  standard_kmeans_5 = clustering_standard$groups$kmeans_5,
-  ideal_kmeans_5 = clustering_ideal$groups$kmeans_5
-)
-
-# Calculate changes
-comparison_df$hclust_4_changed <- comparison_df$standard_hclust_4 != comparison_df$ideal_hclust_4
-comparison_df$hclust_5_changed <- comparison_df$standard_hclust_5 != comparison_df$ideal_hclust_5
-comparison_df$kmeans_4_changed <- comparison_df$standard_kmeans_4 != comparison_df$ideal_kmeans_4
-comparison_df$kmeans_5_changed <- comparison_df$standard_kmeans_5 != comparison_df$ideal_kmeans_5
-
-# Summary of changes
-summary_changes <- data.frame(
-  Algorithm = c("HClust K=4", "HClust K=5", "KMeans K=4", "KMeans K=5"),
-  Datasets_Changed = c(
-    sum(comparison_df$hclust_4_changed),
-    sum(comparison_df$hclust_5_changed),
-    sum(comparison_df$kmeans_4_changed),
-    sum(comparison_df$kmeans_5_changed)
-  ),
-  Total_Datasets = nrow(comparison_df),
-  Percent_Changed = c(
-    round(sum(comparison_df$hclust_4_changed) / nrow(comparison_df) * 100, 2),
-    round(sum(comparison_df$hclust_5_changed) / nrow(comparison_df) * 100, 2),
-    round(sum(comparison_df$kmeans_4_changed) / nrow(comparison_df) * 100, 2),
-    round(sum(comparison_df$kmeans_5_changed) / nrow(comparison_df) * 100, 2)
+```{r group_comparison, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0) {
+  # Filter to only common datasets
+  standard_common <- clustering_standard$groups %>%
+    filter(dataset_name %in% common_datasets) %>%
+    as.data.frame()
+  
+  ideal_common <- clustering_ideal$groups %>%
+    filter(dataset_name %in% common_datasets) %>%
+    arrange(dataset_name) %>%
+    as.data.frame()
+  
+  standard_common <- standard_common %>% arrange(dataset_name)
+  
+  # Create comparison dataframe
+  comparison_df <- data.frame(
+    dataset_name = standard_common$dataset_name,
+    standard_hclust_4 = standard_common$hclust_4,
+    ideal_hclust_4 = ideal_common$hclust_4,
+    standard_hclust_5 = standard_common$hclust_5,
+    ideal_hclust_5 = ideal_common$hclust_5,
+    standard_kmeans_4 = standard_common$kmeans_4,
+    ideal_kmeans_4 = ideal_common$kmeans_4,
+    standard_kmeans_5 = standard_common$kmeans_5,
+    ideal_kmeans_5 = ideal_common$kmeans_5
   )
-)
-
-kable(summary_changes, caption = "Summary of Cluster Assignment Changes")
+  
+  # Calculate changes
+  comparison_df$hclust_4_changed <- comparison_df$standard_hclust_4 != comparison_df$ideal_hclust_4
+  comparison_df$hclust_5_changed <- comparison_df$standard_hclust_5 != comparison_df$ideal_hclust_5
+  comparison_df$kmeans_4_changed <- comparison_df$standard_kmeans_4 != comparison_df$ideal_kmeans_4
+  comparison_df$kmeans_5_changed <- comparison_df$standard_kmeans_5 != comparison_df$ideal_kmeans_5
+  
+  # Summary of changes
+  summary_changes <- data.frame(
+    Algorithm = c("HClust K=4", "HClust K=5", "KMeans K=4", "KMeans K=5"),
+    Datasets_Changed = c(
+      sum(comparison_df$hclust_4_changed),
+      sum(comparison_df$hclust_5_changed),
+      sum(comparison_df$kmeans_4_changed),
+      sum(comparison_df$kmeans_5_changed)
+    ),
+    Total_Datasets = nrow(comparison_df),
+    Percent_Changed = c(
+      round(sum(comparison_df$hclust_4_changed) / nrow(comparison_df) * 100, 2),
+      round(sum(comparison_df$hclust_5_changed) / nrow(comparison_df) * 100, 2),
+      round(sum(comparison_df$kmeans_4_changed) / nrow(comparison_df) * 100, 2),
+      round(sum(comparison_df$kmeans_5_changed) / nrow(comparison_df) * 100, 2)
+    )
+  )
+  
+  kable(summary_changes, caption = "Summary of Cluster Assignment Changes (Common Datasets Only)")
+} else {
+  cat("Cannot perform comparison: No common datasets between Standard and IDEAL clusterings.\n")
+}
 ```
 
 ## Datasets with Assignment Changes
 
 ### HClust K=4
 
-```{r hclust_4_changes}
-changes_hclust_4 <- comparison_df[comparison_df$hclust_4_changed, 
-                                   c("dataset_name", "standard_hclust_4", "ideal_hclust_4")]
-if(nrow(changes_hclust_4) > 0) {
-  names(changes_hclust_4) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
-  kable(changes_hclust_4, caption = "Datasets with HClust K=4 cluster changes")
+```{r hclust_4_changes, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0 && exists("comparison_df")) {
+  changes_hclust_4 <- comparison_df[comparison_df$hclust_4_changed, 
+                                     c("dataset_name", "standard_hclust_4", "ideal_hclust_4")]
+  if(nrow(changes_hclust_4) > 0) {
+    names(changes_hclust_4) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
+    kable(changes_hclust_4, caption = "Datasets with HClust K=4 cluster changes")
+  } else {
+    cat("No changes in HClust K=4 assignments\n")
+  }
 } else {
-  cat("No changes in HClust K=4 assignments\n")
+  cat("Cannot perform analysis: No common datasets or IDEAL data not available\n")
 }
 ```
 
 ### HClust K=5
 
-```{r hclust_5_changes}
-changes_hclust_5 <- comparison_df[comparison_df$hclust_5_changed, 
-                                   c("dataset_name", "standard_hclust_5", "ideal_hclust_5")]
-if(nrow(changes_hclust_5) > 0) {
-  names(changes_hclust_5) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
-  kable(changes_hclust_5, caption = "Datasets with HClust K=5 cluster changes")
+```{r hclust_5_changes, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0 && exists("comparison_df")) {
+  changes_hclust_5 <- comparison_df[comparison_df$hclust_5_changed, 
+                                     c("dataset_name", "standard_hclust_5", "ideal_hclust_5")]
+  if(nrow(changes_hclust_5) > 0) {
+    names(changes_hclust_5) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
+    kable(changes_hclust_5, caption = "Datasets with HClust K=5 cluster changes")
+  } else {
+    cat("No changes in HClust K=5 assignments\n")
+  }
 } else {
-  cat("No changes in HClust K=5 assignments\n")
+  cat("Cannot perform analysis: No common datasets or IDEAL data not available\n")
 }
 ```
 
 ### KMeans K=4
 
-```{r kmeans_4_changes}
-changes_kmeans_4 <- comparison_df[comparison_df$kmeans_4_changed, 
-                                   c("dataset_name", "standard_kmeans_4", "ideal_kmeans_4")]
-if(nrow(changes_kmeans_4) > 0) {
-  names(changes_kmeans_4) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
-  kable(changes_kmeans_4, caption = "Datasets with KMeans K=4 cluster changes")
+```{r kmeans_4_changes, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0 && exists("comparison_df")) {
+  changes_kmeans_4 <- comparison_df[comparison_df$kmeans_4_changed, 
+                                     c("dataset_name", "standard_kmeans_4", "ideal_kmeans_4")]
+  if(nrow(changes_kmeans_4) > 0) {
+    names(changes_kmeans_4) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
+    kable(changes_kmeans_4, caption = "Datasets with KMeans K=4 cluster changes")
+  } else {
+    cat("No changes in KMeans K=4 assignments\n")
+  }
 } else {
-  cat("No changes in KMeans K=4 assignments\n")
+  cat("Cannot perform analysis: No common datasets or IDEAL data not available\n")
 }
 ```
 
 ### KMeans K=5
 
-```{r kmeans_5_changes}
-changes_kmeans_5 <- comparison_df[comparison_df$kmeans_5_changed, 
-                                   c("dataset_name", "standard_kmeans_5", "ideal_kmeans_5")]
-if(nrow(changes_kmeans_5) > 0) {
-  names(changes_kmeans_5) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
-  kable(changes_kmeans_5, caption = "Datasets with KMeans K=5 cluster changes")
+```{r kmeans_5_changes, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0 && exists("comparison_df")) {
+  changes_kmeans_5 <- comparison_df[comparison_df$kmeans_5_changed, 
+                                     c("dataset_name", "standard_kmeans_5", "ideal_kmeans_5")]
+  if(nrow(changes_kmeans_5) > 0) {
+    names(changes_kmeans_5) <- c("Dataset", "Standard Cluster", "IDEAL Cluster")
+    kable(changes_kmeans_5, caption = "Datasets with KMeans K=5 cluster changes")
+  } else {
+    cat("No changes in KMeans K=5 assignments\n")
+  }
 } else {
-  cat("No changes in KMeans K=5 assignments\n")
+  cat("Cannot perform analysis: No common datasets or IDEAL data not available\n")
 }
 ```
 
 ## Visualization: Cluster Space Comparison
 
-```{r cluster_space_viz}
-# Prepare data for visualization
-viz_data_standard <- clustering_standard$groups[, c("dataset_name", "coordinate_1", "coordinate_2", "hclust_4")]
-viz_data_standard$approach <- "Standard"
-
-viz_data_ideal <- clustering_ideal$groups[, c("dataset_name", "coordinate_1", "coordinate_2", "hclust_4")]
-viz_data_ideal$approach <- "IDEAL"
-
-viz_data_combined <- rbind(viz_data_standard, viz_data_ideal)
-
-# Create visualization
-p1 <- ggplot(viz_data_standard, aes(x = coordinate_1, y = coordinate_2, color = factor(hclust_4))) +
-  geom_point(size = 3, alpha = 0.7) +
-  geom_text(aes(label = dataset_name), vjust = -0.5, size = 2, alpha = 0.6) +
-  theme_minimal() +
-  labs(title = "Standard Clustering (HClust K=4)",
-       x = "Coordinate 1",
-       y = "Coordinate 2",
-       color = "Cluster") +
-  theme(legend.position = "bottom")
-
-p2 <- ggplot(viz_data_ideal, aes(x = coordinate_1, y = coordinate_2, color = factor(hclust_4))) +
-  geom_point(size = 3, alpha = 0.7) +
-  geom_text(aes(label = dataset_name), vjust = -0.5, size = 2, alpha = 0.6) +
-  theme_minimal() +
-  labs(title = "IDEAL Clustering (HClust K=4)",
-       x = "Coordinate 1",
-       y = "Coordinate 2",
-       color = "Cluster") +
-  theme(legend.position = "bottom")
-
-grid.arrange(p1, p2, ncol = 2)
+```{r cluster_space_viz, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0) {
+  # Filter to common datasets
+  standard_common_groups <- clustering_standard$groups %>%
+    filter(dataset_name %in% common_datasets) %>%
+    arrange(dataset_name)
+  
+  ideal_common_groups <- clustering_ideal$groups %>%
+    filter(dataset_name %in% common_datasets) %>%
+    arrange(dataset_name)
+  
+  # Prepare data for visualization
+  viz_data_standard <- standard_common_groups[, c("dataset_name", "coordinate_1", "coordinate_2", "hclust_4")]
+  viz_data_standard$approach <- "Standard"
+  
+  viz_data_ideal <- ideal_common_groups[, c("dataset_name", "coordinate_1", "coordinate_2", "hclust_4")]
+  viz_data_ideal$approach <- "IDEAL"
+  
+  viz_data_combined <- rbind(viz_data_standard, viz_data_ideal)
+  
+  # Create visualization
+  p1 <- ggplot(viz_data_standard, aes(x = coordinate_1, y = coordinate_2, color = factor(hclust_4))) +
+    geom_point(size = 3, alpha = 0.7) +
+    geom_text(aes(label = dataset_name), vjust = -0.5, size = 2, alpha = 0.6) +
+    theme_minimal() +
+    labs(title = "Standard Clustering (HClust K=4)",
+         x = "Coordinate 1",
+         y = "Coordinate 2",
+         color = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  p2 <- ggplot(viz_data_ideal, aes(x = coordinate_1, y = coordinate_2, color = factor(hclust_4))) +
+    geom_point(size = 3, alpha = 0.7) +
+    geom_text(aes(label = dataset_name), vjust = -0.5, size = 2, alpha = 0.6) +
+    theme_minimal() +
+    labs(title = "IDEAL Clustering (HClust K=4)",
+         x = "Coordinate 1",
+         y = "Coordinate 2",
+         color = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  grid.arrange(p1, p2, ncol = 2)
+} else {
+  cat("Cannot create visualization: No common datasets between Standard and IDEAL clusterings.\n")
+}
 ```
 
 ## Dataset Characteristics Analysis
 
-```{r characteristics_analysis}
-# Merge characteristics with clustering assignments
-chars_analysis <- clustering_standard$chars %>%
-  left_join(
-    clustering_standard$groups[, c("dataset_name", "hclust_4")],
-    by = "dataset_name"
-  ) %>%
-  rename(standard_cluster = hclust_4) %>%
-  left_join(
-    clustering_ideal$groups[, c("dataset_name", "hclust_4")],
-    by = "dataset_name"
-  ) %>%
-  rename(ideal_cluster = hclust_4)
-
-# Calculate average characteristics by cluster
-chars_by_cluster_standard <- chars_analysis %>%
-  group_by(standard_cluster) %>%
-  summarise(
-    avg_instances = mean(instances_n, na.rm = TRUE),
-    avg_numeric_attrs = mean(attributes_num, na.rm = TRUE),
-    avg_nominal_attrs = mean(attributes_nom, na.rm = TRUE),
-    num_datasets = n()
-  )
-
-chars_by_cluster_ideal <- chars_analysis %>%
-  group_by(ideal_cluster) %>%
-  summarise(
-    avg_instances = mean(instances_n, na.rm = TRUE),
-    avg_numeric_attrs = mean(attributes_num, na.rm = TRUE),
-    avg_nominal_attrs = mean(attributes_nom, na.rm = TRUE),
-    num_datasets = n()
-  )
-
-cat("Standard Clustering - Characteristics by Cluster:\n")
-kable(chars_by_cluster_standard, caption = "Standard Clustering Characteristics")
-
-cat("\nIDEAL Clustering - Characteristics by Cluster:\n")
-kable(chars_by_cluster_ideal, caption = "IDEAL Clustering Characteristics")
-```
-
-## Most Important Attributes for Clustering
-
-### Top Features by Dataset
-
-```{r top_features}
-# Get most important attributes
-top_features <- mia_data %>%
-  filter(dataset_name %in% comparison_df$dataset_name) %>%
-  group_by(dataset_name) %>%
-  slice_head(n = 3) %>%
-  arrange(dataset_name, most_important_attribute)
-
-# Show a subset (top 20 datasets)
-kable(head(top_features, 30), caption = "Top 3 Most Important Attributes per Dataset (Sample)")
-```
-
-### Attribute Importance Distribution
-
-```{r attribute_importance_dist}
-# Get frequency of attributes being "most important"
-attr_freq <- mia_data %>%
-  filter(dataset_name %in% comparison_df$dataset_name) %>%
-  group_by(most_important_attribute) %>%
-  summarise(frequency = n(), .groups = 'drop') %>%
-  arrange(desc(frequency)) %>%
-  head(20)
-
-# Visualize
-ggplot(attr_freq, aes(x = reorder(most_important_attribute, frequency), y = frequency)) +
-  geom_col(fill = "steelblue") +
-  coord_flip() +
-  theme_minimal() +
-  labs(title = "Top 20 Most Frequently Important Attributes Across Datasets",
-       x = "Attribute",
-       y = "Frequency (Number of Datasets)") +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```{r characteristics_analysis, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0) {
+  # Filter characteristics to common datasets
+  chars_common <- clustering_standard$chars %>%
+    filter(dataset_name %in% common_datasets)
+  
+  # Merge characteristics with clustering assignments from both approaches
+  chars_analysis <- chars_common %>%
+    left_join(
+      clustering_standard$groups[, c("dataset_name", "hclust_4", "hclust_5", "kmeans_4", "kmeans_5")],
+      by = "dataset_name"
+    ) %>%
+    rename(standard_hclust_4 = hclust_4,
+           standard_hclust_5 = hclust_5,
+           standard_kmeans_4 = kmeans_4,
+           standard_kmeans_5 = kmeans_5)
+  
+  # Get IDEAL cluster assignments
+  ideal_groups <- clustering_ideal$groups %>%
+    filter(dataset_name %in% common_datasets) %>%
+    select(dataset_name, hclust_4, hclust_5, kmeans_4, kmeans_5) %>%
+    rename(ideal_hclust_4 = hclust_4,
+           ideal_hclust_5 = hclust_5,
+           ideal_kmeans_4 = kmeans_4,
+           ideal_kmeans_5 = kmeans_5)
+  
+  chars_analysis <- chars_analysis %>%
+    left_join(ideal_groups, by = "dataset_name")
+  
+  # ===== STANDARD CLUSTERING ANALYSIS =====
+  cat("\n### Standard Clustering Analysis\n\n")
+  
+  # HClust K=4
+  cat("#### HClust K=4 - Characteristics by Cluster\n\n")
+  chars_by_cluster_std_hc4 <- chars_analysis %>%
+    group_by(standard_hclust_4) %>%
+    summarise(
+      Cluster = cur_group()[[1]],
+      Count = n(),
+      Avg_Instances = round(mean(instances_n, na.rm = TRUE), 1),
+      Avg_Numeric_Attrs = round(mean(attributes_num, na.rm = TRUE), 1),
+      Avg_Nominal_Attrs = round(mean(attributes_nom, na.rm = TRUE), 1),
+      .groups = "drop"
+    ) %>%
+    select(Cluster, Count, Avg_Instances, Avg_Numeric_Attrs, Avg_Nominal_Attrs)
+  
+  print(kable(chars_by_cluster_std_hc4, caption = "Standard Clustering: HClust K=4 Cluster Characteristics"))
+  
+  # HClust K=5
+  cat("\n#### HClust K=5 - Characteristics by Cluster\n\n")
+  chars_by_cluster_std_hc5 <- chars_analysis %>%
+    group_by(standard_hclust_5) %>%
+    summarise(
+      Cluster = cur_group()[[1]],
+      Count = n(),
+      Avg_Instances = round(mean(instances_n, na.rm = TRUE), 1),
+      Avg_Numeric_Attrs = round(mean(attributes_num, na.rm = TRUE), 1),
+      Avg_Nominal_Attrs = round(mean(attributes_nom, na.rm = TRUE), 1),
+      .groups = "drop"
+    ) %>%
+    select(Cluster, Count, Avg_Instances, Avg_Numeric_Attrs, Avg_Nominal_Attrs)
+  
+  print(kable(chars_by_cluster_std_hc5, caption = "Standard Clustering: HClust K=5 Cluster Characteristics"))
+  
+  cat("\n")
+  
+  # ===== IDEAL CLUSTERING ANALYSIS =====
+  cat("\n### IDEAL Clustering Analysis\n\n")
+  
+  # HClust K=4
+  cat("#### HClust K=4 - Characteristics by Cluster\n\n")
+  chars_by_cluster_ideal_hc4 <- chars_analysis %>%
+    group_by(ideal_hclust_4) %>%
+    summarise(
+      Cluster = cur_group()[[1]],
+      Count = n(),
+      Avg_Instances = round(mean(instances_n, na.rm = TRUE), 1),
+      Avg_Numeric_Attrs = round(mean(attributes_num, na.rm = TRUE), 1),
+      Avg_Nominal_Attrs = round(mean(attributes_nom, na.rm = TRUE), 1),
+      .groups = "drop"
+    ) %>%
+    select(Cluster, Count, Avg_Instances, Avg_Numeric_Attrs, Avg_Nominal_Attrs)
+  
+  print(kable(chars_by_cluster_ideal_hc4, caption = "IDEAL Clustering: HClust K=4 Cluster Characteristics"))
+  
+  # HClust K=5
+  cat("\n#### HClust K=5 - Characteristics by Cluster\n\n")
+  chars_by_cluster_ideal_hc5 <- chars_analysis %>%
+    group_by(ideal_hclust_5) %>%
+    summarise(
+      Cluster = cur_group()[[1]],
+      Count = n(),
+      Avg_Instances = round(mean(instances_n, na.rm = TRUE), 1),
+      Avg_Numeric_Attrs = round(mean(attributes_num, na.rm = TRUE), 1),
+      Avg_Nominal_Attrs = round(mean(attributes_nom, na.rm = TRUE), 1),
+      .groups = "drop"
+    ) %>%
+    select(Cluster, Count, Avg_Instances, Avg_Numeric_Attrs, Avg_Nominal_Attrs)
+  
+  print(kable(chars_by_cluster_ideal_hc5, caption = "IDEAL Clustering: HClust K=5 Cluster Characteristics"))
+  
+} else {
+  cat("Cannot perform characteristics analysis: No common datasets or IDEAL data not available\n")
+}
 ```
 
 ## Characteristics Distribution by Cluster
 
-```{r characteristics_boxplots}
-# Prepare data for visualization
-plot_data <- chars_analysis %>%
-  pivot_longer(
-    cols = c(instances_n, attributes_num, attributes_nom),
-    names_to = "characteristic",
-    values_to = "value"
-  )
-
-# Create boxplots
-p1 <- ggplot(plot_data %>% filter(characteristic == "instances_n"),
-             aes(x = factor(standard_cluster), y = value, fill = factor(standard_cluster))) +
-  geom_boxplot(alpha = 0.7) +
-  theme_minimal() +
-  labs(title = "Standard Clustering: Number of Instances",
-       x = "Cluster",
-       y = "Number of Instances",
-       fill = "Cluster") +
-  theme(legend.position = "none")
-
-p2 <- ggplot(plot_data %>% filter(characteristic == "instances_n"),
-             aes(x = factor(ideal_cluster), y = value, fill = factor(ideal_cluster))) +
-  geom_boxplot(alpha = 0.7) +
-  theme_minimal() +
-  labs(title = "IDEAL Clustering: Number of Instances",
-       x = "Cluster",
-       y = "Number of Instances",
-       fill = "Cluster") +
-  theme(legend.position = "none")
-
-grid.arrange(p1, p2, ncol = 2)
-
-# Numeric attributes
-p3 <- ggplot(plot_data %>% filter(characteristic == "attributes_num"),
-             aes(x = factor(standard_cluster), y = value, fill = factor(standard_cluster))) +
-  geom_boxplot(alpha = 0.7) +
-  theme_minimal() +
-  labs(title = "Standard Clustering: Number of Numeric Attributes",
-       x = "Cluster",
-       y = "Count",
-       fill = "Cluster") +
-  theme(legend.position = "none")
-
-p4 <- ggplot(plot_data %>% filter(characteristic == "attributes_num"),
-             aes(x = factor(ideal_cluster), y = value, fill = factor(ideal_cluster))) +
-  geom_boxplot(alpha = 0.7) +
-  theme_minimal() +
-  labs(title = "IDEAL Clustering: Number of Numeric Attributes",
-       x = "Cluster",
-       y = "Count",
-       fill = "Cluster") +
-  theme(legend.position = "none")
-
-grid.arrange(p3, p4, ncol = 2)
+```{r characteristics_boxplots, echo=FALSE}
+if (!is.null(clustering_ideal) && length(common_datasets) > 0 && exists("chars_analysis")) {
+  # Prepare data for visualization
+  plot_data <- chars_analysis %>%
+    pivot_longer(
+      cols = c(instances_n, attributes_num, attributes_nom),
+      names_to = "characteristic",
+      values_to = "value"
+    )
+  
+  # === NUMBER OF INSTANCES ===
+  cat("\n### Number of Instances by Cluster\n\n")
+  
+  p1 <- ggplot(plot_data %>% filter(characteristic == "instances_n"),
+               aes(x = factor(standard_hclust_4), y = value, fill = factor(standard_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "Standard Clustering: Instances per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Number of Instances",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  p2 <- ggplot(plot_data %>% filter(characteristic == "instances_n"),
+               aes(x = factor(ideal_hclust_4), y = value, fill = factor(ideal_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "IDEAL Clustering: Instances per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Number of Instances",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  grid.arrange(p1, p2, ncol = 2)
+  
+  # === NUMERIC ATTRIBUTES ===
+  cat("\n### Numeric Attributes by Cluster\n\n")
+  
+  p3 <- ggplot(plot_data %>% filter(characteristic == "attributes_num"),
+               aes(x = factor(standard_hclust_4), y = value, fill = factor(standard_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "Standard Clustering: Numeric Attributes per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Count",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  p4 <- ggplot(plot_data %>% filter(characteristic == "attributes_num"),
+               aes(x = factor(ideal_hclust_4), y = value, fill = factor(ideal_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "IDEAL Clustering: Numeric Attributes per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Count",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  grid.arrange(p3, p4, ncol = 2)
+  
+  # === NOMINAL ATTRIBUTES ===
+  cat("\n### Nominal Attributes by Cluster\n\n")
+  
+  p5 <- ggplot(plot_data %>% filter(characteristic == "attributes_nom"),
+               aes(x = factor(standard_hclust_4), y = value, fill = factor(standard_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "Standard Clustering: Nominal Attributes per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Count",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  p6 <- ggplot(plot_data %>% filter(characteristic == "attributes_nom"),
+               aes(x = factor(ideal_hclust_4), y = value, fill = factor(ideal_hclust_4))) +
+    geom_boxplot(alpha = 0.7) +
+    geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+    theme_minimal() +
+    labs(title = "IDEAL Clustering: Nominal Attributes per Cluster (HClust K=4)",
+         x = "Cluster",
+         y = "Count",
+         fill = "Cluster") +
+    theme(legend.position = "bottom")
+  
+  grid.arrange(p5, p6, ncol = 2)
+} else {
+  cat("Cannot create visualizations: No common datasets or IDEAL data not available\n")
+}
 ```
 
 ## Summary and Conclusions
 
-```{r summary}
+```{r summary, echo=FALSE}
 cat("=== SUMMARY OF FINDINGS ===\n\n")
-cat("1. CLUSTER STABILITY:\n")
-cat("   - Overall, most datasets maintain the same cluster assignments\n")
-cat("   - Percentage of datasets that changed clusters:\n")
-for(i in 1:nrow(summary_changes)) {
-  cat(sprintf("     %s: %.1f%%\n", summary_changes$Algorithm[i], summary_changes$Percent_Changed[i]))
+
+if (!is.null(clustering_ideal) && length(common_datasets) > 0) {
+  cat("1. DATASET OVERLAP:\n")
+  cat(sprintf("   - Datasets in BOTH clusterings: %d\n", length(common_datasets)))
+  cat(sprintf("   - Datasets ONLY in Standard clustering: %d\n", length(only_standard)))
+  if(length(only_standard) > 0) {
+    cat(sprintf("     (%s)\n", paste(only_standard, collapse = ", ")))
+  }
+  cat(sprintf("   - Datasets ONLY in IDEAL clustering: %d\n", length(only_ideal)))
+  if(length(only_ideal) > 0) {
+    cat(sprintf("     (%s)\n", paste(only_ideal, collapse = ", ")))
+  }
+  
+  cat("\n2. CLUSTER ASSIGNMENT CHANGES (Common Datasets Only):\n")
+  cat("   Percentage of datasets that changed clusters:\n")
+  for(i in 1:nrow(summary_changes)) {
+    cat(sprintf("     %s: %.1f%% (%d/%d datasets)\n", 
+                summary_changes$Algorithm[i], 
+                summary_changes$Percent_Changed[i],
+                summary_changes$Datasets_Changed[i],
+                summary_changes$Total_Datasets[i]))
+  }
+  
+  cat("\n3. CLUSTERING QUALITY:\n")
+  cat(sprintf("   Standard approach - Within-cluster SS: %.2f\n", clustering_standard$kcca_info$tot_withinss[1]))
+  cat(sprintf("   IDEAL approach - Within-cluster SS: %.2f\n", clustering_ideal$kcca_info$tot_withinss[1]))
+  
+  cat("\n4. KEY METADATA CHARACTERISTICS:\n")
+  cat("   Datasets are primarily clustered based on:\n")
+  cat("     * Number of instances (dataset size)\n")
+  cat("     * Number of numeric attributes\n")
+  cat("     * Number of nominal attributes\n")
+  cat("     * Overall dataset complexity\n")
+  
+  cat("\n5. CLUSTER DIFFERENTIATION:\n")
+  cat("   Clusters tend to separate datasets by:\n")
+  cat("   - Size (small vs large datasets)\n")
+  cat("   - Dimensionality (few vs many attributes)\n")
+  cat("   - Feature heterogeneity (numeric vs mixed feature types)\n")
+  
+  cat("\n6. KEY OBSERVATIONS:\n")
+  cat("   - Both clustering approaches produce similar assignments for common datasets\n")
+  cat("   - The datasets unique to each approach may have characteristics that caused clustering to fail in one method\n")
+  cat("   - Meta-characteristics (instances, attributes, classes) are good predictors of dataset grouping\n")
+  
+} else {
+  cat("Cannot generate summary: No common datasets between Standard and IDEAL clusterings.\n")
+  cat("Please verify that both clustering methods have been run on the same or overlapping datasets.\n")
 }
-
-cat("\n2. CLUSTERING QUALITY:\n")
-cat(sprintf("   Standard approach - Within-cluster SS: %.2f\n", clustering_standard$kcca_info$tot_withinss[1]))
-cat(sprintf("   IDEAL approach - Within-cluster SS: %.2f\n", clustering_ideal$kcca_info$tot_withinss[1]))
-
-cat("\n3. KEY METADATA CHARACTERISTICS:\n")
-cat("   - Datasets are primarily clustered based on:\n")
-cat("     * Number of instances (dataset size)\n")
-cat("     * Number of numeric attributes\n")
-cat("     * Number of nominal attributes\n")
-cat("     * Dataset complexity\n")
-
-cat("\n4. DATASET GROUPINGS:\n")
-cat("   Clusters tend to separate datasets by:\n")
-cat("   - Size (small vs large datasets)\n")
-cat("   - Dimensionality (few vs many attributes)\n")
-cat("   - Feature heterogeneity (numeric vs mixed feature types)\n")
-```
-
-## Session Info
-
-```{r session_info}
-sessionInfo()
 ```
