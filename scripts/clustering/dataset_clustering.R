@@ -1,17 +1,15 @@
 #!/usr/bin/env Rscript
 
 # Load necessary libraries
-pacman::p_load(caret, citation, data.table, dplyr, earth, farff, ggpubr, ggplot2, 
-               iml, knitr, rpart, tidyverse, tidyr, xtable, factoextra, proxy, 
-               dominanceanalysis, clustertend, MASS, smacof, vegan, cluster, flexclust)
+pacman::p_load(data.table, dplyr, MASS, cluster, flexclust)
 
-# Define datasets
-datasets <- c("analcatdata_authorship", "badges2", "banknote", 
-              "blood-transfusion-service-center", "breast-w", "cardiotocography", 
-              "climate-model-simulation-crashes", "cmc", "credit-g", "diabetes", 
-              "eucalyptus", "iris", "kc1", "liver-disorders", "mfeat-karhunen", 
-              "mfeat-zernike", "ozone-level-8hr", "pc4", "phoneme", "qsar-biodeg", 
-              "tic-tac-toe", "vowel", "waveform-5000", "wdbc", "wilt")
+# Read datasets from parameters.csv
+parameters <- read.csv("data/parameters.csv")
+dataset_values <- parameters[parameters$parameter == "dataset_name", "values"]
+datasets <- unlist(strsplit(as.character(dataset_values), "\\|"))
+
+# Create output directory if it doesn't exist
+dir.create("data/results/clustering", recursive = TRUE, showWarnings = FALSE)
 
 # Function to get the number of instances from a dataset
 get_num_instances <- function(dataset) {

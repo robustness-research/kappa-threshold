@@ -13,6 +13,7 @@
 "iris",150,4,0,1
 "kc1",2109,21,0,0
 "liver-disorders",345,6,0,0
+"mfeat-factors",2000,216,0,1
 "mfeat-karhunen",2000,64,0,1
 "mfeat-zernike",2000,47,0,0
 "ozone-level-8hr",2534,72,0,0
