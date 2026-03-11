@@ -1,0 +1,6 @@
+"dataset_name","K","predicted_group","distance_to_group","instances_n","attributes_num","attributes_nom","dataset_type"
+"mfeat-pixel",4,4,3.68755140373113,2000,240,0,1
+"monks-problems-2",4,3,0.59234515089359,601,6,0,0
+"steel-plates-fault",4,3,0.689760354366166,1941,33,0,0
+"vehicle",4,4,1.52823638144572,846,18,0,1
+"wall-robot-navigation",4,1,2.86614491827189,5456,24,0,1

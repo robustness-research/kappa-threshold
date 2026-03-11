@@ -1,15 +1,25 @@
 #!/usr/bin/env Rscript
 
-# Load required libraries
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(
-    tidyverse,  # for data manipulation and visualization
-    skimr,      # for data summary
-    here        # for file path handling
-)
+# Set working directory to project root
+thisFile <- function() {
+  cmdArgs <- commandArgs(trailingOnly = FALSE)
+  match <- grep("^--file=", cmdArgs)
+  if (length(match) > 0) {
+    return(normalizePath(sub("^--file=", "", cmdArgs[match])))
+  } else {
+    return(normalizePath(sys.frames()[[1]]$ofile))
+  }
+}
 
-# Load dataset names using here package
-dataset_names <- readRDS(here("data", "files", "dataset_name.rds"))
+script.dir <- dirname(thisFile())
+project.root <- normalizePath(file.path(script.dir, "..", ".."))
+setwd(project.root)
+
+# Load dataset names from parameters.csv
+#params <- read.csv("data/parameters.csv", stringsAsFactors = FALSE)
+#dataset_names <- unlist(strsplit(subset(params, parameter == "dataset_name")$values, "\\|"))
+
+dataset_names <- c("mfeat-pixel", "monks-problems-2", "steel-plates-fault", "vehicle", "wall-robot-navigation")
 
 #==============================================================
 
@@ -21,8 +31,10 @@ get_num_instances <- function(dataset) {
 
 # Function to determine the type of each attribute
 get_attribute_type <- function(dataset) {
-  # Exclude the "class" column
-  dataset_subset <- dataset[, !names(dataset) %in% "class"]
+  # Exclude the class column (case-insensitive)
+  class_col <- colnames(dataset)[tolower(colnames(dataset)) == "class"]
+  cols_to_exclude <- c(class_col)
+  dataset_subset <- dataset[, !names(dataset) %in% cols_to_exclude, drop = FALSE]
   
   # Initialize counts
   numerical_count <- 0
@@ -56,14 +68,40 @@ is_binary <- function(dataset) {
 }
 #=============================================================================
 
+# Function to normalize class column (handle case variants)
+normalize_class_column <- function(dataset) {
+  class_col <- colnames(dataset)[tolower(colnames(dataset)) == "class"]
+  
+  if (length(class_col) == 0) {
+    return(NULL)  # No class column found
+  }
+  
+  if (length(class_col) > 1) {
+    stop(paste("Multiple columns match 'class' (case-insensitive):", paste(class_col, collapse = ", ")))
+  }
+  
+  if (class_col != "class") {
+    names(dataset)[names(dataset) == class_col] <- "class"
+    cat("  (Normalized column '", class_col, "' to 'class')\n", sep = "")
+  }
+  
+  return(dataset)
+}
+
 # Function to print dataset characteristics
 print_dataset_info <- function(dataset_name) {
-  # Datasets are stored as RDS files in the datasets directory
-  dataset_path <- here("data", "datasets", paste0(dataset_name, ".rds"))
+  # Datasets are stored as CSV files
+  dataset_path <- file.path("data", "datasets", "arff", paste0(dataset_name, ".csv"))
   
   # Try to load dataset
   tryCatch({
-    dataset <- readRDS(dataset_path)
+    dataset <- read.csv(dataset_path, stringsAsFactors = FALSE)
+    dataset <- normalize_class_column(dataset)
+    
+    if (is.null(dataset)) {
+      cat("Error processing dataset", dataset_name, ": no 'class' column found\n")
+      return(invisible(NULL))
+    }
     
     # Get characteristics using existing functions
     num_instances <- get_num_instances(dataset)
