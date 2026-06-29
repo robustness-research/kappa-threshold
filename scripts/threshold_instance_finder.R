@@ -15,7 +15,7 @@ noise_levels <- c(0.1, 0.2, 0.3)
 kl_thresholds <- c(0.05, 0.10, 0.15)
 
 # Load parameters from CSV
-parameters <- read.csv(here("data", "files", "parameters.csv"), stringsAsFactors = FALSE)
+parameters <- read.csv(here("data", "parameters.csv"), stringsAsFactors = FALSE)
 
 # Extract dataset names and techniques from parameters
 dataset_names <- strsplit(parameters$values[parameters$parameter == "dataset_name"], "\\|")[[1]]

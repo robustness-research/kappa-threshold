@@ -4,12 +4,16 @@
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SCRIPTS_DIR="$PROJECT_ROOT/scripts"
 
+# Create required directories if they do not exist
+mkdir -p "$PROJECT_ROOT/scripts/logs/instances/train_noise"
+mkdir -p "$PROJECT_ROOT/data/results/instances/train_noise/by_dataset"
+
 # Note: Using existing vectors from results/instances/original/vectors/
 # No need to create new vectors directory
 
 # Define datasets to process
-arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w" "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes" "eucalyptus" "iris" "kc1" "liver-disorders" "mfeat-factors" "mfeat-karhunen" "mfeat-zernike" "ozone-level-8hr" "pc4" "phoneme" "qsar-biodeg" "tic-tac-toe" "vowel" "waveform-5000" "wdbc" "wilt") # datasets
-arguments2=("C5.0" "ctree" "fda" "gbm" "gcvEarth" "JRip" "lvq" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rf" "rfRules"  "rpart" "simpls" "svmLinear" "svmRadial" "knn" "bayesglm")
+arguments=("mfeat-pixel" "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation")
+arguments2=("C5.0" "ctree" "fda" "gbm" "gcvEarth" "JRip" "lvq" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rf" "rpart" "simpls" "svmLinear" "svmRadial" "rfRules" "knn" "bayesglm")
 
 # "analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w"
 # "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes"

@@ -14,14 +14,17 @@ script.dir <- dirname(thisFile())
 project.root <- normalizePath(file.path(script.dir, ".."))
 setwd(project.root)
 cat("Current working directory:", getwd(), "\n")
-cat("parameters.csv exists:", file.exists("data/files/parameters.csv"), "\n")
-cat("parameters.csv absolute path:", normalizePath("data/files/parameters.csv", mustWork=FALSE), "\n")
+cat("parameters.csv exists:", file.exists("data/parameters.csv"), "\n")
+cat("parameters.csv absolute path:", normalizePath("data/parameters.csv", mustWork=FALSE), "\n")
 
 # Packages that need to be loaded
 pacman::p_load(caret, iml, citation, dplyr, earth, lime)
 
 # Set the seed to make the experiment reproducible
 set.seed(1)
+
+# Allow larger objects 
+options(future.globals.maxSize = 2 * 1024^3)
 
 # Load parameters
 load_parameters <- function(params_file) {
@@ -123,9 +126,21 @@ process_dataset <- function(dataset, models, control) {
   # Load dataset
   ds_filename <- paste0("data/datasets/", dataset, ".csv")
   df <- read.csv(ds_filename, stringsAsFactors = FALSE)
+
+  # Normalize target column name across datasets (class/Class)
+  target_idx <- which(tolower(names(df)) == "class")
+  if (length(target_idx) == 0) {
+    stop(paste0("No target column named 'class' found in dataset: ", dataset))
+  }
+  if (length(target_idx) > 1) {
+    target_idx <- target_idx[1]
+  }
+  names(df)[target_idx] <- "class"
+  df$class <- as.factor(df$class)
   
-  # Scale all numeric features for consistent preprocessing across all models
-  df_processed <- df %>% mutate_if(is.numeric, ~(scale(.) %>% as.vector))
+  # Scale only predictor columns; keep class as categorical target
+  df_processed <- df %>%
+    mutate(across(-class, ~ if (is.numeric(.)) as.vector(scale(.)) else .))
   
   # Process all methods for this dataset
   dataset_results <- do.call(rbind, lapply(models, function(method) {
@@ -148,7 +163,7 @@ process_dataset <- function(dataset, models, control) {
 }
 
 # Load and extract parameters
-parameters <- load_parameters("data/files/parameters.csv")
+parameters <- load_parameters("data/parameters.csv")
 datasets <- parameters$datasets
 models <- parameters$models
 control <- parameters$control

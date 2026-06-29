@@ -14,8 +14,8 @@ script.dir <- dirname(thisFile())
 project.root <- normalizePath(file.path(script.dir, ".."))
 setwd(project.root)
 cat("Current working directory:", getwd(), "\n")
-cat("parameters.csv exists:", file.exists("data/files/parameters.csv"), "\n")
-cat("parameters.csv absolute path:", normalizePath("data/files/parameters.csv", mustWork=FALSE), "\n")
+cat("parameters.csv exists:", file.exists("data/parameters.csv"), "\n")
+cat("parameters.csv absolute path:", normalizePath("data/parameters.csv", mustWork=FALSE), "\n")
 
 # Packages that need to be loaded
 pacman::p_load(citation, dplyr)
@@ -24,7 +24,7 @@ pacman::p_load(citation, dplyr)
 set.seed(1)
 
 # Load parameters
-load_parameters <- function(params_file = "data/files/parameters.csv") {
+load_parameters <- function(params_file = "data/parameters.csv") {
   # Datasets from command line arguments
   args <- commandArgs(trailingOnly = TRUE)
 
@@ -163,6 +163,13 @@ process_dataset <- function(dataset, noise_levels, mia_df) {
   # Load dataset
   filename <- paste0("data/datasets/", dataset, ".csv")
   df <- read.csv(filename, stringsAsFactors = FALSE)
+
+  # Normalize the target column name so generated CSVs always use `class`
+  target_idx <- which(tolower(names(df)) == "class")
+  if(length(target_idx) == 0) {
+    stop(paste0("No target column named 'class' found in dataset: ", dataset))
+  }
+  names(df)[target_idx] <- "class"
   
   # Filter from the Attribute list for only this dataset
   dataset_mia <- mia_df %>% 

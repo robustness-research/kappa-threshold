@@ -14,8 +14,8 @@ script.dir <- dirname(thisFile())
 project.root <- normalizePath(file.path(script.dir, ".."))
 setwd(project.root)
 cat("Current working directory:", getwd(), "\n")
-cat("parameters.csv exists:", file.exists("data/files/parameters.csv"), "\n")
-cat("parameters.csv absolute path:", normalizePath("data/files/parameters.csv", mustWork=FALSE), "\n")
+cat("parameters.csv exists:", file.exists("data/parameters.csv"), "\n")
+cat("parameters.csv absolute path:", normalizePath("data/parameters.csv", mustWork=FALSE), "\n")
 
 # Packages that need to be loaded
 pacman::p_load(caret, iml, citation, dplyr, earth, lime, data.table)
@@ -255,7 +255,7 @@ process_fold <- function(dataset, fold_index, train_df, test_df, test_indices, m
 }
 
 # Load and extract parameters
-parameters <- load_parameters("data/files/parameters.csv")
+parameters <- load_parameters("data/parameters.csv")
 datasets <- parameters$datasets
 fold_names <- parameters$fold_names
 models <- parameters$models 
@@ -285,6 +285,13 @@ results_df <- data.frame(
 dataset <- datasets
 filename <- paste0("data/datasets/", dataset, ".csv")
 df <- read.csv(filename, stringsAsFactors = FALSE)
+
+# Normalize the target column name so downstream code always uses `class`
+target_idx <- which(tolower(names(df)) == "class")
+if(length(target_idx) == 0) {
+  stop(paste0("No target column named 'class' found in dataset: ", dataset))
+}
+names(df)[target_idx] <- "class"
 
 # Convert class column to factor for classification
 df$class <- as.factor(df$class)

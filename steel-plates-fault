@@ -1,2 +1,0 @@
-"dataset_name","dataset_path","K","predicted_group","distance_to_group","instances_n","attributes_num","attributes_nom","dataset_type"
-"mfeat-pixel","/Users/chris/github/kappa-threshold/data/datasets/arff/mfeat-pixel.csv",4,4,3.68755140373113,2000,240,0,1

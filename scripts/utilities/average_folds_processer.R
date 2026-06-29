@@ -1,7 +1,8 @@
 #!/usr/bin/env Rscript
 
 # Libraries
-library(tidyverse)
+library(dplyr)
+library(readr)
 
 # Parameters
 params <- read_csv("data/parameters.csv", show_col_types = FALSE)

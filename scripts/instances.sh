@@ -14,7 +14,11 @@ mkdir -p "$PROJECT_ROOT/results/instances/original/by_dataset"
 mkdir -p "$PROJECT_ROOT/results/instances/original/vectors"
 
 # Define datasets to process
-arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w" "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes" "eucalyptus" "iris" "kc1" "liver-disorders" "mfeat-factors" "mfeat-karhunen" "mfeat-zernike" "ozone-level-8hr" "pc4" "phoneme" "qsar-biodeg" "tic-tac-toe" "vowel" "waveform-5000" "wdbc" "wilt") # datasets
+# arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w")
+
+#arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w" "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes" "eucalyptus" "iris" "kc1" "liver-disorders" "mfeat-factors" "mfeat-karhunen" "mfeat-zernike" "ozone-level-8hr" "pc4" "phoneme" "qsar-biodeg" "tic-tac-toe" "vowel" "waveform-5000" "wdbc" "wilt")
+
+arguments=("mfeat-pixel" "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation")
 arguments2=("C5.0" "ctree" "fda" "gbm" "gcvEarth" "JRip" "lvq" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rf" "rpart" "simpls" "svmLinear" "svmRadial" "rfRules" "knn" "bayesglm")
 
 # "analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w"

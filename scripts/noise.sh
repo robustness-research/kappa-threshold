@@ -13,11 +13,9 @@ mkdir -p "$PROJECT_ROOT/results/noise_injection/by_dataset"
 # Define datasets to process
 # arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w")
 
-arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w"
-           "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes"
-           "eucalyptus" "iris" "kc1" "liver-disorders" "mfeat-factors"
-           "mfeat-karhunen" "mfeat-zernike" "ozone-level-8hr" "pc4" "phoneme"
-           "qsar-biodeg" "tic-tac-toe" "vowel" "waveform-5000" "wdbc" "wilt")
+#arguments=("analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w" "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes" "eucalyptus" "iris" "kc1" "liver-disorders" "mfeat-factors" "mfeat-karhunen" "mfeat-zernike" "ozone-level-8hr" "pc4" "phoneme" "qsar-biodeg" "tic-tac-toe" "vowel" "waveform-5000" "wdbc" "wilt")
+
+arguments=("mfeat-pixel" "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation")
 
 # Change to project root directory
 cd "$PROJECT_ROOT"

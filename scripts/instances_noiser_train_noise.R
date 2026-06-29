@@ -23,6 +23,22 @@ pacman::p_load(caret, iml, citation, dplyr, earth, lime, data.table)
 # Set the seed 
 set.seed(1)
 
+# Normalize the target column name so downstream code always uses `class`
+normalize_class_column <- function(dataset, source_name) {
+  target_idx <- which(tolower(names(dataset)) == "class")
+
+  if(length(target_idx) == 0) {
+    stop(paste0("No target column named 'class' found in ", source_name))
+  }
+
+  if(length(target_idx) > 1) {
+    target_idx <- target_idx[1]
+  }
+
+  names(dataset)[target_idx] <- "class"
+  dataset
+}
+
 # Load parameters
 load_parameters <- function(params_file) {
   # Datasets from command line arguments
@@ -72,7 +88,7 @@ train_model_noise <- function(method, train_df, train_df_indices, dataset, noise
       mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
 
       # Load noise data from CSV file
-      noise_csv_file <- paste0("data/results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise_level, ".csv")
+      noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise_level, ".csv")
       cat("Loading training noise data from:", noise_csv_file, "\n")
 
       if(!file.exists(noise_csv_file)) {
@@ -80,6 +96,9 @@ train_model_noise <- function(method, train_df, train_df_indices, dataset, noise
       }
 
       noise_full_df <- read.csv(noise_csv_file, stringsAsFactors = FALSE)
+
+      # Normalize the target column name so downstream code always uses `class`
+      noise_full_df <- normalize_class_column(noise_full_df, paste0("noise file: ", noise_csv_file))
 
       # Remove metadata columns if present
       noise_full_df$dataset_name <- NULL
@@ -179,7 +198,7 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
   cat("Using", length(indices), "indices (first", length(indices), "from shuffled list)\n")
 
   # Load noise data from CSV file created by noise_injector.R
-  noise_csv_file <- paste0("data/results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise, ".csv")
+  noise_csv_file <- paste0("results/noise_injection/by_dataset/", dataset, "_", mia, "_noise", noise, ".csv")
   cat("Loading noise data from:", noise_csv_file, "\n")
   
   if(!file.exists(noise_csv_file)) {
@@ -187,6 +206,9 @@ process_instance <- function(dataset, fold_index, method, mia, noise, percent, t
   }
   
   noise_full_df <- read.csv(noise_csv_file, stringsAsFactors = FALSE)
+
+  # Normalize the target column name so downstream code always uses `class`
+  noise_full_df <- normalize_class_column(noise_full_df, paste0("noise file: ", noise_csv_file))
   
   # Remove metadata columns if present
   noise_full_df$dataset_name <- NULL
@@ -249,7 +271,7 @@ process_model <- function(dataset, fold_index, train_df, train_df_indices, test_
   mia <- as.character(subset(mia_df, dataset_name == dataset & technique == method)$most_important_attribute[1])
 
   # Load indices from original execution to ensure consistent train/test partitions
-  indices_file <- paste0("data/results/instances/original/vectors/", 
+  indices_file <- paste0("results/instances/original/vectors/", 
                          dataset, "_", method, "_all_folds.csv")
   
   if(!file.exists(indices_file)) {
@@ -308,15 +330,18 @@ control <- parameters$control
 n_folds <- 5
 
 # Load most important attribute table
-mia_df <- read.csv("data/results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
+mia_df <- read.csv("results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
 
 # Load threshold instance results
-threshold_results <- read.csv("data/results/threshold_instance_results.csv", stringsAsFactors = FALSE)
+threshold_results <- read.csv("results/threshold_instance_results.csv", stringsAsFactors = FALSE)
 
 # Datasets
 dataset <- datasets
 filename <- paste0("data/datasets/", dataset, ".csv")
 df <- read.csv(filename, stringsAsFactors = FALSE)
+
+# Normalize the target column name so downstream code always uses `class`
+df <- normalize_class_column(df, paste0("dataset: ", filename))
 
 # Convert class column to factor for classification
 df$class <- as.factor(df$class)
@@ -324,7 +349,7 @@ df$class <- as.factor(df$class)
 # Load train/test partitions from original execution
 # We need to reconstruct the fold indices from the original vector files
 # Read one of the vector files to get the original test indices for all folds
-sample_vector_file <- paste0("data/results/instances/original/vectors/", dataset, "_", models, "_all_folds.csv")
+sample_vector_file <- paste0("results/instances/original/vectors/", dataset, "_", models, "_all_folds.csv")
 if(!file.exists(sample_vector_file)) {
   stop(paste("Cannot find original vector file:", sample_vector_file, "\nPlease run the original instances script first."))
 }
@@ -360,7 +385,7 @@ for(threshold in threshold_levels) {
     }))
     
     # Create threshold-specific directory
-    threshold_dir <- paste0("data/results/instances/train_noise/by_dataset/threshold_", threshold)
+    threshold_dir <- paste0("results/instances/train_noise/by_dataset/threshold_", threshold)
     dir.create(threshold_dir, recursive = TRUE, showWarnings = FALSE)
 
     # Save results per dataset-model combination
