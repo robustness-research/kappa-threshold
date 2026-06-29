@@ -11,8 +11,8 @@ models <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[
 target_noise_levels <- c(0.1, 0.2, 0.3) # Noise list to filter
 
 # Create output directory
-output_dir <- "data/results"
-plots_dir <- "data/results/summary_plots"
+output_dir <- "results"
+plots_dir <- "results/summary_plots"
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(plots_dir, recursive = TRUE, showWarnings = FALSE)
 

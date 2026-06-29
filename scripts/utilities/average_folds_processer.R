@@ -12,8 +12,8 @@ models <- models[models != "rda"] # Exclude 'rda' if present
 thresholds <- as.numeric(strsplit(params$values[params$parameter == "threshold_level"], "\\|")[[1]])
 
 # Results directories
-dir1 <- "data/results/instances/original/by_dataset"
-dir2 <- "data/results/instances/train_noise/by_dataset"
+dir1 <- "results/instances/original/by_dataset"
+dir2 <- "results/instances/train_noise/by_dataset"
 
 # Process each dataset
 process_dataset <- function(dataset, directory){

@@ -13,7 +13,7 @@ thresholds <- as.numeric(strsplit(params$values[params$parameter == "threshold_l
 models <- models[models != "rda"] # Exclude 'rda' if present
 
 # Directory containing individual results
-results_dir <- "data/results/instances/train_noise/by_dataset"
+results_dir <- "results/instances/train_noise/by_dataset"
 
 # Expected number of models
 expected_models <- length(models)
@@ -71,14 +71,13 @@ for (threshold in thresholds) {
   }
 }
 
-# --- SNIPPET: Check missing models for each dataset and threshold ---
-# This code will print missing models for each dataset/threshold combination
+# print missing models for each dataset/threshold combination
 params <- read_csv("data/parameters.csv", show_col_types = FALSE)
 models <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[1]]
 datasets <- strsplit(params$values[params$parameter == "dataset_name"], "\\|")[[1]]
 thresholds <- as.numeric(strsplit(params$values[params$parameter == "threshold_level"], "\\|")[[1]])
 
-results_dir <- "data/results/instances/train_noise/by_dataset"
+results_dir <- "results/instances/train_noise/by_dataset"
 
 for (threshold in thresholds) {
   thresholds_dir <- paste0(results_dir, "/threshold_", threshold)
@@ -92,6 +91,5 @@ for (threshold in thresholds) {
     }
   }
 }
-# --- END SNIPPET ---
 
 cat("Script completed!\n")

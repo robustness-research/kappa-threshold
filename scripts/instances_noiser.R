@@ -50,7 +50,7 @@ train_model <- function(method, train_df, control) {
   model_params <- list(
     "C5.0" = list(method = "C5.0"),
     "ctree" = list(method = "ctree"),
-    "fda" = list(method = "fda"),
+    "fda" = list(method = "fda", trControl = control),
     "gbm" = list(method = "gbm"),
     "gcvEarth" = list(method = "gcvEarth"),
     "JRip" = list(method = "JRip"),

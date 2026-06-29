@@ -6,14 +6,17 @@ SCRIPTS_DIR="$PROJECT_ROOT/scripts"
 
 # Create required directories if they do not exist
 mkdir -p "$PROJECT_ROOT/scripts/logs/instances/train_noise"
-mkdir -p "$PROJECT_ROOT/data/results/instances/train_noise/by_dataset"
+mkdir -p "$PROJECT_ROOT/results/instances/train_noise/by_dataset"
 
 # Note: Using existing vectors from results/instances/original/vectors/
 # No need to create new vectors directory
 
 # Define datasets to process
-arguments=("mfeat-pixel" "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation")
-arguments2=("C5.0" "ctree" "fda" "gbm" "gcvEarth" "JRip" "lvq" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rf" "rpart" "simpls" "svmLinear" "svmRadial" "rfRules" "knn" "bayesglm")
+arguments=("mfeat-pixel")
+# "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation"
+arguments2=("JRip" "lvq" "rf" "svmRadial" "bayesglm")
+# "C5.0" "ctree" "fda" "gbm" "gcvEarth" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rpart" "simpls" "svmLinear"  "rfRules" "knn" 
+
 
 # "analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w"
 # "cardiotocography" "climate-model-simulation-crashes" "cmc" "credit-g" "diabetes"
@@ -29,12 +32,12 @@ export PROJECT_ROOT SCRIPTS_DIR
 
 echo "Starting instances alteration for ${#arguments[@]} datasets with ${#arguments2[@]} models..."
 echo "Logs will be saved to: $PROJECT_ROOT/scripts/logs/instances/train_noise/"
-echo "Results will be saved to: $PROJECT_ROOT/data/results/instances/train_noise/by_dataset/"
+echo "Results will be saved to: $PROJECT_ROOT/results/instances/train_noise/by_dataset/"
 echo ""
 
 # Create combinations of datasets and models
 counter=0
-max_jobs=4
+max_jobs=8
 running_jobs=0
 
 for dataset in "${arguments[@]}"; do
