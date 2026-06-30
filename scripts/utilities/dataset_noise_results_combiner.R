@@ -10,7 +10,10 @@ models <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[
 datasets <- strsplit(params$values[params$parameter == "dataset_name"], "\\|")[[1]]
 thresholds <- as.numeric(strsplit(params$values[params$parameter == "threshold_level"], "\\|")[[1]])
 
-models <- models[models != "rda"] # Exclude 'rda' if present
+#models <- models[models != "rda"] # Exclude 'rda' if present
+models <- models[models != "fda"]
+#models <- models[models != "lvq"]
+models <- models[models != "rfRules"]
 
 # Directory containing individual results
 results_dir <- "results/instances/train_noise/by_dataset"

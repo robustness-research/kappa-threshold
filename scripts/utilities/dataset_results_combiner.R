@@ -7,6 +7,7 @@ library(readr)
 # Read parameters to get list of models and datasets
 params <- read_csv("data/parameters.csv", show_col_types = FALSE)
 models <- strsplit(params$values[params$parameter == "technique_name"], "\\|")[[1]]
+models <- models[models != "fda"]
 datasets <- strsplit(params$values[params$parameter == "dataset_name"], "\\|")[[1]]
 
 # Directory containing individual results

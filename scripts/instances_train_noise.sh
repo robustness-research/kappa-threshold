@@ -12,10 +12,10 @@ mkdir -p "$PROJECT_ROOT/results/instances/train_noise/by_dataset"
 # No need to create new vectors directory
 
 # Define datasets to process
-arguments=("mfeat-pixel")
-# "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation"
-arguments2=("JRip" "lvq" "rf" "svmRadial" "bayesglm")
-# "C5.0" "ctree" "fda" "gbm" "gcvEarth" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rpart" "simpls" "svmLinear"  "rfRules" "knn" 
+arguments=("wall-robot-navigation")
+# "mfeat-pixel" "monks-problems-2" "steel-plates-fault" "vehicle" "wall-robot-navigation"
+arguments2=("rfRules")
+# "C5.0" "ctree" "fda" "gbm" "gcvEarth" "mlpML" "multinom" "naive_bayes" "PART" "rbfDDA" "rda" "rpart" "simpls" "svmLinear"  "rfRules" "knn" "JRip" "lvq" "rf" "svmRadial" "bayesglm"
 
 
 # "analcatdata_authorship" "badges2" "banknote" "blood-transfusion-service-center" "breast-w"

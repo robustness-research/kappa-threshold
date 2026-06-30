@@ -333,7 +333,7 @@ n_folds <- 5
 mia_df <- read.csv("results/most_important_attr/mia.csv", stringsAsFactors = FALSE)
 
 # Load threshold instance results
-threshold_results <- read.csv("results/threshold_instance_results.csv", stringsAsFactors = FALSE)
+threshold_results <- read.csv("results/threshold_instance_results_new.csv", stringsAsFactors = FALSE)
 
 # Datasets
 dataset <- datasets
