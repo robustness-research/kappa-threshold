@@ -1,7 +1,10 @@
 #!/usr/bin/env Rscript
 
 # Libraries
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(purrr)
+library(readr)
 library(gridExtra)
 
 # Parameters

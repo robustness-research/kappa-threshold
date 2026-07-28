@@ -1,7 +1,10 @@
 #!/usr/bin/env Rscript
 
 # Libraries
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(purrr)
+library(readr)
 library(gridExtra)
 
 # Parameters
@@ -12,7 +15,7 @@ target_noise_levels <- c(0.1, 0.2, 0.3) # Noise list to filter
 threshold_levels <- as.numeric(strsplit(params$values[params$parameter == "threshold_level"], "\\|")[[1]])
 
 # Create output directory
-output_dir <- "data/results/plots"
+output_dir <- "results/plots"
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Function to read and process results for a dataset
