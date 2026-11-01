@@ -1,0 +1,121 @@
+# Checklist: what has and has not been run
+
+Snapshot from 1 Nov 2026. Legend: `[x]` complete, `[~]` partial, `[ ]` not run or missing. Each item links to the folder or pair doc that holds the detail. Counts are against 31 datasets × 21 models unless stated.
+
+## Stage 1: datasets
+
+- [x] All 31 datasets present in `data/datasets/` (CSV). Some also have ARFF sources in `data/datasets/arff/`.
+
+## Stage 2: most important attribute (MIA)
+
+Docs: [mia.md](pairs/mia.md), [most-important-attr.md](results/most-important-attr.md), [most-important-attr-by-dataset.md](results/most-important-attr-by-dataset.md).
+
+- [x] 30 of 31 datasets have per-dataset MIA output (R-era)
+- [x] Combined `mia.csv` (630 rows) and `miaUnique.csv` (139 features)
+- [ ] `mfeat-factors`: R run stops at `gcvEarth` (`future.globals.maxSize` exceeded). The R log header shows an older script revision, so the current 2 GiB setting is untested
+- [ ] Python MIA port (`kt mia run --no-resume`) not run over all datasets. Decision pending
+- [ ] Remove or keep the `r_legacy/` backup ([most-important-attr-r-legacy.md](results/most-important-attr-r-legacy.md))
+- [ ] Stray `mia_new.csv` and `miaUnique_new.csv`
+
+## Stage 3: noise injection
+
+Docs: [noise-injection.md](pairs/noise-injection.md), [noise-injection.md](results/noise-injection.md).
+
+- [x] 139 features × levels 0.1–0.9 present
+- [x] Level 1 present under the R name `noise1.csv` (139 files)
+- [ ] Python naming mismatch: `noise1.0.csv` is not recognised on resume (fix `paths.py`, rename or regenerate)
+- [ ] `mfeat-factors` has no files (no MIA)
+- [ ] Levels 0.4–1.0 are generated but never analysed (by design; confirm)
+
+## Stage 4: original instance-noise
+
+Docs: [instances-original.md](pairs/instances-original.md), [instances-original-by-dataset.md](results/instances-original-by-dataset.md), [instances-original-vectors.md](results/instances-original-vectors.md).
+
+- [x] Fold vectors: 651 of 651
+- [x] Combined per-dataset results: 29 of 31
+- [ ] `eucalyptus`: vectors present but no combined or averaged results. Check whether the run wrote elsewhere or was deleted
+- [ ] `mfeat-factors`: vectors present but no combined or averaged results
+- [~] `monks-problems-2`: 20 of 21 models (`fda` failed in R)
+- [ ] Stray `iris_rf_results.csv`
+
+## Stage 5: threshold
+
+Docs: [threshold.md](pairs/threshold.md), [results-root.md](results/results-root.md).
+
+- [x] `threshold_instance_results.csv` has 31 datasets × 189 rows (dated 30 Oct)
+- [~] Real results for 29 datasets. Placeholders for `eucalyptus`, `mfeat-factors`, and `monks-problems-2 × fda`
+- [ ] Placeholder rows must be excluded or rerun once stage 4 is fixed
+- [ ] Stray `threshold_instance_results_new.csv`, still read by the R stage 6 script
+- [ ] Output file overwrites on subset runs (`kt threshold find --dataset X`). Fix the merge before running a subset
+
+## Stage 6: train-noise (thresholds 0.05, 0.10, 0.15)
+
+Docs: [instances-train-noise.md](pairs/instances-train-noise.md), [instances-train-noise-0.05.md](results/instances-train-noise-0.05.md), [instances-train-noise-0.1.md](results/instances-train-noise-0.1.md), [instances-train-noise-0.15.md](results/instances-train-noise-0.15.md).
+
+- [x] Combined results for 28 datasets at each threshold
+- [~] `mfeat-pixel`: 18 / 18 / 16 of 21 shards (0.05 / 0.10 / 0.15)
+- [~] Leftover shards at 0.05: `banknote` `rf`, `wall-robot-navigation` `rfRules`
+- [ ] `eucalyptus`, `mfeat-factors`: fail on missing R packages (`RWeka`, `inTrees`, `arm`)
+- [ ] `mfeat-pixel` missing from combined files at all thresholds
+- [ ] Check `monks-problems-2`, `steel-plates-fault`, `vehicle` for all 21 models. Combined files exist, but several logs show errors
+
+## Stage 7: combine, summarize, compare
+
+Docs: [combine-original.md](pairs/combine-original.md), [combine-train-noise.md](pairs/combine-train-noise.md), [average-folds.md](pairs/average-folds.md), [summarize.md](pairs/summarize.md), [results-root.md](results/results-root.md).
+
+- [x] Averaged original results for 29 datasets
+- [x] Averaged train-noise results for 28 datasets at each threshold
+- [ ] Summaries and comparison are stale (dated 17 Aug, before the 30 Oct threshold file)
+- [ ] Summaries cover 28 datasets, not 31
+- [ ] Comparison and summary files are overwritten by each threshold run. Make them per threshold, or run one threshold at a time and archive
+- [ ] `results/summary_plots/` does not exist. Port it or drop it ([summary-plots.md](results/summary-plots.md))
+
+## Stage 8: plots
+
+Docs: [plots-kappa-accuracy.md](pairs/plots-kappa-accuracy.md), [plots-by-cluster.md](pairs/plots-by-cluster.md), [plots.md](results/plots.md), [plots-by-cluster.md](results/plots-by-cluster.md).
+
+- [x] Per-dataset kappa-loss and accuracy plots for 28 datasets (168 PNGs)
+- [x] By-cluster plots: 22 files
+- [ ] Per-dataset plots missing for `eucalyptus`, `mfeat-factors`, `mfeat-pixel`
+- [~] By-cluster at 0_15: 6 of 8 (cluster 1 has none)
+- [ ] `by_cluster` plots are not generated by `kt plot run`. Check whether they can be regenerated from Python
+- [ ] Stray archive `results/plots/by_cluster_IDEAL.zip` (about 63 MB)
+
+## Stage 9: clustering
+
+Docs: [clustering-26.md](pairs/clustering-26.md), [clustering-ideal.md](pairs/clustering-ideal.md), [clustering-group-classifier.md](pairs/clustering-group-classifier.md), [clustering.md](results/clustering.md), [clustering-ideal.md](results/clustering-ideal.md).
+
+- [x] Main clustering: 31 datasets (`groups.csv`, `characteristics.csv`)
+- [x] IDEAL clustering: 27 groups, 4 holdouts by design
+- [ ] `predicted_group.csv` (5 rows, 29 Jun, from R) is stale
+- [ ] Stray archive `results/clustering_IDEAL.zip`, a 29 Jun snapshot
+- [ ] R writes under `data/results/`; Python writes under `results/`. Only `results/` exists
+
+## Notebooks
+
+- [ ] Four notebooks in `notebooks/` not checked against current outputs
+- [ ] Three R Markdown analysis files have stale paths ([analysis-rmd.md](pairs/analysis-rmd.md))
+
+## Tests
+
+Docs: [python-only.md](pairs/python-only.md).
+
+- [ ] Test pass or fail status is not recorded in the repo
+- [ ] No test covers MIA (`mia.py`)
+
+## Unported R utilities
+
+Docs: [unported-utilities.md](pairs/unported-utilities.md).
+
+- [ ] Confirm whether the ARFF to CSV converter is still needed for new datasets
+- [ ] `dataset_info.R` reads `data/datasets/arff/` and has no Python port
+- [ ] `file_names.R` writes a stale path that `plots.Rmd` still reads
+
+## Cross-cutting
+
+- [ ] Noise filename mismatch (`noise1.csv` vs `noise1.0.csv`), stage 3
+- [ ] Noise-level scale: threshold file stores 10/20/30; other files store 0.1/0.2/0.3
+- [ ] Stage 6 reads the `_new` threshold file in R and the main file in Python
+- [ ] Output root: R writes `data/results/`, Python writes `results/`
+- [ ] Silent skips in the combiners (missing shards return `None`)
+- [ ] Errors in logs are not parsed by any script
