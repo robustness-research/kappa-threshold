@@ -1,7 +1,7 @@
 "parameter","values"
 "dataset_name","analcatdata_authorship|badges2|banknote|blood-transfusion-service-center|breast-w|cardiotocography|climate-model-simulation-crashes|cmc|credit-g|diabetes|eucalyptus|iris|kc1|liver-disorders|mfeat-factors|mfeat-karhunen|mfeat-pixel|mfeat-zernike|monks-problems-2|ozone-level-8hr|pc4|phoneme|qsar-biodeg|steel-plates-fault|tic-tac-toe|vehicle|vowel|wall-robot-navigation|waveform-5000|wdbc|wilt"
 "fold_name","Fold_1|Fold_2|Fold_3|Fold_4|Fold_5"
-"technique_name","C5.0|ctree|fda|gbm|gcvEarth|JRip|lvq|mlpML|multinom|naive_bayes|PART|rbfDDA|rda|rf|rpart|simpls|svmLinear|svmRadial|rfRules|knn|bayesglm"
+"technique_name","decision_tree_entropy|decision_tree_unpruned|lda|gradient_boosting|mlp|logistic_regression|gaussian_nb|qda_shrunk|random_forest|decision_tree_gini|pls_da|svm_linear|svm_rbf|knn|logistic_l2|lvq1|rbf_network|ripper|irep|mars|skope_rules"
 "noise_levels","0.1|0.2|0.3|0.4|0.5|0.6|0.7|0.8|0.9|1"
 "instance_level","0.1|0.2|0.25|0.3|0.4|0.5|0.6|0.7|0.75|0.8|0.9|1"
 "threshold_level","0.05|0.1|0.15"

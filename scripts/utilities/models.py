@@ -189,7 +189,7 @@ MODELS: dict[str, Callable[[], BaseEstimator]] = {
     "mlp": lambda: MLPClassifier(hidden_layer_sizes=(5,), max_iter=500, random_state=SEED),
     "logistic_regression": lambda: LogisticRegression(penalty=None, max_iter=2000),
     "gaussian_nb": lambda: GaussianNB(),
-    "qda_shrunk": lambda: QuadraticDiscriminantAnalysis(reg_param=0.5),
+    "qda_shrunk": lambda: QuadraticDiscriminantAnalysis(solver="eigen", shrinkage=0.5),
     "random_forest": lambda: RandomForestClassifier(n_estimators=500, random_state=SEED),
     "decision_tree_gini": lambda: DecisionTreeClassifier(
         criterion="gini", min_samples_split=20, min_samples_leaf=7, ccp_alpha=0.01,
