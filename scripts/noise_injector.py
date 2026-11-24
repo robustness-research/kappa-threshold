@@ -1,12 +1,6 @@
-"""Stage 3: generate noisy dataset variants for each (dataset, MIA, noise_level).
-
-Port of scripts/noise_injector.R. Numeric MIA -> Gaussian jitter proportional
-to the attribute's std dev. Categorical MIA -> a probability blend between
-"keep current value" and "sample from the population's empirical frequency",
-controlled by alpha = 1 - exp(-noise_level).
-"""
-
 from __future__ import annotations
+
+import os
 
 import numpy as np
 import pandas as pd
@@ -23,29 +17,34 @@ def _inject_numeric(df: pd.DataFrame, mia: str, noise_level: float, rng: np.rand
 
 
 def _inject_categorical(df: pd.DataFrame, mia: str, noise_level: float, rng: np.random.Generator) -> pd.Series:
-    categories = sorted(df[mia].dropna().unique())
-    freq = df[mia].value_counts(normalize=True).reindex(categories).fillna(0.0).to_numpy()
+    """Resample each row from a blend of "keep my value" and the population frequencies.
+
+    Fully vectorized (no per-row Python): row i's new category is drawn by
+    inverse-CDF sampling from cdf[code_i], using one uniform draw per row.
+    """
+    values = df[mia]
+    categories = sorted(values.dropna().unique())
+    n_cat = len(categories)
+    freq = values.value_counts(normalize=True).reindex(categories).fillna(0.0).to_numpy()
     alpha = 1.0 - np.exp(-noise_level)
 
-    cat_index = {cat: i for i, cat in enumerate(categories)}
-    n_cat = len(categories)
+    # probs[c] = distribution of the new value for a row currently in category c.
+    probs = alpha * freq[None, :] + (1.0 - alpha) * np.eye(n_cat)
+    cdf = np.cumsum(probs, axis=1)
+    cdf[:, -1] = 1.0  # guard against floating-point drift
 
-    # Precompute one blended probability vector per possible current-value,
-    # then look each row up by its current category (vectorized rewrite of
-    # the R script's per-row loop).
-    blended_by_category: dict = {}
-    for cat in categories:
-        one_hot = np.zeros(n_cat)
-        one_hot[cat_index[cat]] = 1.0
-        p1 = alpha * freq + (1.0 - alpha) * one_hot
-        p1 = p1 / p1.sum()
-        blended_by_category[cat] = p1
+    codes = pd.Categorical(values, categories=categories).codes.astype(np.intp)
+    u = rng.random(len(values))
 
-    new_values = [
-        rng.choice(categories, p=blended_by_category[cur_val])
-        for cur_val in df[mia]
-    ]
-    return pd.Series(new_values, index=df.index)
+    # Look up every row in its own cdf row with a single searchsorted: shift
+    # row c of the cdf by +c so the flattened table is globally sorted, and
+    # shift each uniform draw by the same +c.
+    offsets = np.arange(n_cat)
+    flat_cdf = (cdf + offsets[:, None]).ravel()
+    flat_pos = np.searchsorted(flat_cdf, u + codes, side="right")
+    new_codes = np.clip(flat_pos - codes * n_cat, 0, n_cat - 1)
+
+    return pd.Series(np.asarray(categories, dtype=object)[new_codes], index=df.index)
 
 
 def inject_noise_at_level(df: pd.DataFrame, mia: str, noise_level: float, rng: np.random.Generator) -> pd.DataFrame:
@@ -80,5 +79,9 @@ def inject_noise(
     noisy["altered_attribute"] = mia
     noisy["noise_level"] = float(noise_level)
 
+    # Write to a temp file, then rename: an interrupted run must never leave a
+    # truncated CSV that `resume` would treat as finished.
     ensure_parent(out_path)
-    noisy.to_csv(out_path, index=False)
+    tmp_path = out_path.with_name(out_path.name + ".tmp")
+    noisy.to_csv(tmp_path, index=False)
+    os.replace(tmp_path, out_path)

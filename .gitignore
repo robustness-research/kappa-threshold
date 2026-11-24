@@ -10,3 +10,10 @@
 
 # Log files
 *.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/

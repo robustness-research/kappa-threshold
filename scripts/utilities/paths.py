@@ -38,7 +38,7 @@ NOISE_INJECTION_BY_DATASET_DIR = RESULTS_DIR / "noise_injection" / "by_dataset"
 
 
 def noise_injection_csv(dataset: str, mia_feature: str, noise_level: float) -> Path:
-    return NOISE_INJECTION_BY_DATASET_DIR / f"{dataset}_{mia_feature}_noise{noise_level}.csv"
+    return NOISE_INJECTION_BY_DATASET_DIR / f"{dataset}_{mia_feature}_noise{noise_level:g}.csv"
 
 
 # --- Instance-noise injection ---
