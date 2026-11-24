@@ -1,0 +1,6 @@
+dataset_name,most_important_attribute
+liver-disorders,gammagt
+liver-disorders,sgot
+liver-disorders,sgpt
+liver-disorders,drinks
+liver-disorders,mcv
